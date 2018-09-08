@@ -1,0 +1,15655 @@
+	.file	"AsyncTest.cpp"
+	.section	.text.unlikely._ZN7testing4Test13SetUpTestCaseEv,"axG",@progbits,_ZN7testing4Test13SetUpTestCaseEv,comdat
+.LCOLDB0:
+	.section	.text._ZN7testing4Test13SetUpTestCaseEv,"axG",@progbits,_ZN7testing4Test13SetUpTestCaseEv,comdat
+.LHOTB0:
+	.p2align 4,,15
+	.weak	_ZN7testing4Test13SetUpTestCaseEv
+	.type	_ZN7testing4Test13SetUpTestCaseEv, @function
+_ZN7testing4Test13SetUpTestCaseEv:
+.LFB6761:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE6761:
+	.size	_ZN7testing4Test13SetUpTestCaseEv, .-_ZN7testing4Test13SetUpTestCaseEv
+	.section	.text.unlikely._ZN7testing4Test13SetUpTestCaseEv,"axG",@progbits,_ZN7testing4Test13SetUpTestCaseEv,comdat
+.LCOLDE0:
+	.section	.text._ZN7testing4Test13SetUpTestCaseEv,"axG",@progbits,_ZN7testing4Test13SetUpTestCaseEv,comdat
+.LHOTE0:
+	.section	.text.unlikely._ZN7testing4Test16TearDownTestCaseEv,"axG",@progbits,_ZN7testing4Test16TearDownTestCaseEv,comdat
+.LCOLDB1:
+	.section	.text._ZN7testing4Test16TearDownTestCaseEv,"axG",@progbits,_ZN7testing4Test16TearDownTestCaseEv,comdat
+.LHOTB1:
+	.p2align 4,,15
+	.weak	_ZN7testing4Test16TearDownTestCaseEv
+	.type	_ZN7testing4Test16TearDownTestCaseEv, @function
+_ZN7testing4Test16TearDownTestCaseEv:
+.LFB6762:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE6762:
+	.size	_ZN7testing4Test16TearDownTestCaseEv, .-_ZN7testing4Test16TearDownTestCaseEv
+	.section	.text.unlikely._ZN7testing4Test16TearDownTestCaseEv,"axG",@progbits,_ZN7testing4Test16TearDownTestCaseEv,comdat
+.LCOLDE1:
+	.section	.text._ZN7testing4Test16TearDownTestCaseEv,"axG",@progbits,_ZN7testing4Test16TearDownTestCaseEv,comdat
+.LHOTE1:
+	.section	.text.unlikely._ZN7testing4Test5SetupEv,"axG",@progbits,_ZN7testing4Test5SetupEv,comdat
+	.align 2
+.LCOLDB2:
+	.section	.text._ZN7testing4Test5SetupEv,"axG",@progbits,_ZN7testing4Test5SetupEv,comdat
+.LHOTB2:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZN7testing4Test5SetupEv
+	.type	_ZN7testing4Test5SetupEv, @function
+_ZN7testing4Test5SetupEv:
+.LFB6765:
+	.cfi_startproc
+	xorl	%eax, %eax
+	ret
+	.cfi_endproc
+.LFE6765:
+	.size	_ZN7testing4Test5SetupEv, .-_ZN7testing4Test5SetupEv
+	.section	.text.unlikely._ZN7testing4Test5SetupEv,"axG",@progbits,_ZN7testing4Test5SetupEv,comdat
+.LCOLDE2:
+	.section	.text._ZN7testing4Test5SetupEv,"axG",@progbits,_ZN7testing4Test5SetupEv,comdat
+.LHOTE2:
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV217_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv,comdat
+	.align 2
+.LCOLDB3:
+	.section	.text._ZNSt13__future_base13_State_baseV217_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv,comdat
+.LHOTB3:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv
+	.type	_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv, @function
+_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv:
+.LFB9523:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE9523:
+	.size	_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv, .-_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV217_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv,comdat
+.LCOLDE3:
+	.section	.text._ZNSt13__future_base13_State_baseV217_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv,comdat
+.LHOTE3:
+	.section	.text.unlikely._ZNKSt13__future_base13_State_baseV215_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv,comdat
+	.align 2
+.LCOLDB4:
+	.section	.text._ZNKSt13__future_base13_State_baseV215_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv,comdat
+.LHOTB4:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv
+	.type	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv, @function
+_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv:
+.LFB9524:
+	.cfi_startproc
+	xorl	%eax, %eax
+	ret
+	.cfi_endproc
+.LFE9524:
+	.size	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv, .-_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv
+	.section	.text.unlikely._ZNKSt13__future_base13_State_baseV215_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv,comdat
+.LCOLDE4:
+	.section	.text._ZNKSt13__future_base13_State_baseV215_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv,comdat
+.LHOTE4:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultIvE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultIvE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB5:
+	.section	.text._ZNSt13__future_base7_ResultIvE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultIvE10_M_destroyEv,comdat
+.LHOTB5:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultIvE10_M_destroyEv
+	.type	_ZNSt13__future_base7_ResultIvE10_M_destroyEv, @function
+_ZNSt13__future_base7_ResultIvE10_M_destroyEv:
+.LFB9530:
+	.cfi_startproc
+	testq	%rdi, %rdi
+	je	.L6
+	movq	(%rdi), %rax
+	movq	16(%rax), %rax
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L6:
+	rep; ret
+	.cfi_endproc
+.LFE9530:
+	.size	_ZNSt13__future_base7_ResultIvE10_M_destroyEv, .-_ZNSt13__future_base7_ResultIvE10_M_destroyEv
+	.section	.text.unlikely._ZNSt13__future_base7_ResultIvE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultIvE10_M_destroyEv,comdat
+.LCOLDE5:
+	.section	.text._ZNSt13__future_base7_ResultIvE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultIvE10_M_destroyEv,comdat
+.LHOTE5:
+	.section	.text.unlikely._Z9Factorialm,"axG",@progbits,_Z9Factorialm,comdat
+.LCOLDB6:
+	.section	.text._Z9Factorialm,"axG",@progbits,_Z9Factorialm,comdat
+.LHOTB6:
+	.p2align 4,,15
+	.weak	_Z9Factorialm
+	.type	_Z9Factorialm, @function
+_Z9Factorialm:
+.LFB9722:
+	.cfi_startproc
+	cmpq	$1, %rdi
+	jbe	.L11
+	imulq	%rdi, %rdi
+	leaq	-1(%rdi), %rax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L11:
+	movl	$1, %eax
+	ret
+	.cfi_endproc
+.LFE9722:
+	.size	_Z9Factorialm, .-_Z9Factorialm
+	.section	.text.unlikely._Z9Factorialm,"axG",@progbits,_Z9Factorialm,comdat
+.LCOLDE6:
+	.section	.text._Z9Factorialm,"axG",@progbits,_Z9Factorialm,comdat
+.LHOTE6:
+	.section	.text.unlikely._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB7:
+	.section	.text._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTB7:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.type	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB11205:
+	.cfi_startproc
+	testq	%rdi, %rdi
+	je	.L12
+	movq	(%rdi), %rax
+	movq	8(%rax), %rax
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L12:
+	rep; ret
+	.cfi_endproc
+.LFE11205:
+	.size	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LCOLDE7:
+	.section	.text._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTE7:
+	.section	.text.unlikely._ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,comdat
+.LCOLDB8:
+	.section	.text._ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,comdat
+.LHOTB8:
+	.p2align 4,,15
+	.weak	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation
+	.type	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation, @function
+_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation:
+.LFB12995:
+	.cfi_startproc
+	testl	%edx, %edx
+	je	.L16
+	cmpl	$1, %edx
+	jne	.L27
+	movq	(%rsi), %rax
+	movq	%rax, (%rdi)
+.L18:
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L27:
+	cmpl	$2, %edx
+	je	.L20
+	testl	%edx, %edx
+	jne	.L18
+	movq	$_ZTIPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, (%rdi)
+	jmp	.L18
+	.p2align 4,,10
+	.p2align 3
+.L16:
+	movq	$_ZTISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, (%rdi)
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L20:
+	testq	%rdi, %rdi
+	movq	(%rsi), %rax
+	je	.L18
+	movq	%rax, (%rdi)
+	jmp	.L18
+	.cfi_endproc
+.LFE12995:
+	.size	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation, .-_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation
+	.section	.text.unlikely._ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,comdat
+.LCOLDE8:
+	.section	.text._ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,comdat
+.LHOTE8:
+	.section	.text.unlikely._ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDB9:
+	.section	.text._ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTB9:
+	.p2align 4,,15
+	.weak	_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data
+	.type	_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data, @function
+_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data:
+.LFB13033:
+	.cfi_startproc
+	movq	(%rdi), %rax
+	movslq	(%rax), %rdi
+	movq	8(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13033:
+	.size	_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data, .-_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data
+	.section	.text.unlikely._ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDE9:
+	.section	.text._ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTE9:
+	.section	.text.unlikely._ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,comdat
+.LCOLDB10:
+	.section	.text._ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,comdat
+.LHOTB10:
+	.p2align 4,,15
+	.weak	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation
+	.type	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation, @function
+_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation:
+.LFB13034:
+	.cfi_startproc
+	testl	%edx, %edx
+	je	.L31
+	cmpl	$1, %edx
+	jne	.L42
+	movq	(%rsi), %rax
+	movq	%rax, (%rdi)
+.L33:
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L42:
+	cmpl	$2, %edx
+	je	.L35
+	testl	%edx, %edx
+	jne	.L33
+	movq	$_ZTIPSt12_Bind_simpleIFPFmmEiEE, (%rdi)
+	jmp	.L33
+	.p2align 4,,10
+	.p2align 3
+.L31:
+	movq	$_ZTISt12_Bind_simpleIFPFmmEiEE, (%rdi)
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L35:
+	testq	%rdi, %rdi
+	movq	(%rsi), %rax
+	je	.L33
+	movq	%rax, (%rdi)
+	jmp	.L33
+	.cfi_endproc
+.LFE13034:
+	.size	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation, .-_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation
+	.section	.text.unlikely._ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,comdat
+.LCOLDE10:
+	.section	.text._ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation,comdat
+.LHOTE10:
+	.section	.text.unlikely,"ax",@progbits
+.LCOLDB11:
+	.text
+.LHOTB11:
+	.p2align 4,,15
+	.type	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation, @function
+_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation:
+.LFB13070:
+	.cfi_startproc
+	testl	%edx, %edx
+	je	.L45
+	cmpl	$1, %edx
+	jne	.L56
+	movq	(%rsi), %rax
+	movq	%rax, (%rdi)
+.L47:
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L56:
+	cmpl	$2, %edx
+	je	.L49
+	testl	%edx, %edx
+	jne	.L47
+	movq	$_ZTIPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, (%rdi)
+	jmp	.L47
+	.p2align 4,,10
+	.p2align 3
+.L45:
+	movq	$_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, (%rdi)
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L49:
+	testq	%rdi, %rdi
+	movq	(%rsi), %rax
+	je	.L47
+	movq	%rax, (%rdi)
+	jmp	.L47
+	.cfi_endproc
+.LFE13070:
+	.size	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation, .-_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation
+	.section	.text.unlikely
+.LCOLDE11:
+	.text
+.LHOTE11:
+	.section	.text.unlikely
+.LCOLDB12:
+	.text
+.LHOTB12:
+	.p2align 4,,15
+	.type	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation, @function
+_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation:
+.LFB13106:
+	.cfi_startproc
+	testl	%edx, %edx
+	je	.L59
+	cmpl	$1, %edx
+	jne	.L70
+	movq	(%rsi), %rax
+	movq	%rax, (%rdi)
+.L61:
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L70:
+	cmpl	$2, %edx
+	je	.L63
+	testl	%edx, %edx
+	jne	.L61
+	movq	$_ZTIPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, (%rdi)
+	jmp	.L61
+	.p2align 4,,10
+	.p2align 3
+.L59:
+	movq	$_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, (%rdi)
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L63:
+	testq	%rdi, %rdi
+	movq	(%rsi), %rax
+	je	.L61
+	movq	%rax, (%rdi)
+	jmp	.L61
+	.cfi_endproc
+.LFE13106:
+	.size	_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation, .-_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation
+	.section	.text.unlikely
+.LCOLDE12:
+	.text
+.LHOTE12:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB13:
+	.text
+.LHOTB13:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED2Ev, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED2Ev:
+.LFB13623:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13623:
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED2Ev, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED2Ev
+	.section	.text.unlikely
+.LCOLDE13:
+	.text
+.LHOTE13:
+	.set	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED1Ev,_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB14:
+	.text
+.LHOTB14:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED2Ev, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED2Ev:
+.LFB13631:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13631:
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED2Ev, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED2Ev
+	.section	.text.unlikely
+.LCOLDE14:
+	.text
+.LHOTE14:
+	.set	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED1Ev,_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB15:
+	.text
+.LHOTB15:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED2Ev, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED2Ev:
+.LFB13639:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13639:
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED2Ev, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED2Ev
+	.section	.text.unlikely
+.LCOLDE15:
+	.text
+.LHOTE15:
+	.set	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED1Ev,_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB16:
+	.text
+.LHOTB16:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13688:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13688:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+.LCOLDE16:
+	.text
+.LHOTE16:
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB17:
+	.text
+.LHOTB17:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13695:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13695:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+.LCOLDE17:
+	.text
+.LHOTE17:
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB18:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB18:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13702:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13702:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE18:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE18:
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.align 2
+.LCOLDB19:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTB19:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13705:
+	.cfi_startproc
+	movq	%rdi, %rax
+	leaq	16(%rdi), %rdi
+	movq	16(%rax), %rax
+	movq	(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13705:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LCOLDE19:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTE19:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB20:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB20:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13709:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13709:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE20:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE20:
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.align 2
+.LCOLDB21:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTB21:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13712:
+	.cfi_startproc
+	movq	%rdi, %rax
+	leaq	16(%rdi), %rdi
+	movq	16(%rax), %rax
+	movq	(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13712:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LCOLDE21:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTE21:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB22:
+	.text
+.LHOTB22:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13720:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13720:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+.LCOLDE22:
+	.text
+.LHOTE22:
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB23:
+	.text
+.LHOTB23:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13727:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13727:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+.LCOLDE23:
+	.text
+.LHOTE23:
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB24:
+	.text
+.LHOTB24:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13734:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13734:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+.LCOLDE24:
+	.text
+.LHOTE24:
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB25:
+	.text
+.LHOTB25:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13741:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13741:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely
+.LCOLDE25:
+	.text
+.LHOTE25:
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB26:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB26:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13748:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13748:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE26:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE26:
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB27:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB27:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13755:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13755:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE27:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE27:
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB28:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB28:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13762:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13762:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE28:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE28:
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB29:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB29:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13769:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13769:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE29:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE29:
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB30:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB30:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev:
+.LFB13776:
+	.cfi_startproc
+	rep; ret
+	.cfi_endproc
+.LFE13776:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE30:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE30:
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.set	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED1Ev,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.align 2
+.LCOLDB31:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTB31:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13779:
+	.cfi_startproc
+	movq	%rdi, %rax
+	leaq	16(%rdi), %rdi
+	movq	16(%rax), %rax
+	movq	(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13779:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LCOLDE31:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTE31:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB32:
+	.text
+.LHOTB32:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv, @function
+_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv:
+.LFB13796:
+	.cfi_startproc
+	cmpq	$0, 112(%rdi)
+	setne	%al
+	ret
+	.cfi_endproc
+.LFE13796:
+	.size	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv, .-_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv
+	.section	.text.unlikely
+.LCOLDE32:
+	.text
+.LHOTE32:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB33:
+	.text
+.LHOTB33:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv, @function
+_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv:
+.LFB13802:
+	.cfi_startproc
+	cmpq	$0, 112(%rdi)
+	setne	%al
+	ret
+	.cfi_endproc
+.LFE13802:
+	.size	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv, .-_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv
+	.section	.text.unlikely
+.LCOLDE33:
+	.text
+.LHOTE33:
+	.section	.text.unlikely._ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv,comdat
+	.align 2
+.LCOLDB34:
+	.section	.text._ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv,comdat
+.LHOTB34:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv
+	.type	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv, @function
+_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv:
+.LFB13808:
+	.cfi_startproc
+	cmpq	$0, 112(%rdi)
+	setne	%al
+	ret
+	.cfi_endproc
+.LFE13808:
+	.size	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv, .-_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv
+	.section	.text.unlikely._ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv,comdat
+.LCOLDE34:
+	.section	.text._ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv,comdat
+.LHOTE34:
+	.section	.text.unlikely._ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv,comdat
+	.align 2
+.LCOLDB35:
+	.section	.text._ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv,comdat
+.LHOTB35:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv
+	.type	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv, @function
+_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv:
+.LFB13814:
+	.cfi_startproc
+	cmpq	$0, 112(%rdi)
+	setne	%al
+	ret
+	.cfi_endproc
+.LFE13814:
+	.size	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv, .-_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv
+	.section	.text.unlikely._ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv,comdat
+.LCOLDE35:
+	.section	.text._ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv,"axG",@progbits,_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv,comdat
+.LHOTE35:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB36:
+	.text
+.LHOTB36:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED0Ev, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED0Ev:
+.LFB13641:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13641:
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED0Ev, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED0Ev
+	.section	.text.unlikely
+.LCOLDE36:
+	.text
+.LHOTE36:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB37:
+	.text
+.LHOTB37:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED0Ev, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED0Ev:
+.LFB13633:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13633:
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED0Ev, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED0Ev
+	.section	.text.unlikely
+.LCOLDE37:
+	.text
+.LHOTE37:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB38:
+	.text
+.LHOTB38:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED0Ev, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED0Ev:
+.LFB13625:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13625:
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED0Ev, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED0Ev
+	.section	.text.unlikely
+.LCOLDE38:
+	.text
+.LHOTE38:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB39:
+	.text
+.LHOTB39:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13743:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13743:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely
+.LCOLDE39:
+	.text
+.LHOTE39:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB40:
+	.text
+.LHOTB40:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13745:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13745:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely
+.LCOLDE40:
+	.text
+.LHOTE40:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB41:
+	.text
+.LHOTB41:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13697:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13697:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely
+.LCOLDE41:
+	.text
+.LHOTE41:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB42:
+	.text
+.LHOTB42:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13699:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13699:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely
+.LCOLDE42:
+	.text
+.LHOTE42:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB43:
+	.text
+.LHOTB43:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13736:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13736:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely
+.LCOLDE43:
+	.text
+.LHOTE43:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB44:
+	.text
+.LHOTB44:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13738:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13738:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely
+.LCOLDE44:
+	.text
+.LHOTE44:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB45:
+	.text
+.LHOTB45:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13729:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13729:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely
+.LCOLDE45:
+	.text
+.LHOTE45:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB46:
+	.text
+.LHOTB46:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13731:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13731:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely
+.LCOLDE46:
+	.text
+.LHOTE46:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB47:
+	.text
+.LHOTB47:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13690:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13690:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely
+.LCOLDE47:
+	.text
+.LHOTE47:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB48:
+	.text
+.LHOTB48:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13692:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13692:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely
+.LCOLDE48:
+	.text
+.LHOTE48:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB49:
+	.text
+.LHOTB49:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13722:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13722:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely
+.LCOLDE49:
+	.text
+.LHOTE49:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB50:
+	.text
+.LHOTB50:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13724:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13724:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely
+.LCOLDE50:
+	.text
+.LHOTE50:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB51:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB51:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13778:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13778:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE51:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE51:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB52:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB52:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13771:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13771:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE52:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE52:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB53:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB53:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13764:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13764:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE53:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE53:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB54:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB54:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13757:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13757:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE54:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE54:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB55:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB55:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13750:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13750:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE55:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE55:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB56:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB56:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13711:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13711:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE56:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE56:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+	.align 2
+.LCOLDB57:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTB57:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev:
+.LFB13704:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13704:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LCOLDE57:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED5Ev,comdat
+.LHOTE57:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB58:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTB58:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13706:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13706:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LCOLDE58:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTE58:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB59:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTB59:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13713:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13713:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LCOLDE59:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTE59:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB60:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTB60:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13752:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13752:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LCOLDE60:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTE60:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB61:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTB61:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13759:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13759:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LCOLDE61:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTE61:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB62:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTB62:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13766:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13766:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LCOLDE62:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTE62:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB63:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTB63:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13773:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13773:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LCOLDE63:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTE63:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB64:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTB64:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv:
+.LFB13780:
+	.cfi_startproc
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13780:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LCOLDE64:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv,comdat
+.LHOTE64:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB65:
+	.text
+.LHOTB65:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEE10CreateTestEv, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEE10CreateTestEv:
+.LFB13836:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13836
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movl	$16, %edi
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+.LEHB0:
+	call	_Znwm
+.LEHE0:
+	movq	%rax, %rdi
+	movq	%rax, %rbx
+.LEHB1:
+	call	_ZN7testing4TestC2Ev
+.LEHE1:
+	movq	$_ZTVN12_GLOBAL__N_120Async_Constexpr_TestE+16, (%rbx)
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbx, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L125:
+	.cfi_restore_state
+	movq	%rax, %rbp
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	movq	%rbp, %rdi
+.LEHB2:
+	call	_Unwind_Resume
+.LEHE2:
+	.cfi_endproc
+.LFE13836:
+	.globl	__gxx_personality_v0
+	.section	.gcc_except_table,"a",@progbits
+.LLSDA13836:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13836-.LLSDACSB13836
+.LLSDACSB13836:
+	.uleb128 .LEHB0-.LFB13836
+	.uleb128 .LEHE0-.LEHB0
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB1-.LFB13836
+	.uleb128 .LEHE1-.LEHB1
+	.uleb128 .L125-.LFB13836
+	.uleb128 0
+	.uleb128 .LEHB2-.LFB13836
+	.uleb128 .LEHE2-.LEHB2
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13836:
+	.text
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEE10CreateTestEv, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEE10CreateTestEv
+	.section	.text.unlikely
+.LCOLDE65:
+	.text
+.LHOTE65:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB66:
+	.text
+.LHOTB66:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEE10CreateTestEv, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEE10CreateTestEv:
+.LFB13835:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13835
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movl	$16, %edi
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+.LEHB3:
+	call	_Znwm
+.LEHE3:
+	movq	%rax, %rdi
+	movq	%rax, %rbx
+.LEHB4:
+	call	_ZN7testing4TestC2Ev
+.LEHE4:
+	movq	$_ZTVN12_GLOBAL__N_117Async_Future_TestE+16, (%rbx)
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbx, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L132:
+	.cfi_restore_state
+	movq	%rax, %rbp
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	movq	%rbp, %rdi
+.LEHB5:
+	call	_Unwind_Resume
+.LEHE5:
+	.cfi_endproc
+.LFE13835:
+	.section	.gcc_except_table
+.LLSDA13835:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13835-.LLSDACSB13835
+.LLSDACSB13835:
+	.uleb128 .LEHB3-.LFB13835
+	.uleb128 .LEHE3-.LEHB3
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB4-.LFB13835
+	.uleb128 .LEHE4-.LEHB4
+	.uleb128 .L132-.LFB13835
+	.uleb128 0
+	.uleb128 .LEHB5-.LFB13835
+	.uleb128 .LEHE5-.LEHB5
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13835:
+	.text
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEE10CreateTestEv, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEE10CreateTestEv
+	.section	.text.unlikely
+.LCOLDE66:
+	.text
+.LHOTE66:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB67:
+	.text
+.LHOTB67:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEE10CreateTestEv, @function
+_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEE10CreateTestEv:
+.LFB13834:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13834
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movl	$16, %edi
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+.LEHB6:
+	call	_Znwm
+.LEHE6:
+	movq	%rax, %rdi
+	movq	%rax, %rbx
+.LEHB7:
+	call	_ZN7testing4TestC2Ev
+.LEHE7:
+	movq	$_ZTVN12_GLOBAL__N_118Async_Promise_TestE+16, (%rbx)
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbx, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L139:
+	.cfi_restore_state
+	movq	%rax, %rbp
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	movq	%rbp, %rdi
+.LEHB8:
+	call	_Unwind_Resume
+.LEHE8:
+	.cfi_endproc
+.LFE13834:
+	.section	.gcc_except_table
+.LLSDA13834:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13834-.LLSDACSB13834
+.LLSDACSB13834:
+	.uleb128 .LEHB6-.LFB13834
+	.uleb128 .LEHE6-.LEHB6
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB7-.LFB13834
+	.uleb128 .LEHE7-.LEHB7
+	.uleb128 .L139-.LFB13834
+	.uleb128 0
+	.uleb128 .LEHB8-.LFB13834
+	.uleb128 .LEHE8-.LEHB8
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13834:
+	.text
+	.size	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEE10CreateTestEv, .-_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEE10CreateTestEv
+	.section	.text.unlikely
+.LCOLDE67:
+	.text
+.LHOTE67:
+	.section	.rodata.str1.1,"aMS",@progbits,1
+.LC68:
+	.string	"result is %llu\n"
+	.section	.text.unlikely
+	.align 2
+.LCOLDB69:
+	.text
+.LHOTB69:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_120Async_Constexpr_Test8TestBodyEv, @function
+_ZN12_GLOBAL__N_120Async_Constexpr_Test8TestBodyEv:
+.LFB9729:
+	.cfi_startproc
+	movl	$15, %esi
+	movl	$.LC68, %edi
+	xorl	%eax, %eax
+	jmp	printf
+	.cfi_endproc
+.LFE9729:
+	.size	_ZN12_GLOBAL__N_120Async_Constexpr_Test8TestBodyEv, .-_ZN12_GLOBAL__N_120Async_Constexpr_Test8TestBodyEv
+	.section	.text.unlikely
+.LCOLDE69:
+	.text
+.LHOTE69:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB70:
+	.text
+.LHOTB70:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_120Async_Constexpr_TestD2Ev, @function
+_ZN12_GLOBAL__N_120Async_Constexpr_TestD2Ev:
+.LFB13635:
+	.cfi_startproc
+	movq	$_ZTVN12_GLOBAL__N_120Async_Constexpr_TestE+16, (%rdi)
+	jmp	_ZN7testing4TestD2Ev
+	.cfi_endproc
+.LFE13635:
+	.size	_ZN12_GLOBAL__N_120Async_Constexpr_TestD2Ev, .-_ZN12_GLOBAL__N_120Async_Constexpr_TestD2Ev
+	.section	.text.unlikely
+.LCOLDE70:
+	.text
+.LHOTE70:
+	.set	_ZN12_GLOBAL__N_120Async_Constexpr_TestD1Ev,_ZN12_GLOBAL__N_120Async_Constexpr_TestD2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB71:
+	.text
+.LHOTB71:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_120Async_Constexpr_TestD0Ev, @function
+_ZN12_GLOBAL__N_120Async_Constexpr_TestD0Ev:
+.LFB13637:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVN12_GLOBAL__N_120Async_Constexpr_TestE+16, (%rdi)
+	call	_ZN7testing4TestD2Ev
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13637:
+	.size	_ZN12_GLOBAL__N_120Async_Constexpr_TestD0Ev, .-_ZN12_GLOBAL__N_120Async_Constexpr_TestD0Ev
+	.section	.text.unlikely
+.LCOLDE71:
+	.text
+.LHOTE71:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB72:
+	.text
+.LHOTB72:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_117Async_Future_TestD2Ev, @function
+_ZN12_GLOBAL__N_117Async_Future_TestD2Ev:
+.LFB13627:
+	.cfi_startproc
+	movq	$_ZTVN12_GLOBAL__N_117Async_Future_TestE+16, (%rdi)
+	jmp	_ZN7testing4TestD2Ev
+	.cfi_endproc
+.LFE13627:
+	.size	_ZN12_GLOBAL__N_117Async_Future_TestD2Ev, .-_ZN12_GLOBAL__N_117Async_Future_TestD2Ev
+	.section	.text.unlikely
+.LCOLDE72:
+	.text
+.LHOTE72:
+	.set	_ZN12_GLOBAL__N_117Async_Future_TestD1Ev,_ZN12_GLOBAL__N_117Async_Future_TestD2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB73:
+	.text
+.LHOTB73:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_117Async_Future_TestD0Ev, @function
+_ZN12_GLOBAL__N_117Async_Future_TestD0Ev:
+.LFB13629:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVN12_GLOBAL__N_117Async_Future_TestE+16, (%rdi)
+	call	_ZN7testing4TestD2Ev
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13629:
+	.size	_ZN12_GLOBAL__N_117Async_Future_TestD0Ev, .-_ZN12_GLOBAL__N_117Async_Future_TestD0Ev
+	.section	.text.unlikely
+.LCOLDE73:
+	.text
+.LHOTE73:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB74:
+	.text
+.LHOTB74:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_118Async_Promise_TestD2Ev, @function
+_ZN12_GLOBAL__N_118Async_Promise_TestD2Ev:
+.LFB13619:
+	.cfi_startproc
+	movq	$_ZTVN12_GLOBAL__N_118Async_Promise_TestE+16, (%rdi)
+	jmp	_ZN7testing4TestD2Ev
+	.cfi_endproc
+.LFE13619:
+	.size	_ZN12_GLOBAL__N_118Async_Promise_TestD2Ev, .-_ZN12_GLOBAL__N_118Async_Promise_TestD2Ev
+	.section	.text.unlikely
+.LCOLDE74:
+	.text
+.LHOTE74:
+	.set	_ZN12_GLOBAL__N_118Async_Promise_TestD1Ev,_ZN12_GLOBAL__N_118Async_Promise_TestD2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB75:
+	.text
+.LHOTB75:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_118Async_Promise_TestD0Ev, @function
+_ZN12_GLOBAL__N_118Async_Promise_TestD0Ev:
+.LFB13621:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVN12_GLOBAL__N_118Async_Promise_TestE+16, (%rdi)
+	call	_ZN7testing4TestD2Ev
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13621:
+	.size	_ZN12_GLOBAL__N_118Async_Promise_TestD0Ev, .-_ZN12_GLOBAL__N_118Async_Promise_TestD0Ev
+	.section	.text.unlikely
+.LCOLDE75:
+	.text
+.LHOTE75:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultIvED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultIvED5Ev,comdat
+	.align 2
+.LCOLDB76:
+	.section	.text._ZNSt13__future_base7_ResultIvED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultIvED5Ev,comdat
+.LHOTB76:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultIvED2Ev
+	.type	_ZNSt13__future_base7_ResultIvED2Ev, @function
+_ZNSt13__future_base7_ResultIvED2Ev:
+.LFB13643:
+	.cfi_startproc
+	movq	$_ZTVNSt13__future_base7_ResultIvEE+16, (%rdi)
+	jmp	_ZNSt13__future_base12_Result_baseD2Ev
+	.cfi_endproc
+.LFE13643:
+	.size	_ZNSt13__future_base7_ResultIvED2Ev, .-_ZNSt13__future_base7_ResultIvED2Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultIvED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultIvED5Ev,comdat
+.LCOLDE76:
+	.section	.text._ZNSt13__future_base7_ResultIvED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultIvED5Ev,comdat
+.LHOTE76:
+	.weak	_ZNSt13__future_base7_ResultIvED1Ev
+	.set	_ZNSt13__future_base7_ResultIvED1Ev,_ZNSt13__future_base7_ResultIvED2Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultIvED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultIvED5Ev,comdat
+	.align 2
+.LCOLDB77:
+	.section	.text._ZNSt13__future_base7_ResultIvED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultIvED5Ev,comdat
+.LHOTB77:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultIvED0Ev
+	.type	_ZNSt13__future_base7_ResultIvED0Ev, @function
+_ZNSt13__future_base7_ResultIvED0Ev:
+.LFB13645:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base7_ResultIvEE+16, (%rdi)
+	call	_ZNSt13__future_base12_Result_baseD2Ev
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13645:
+	.size	_ZNSt13__future_base7_ResultIvED0Ev, .-_ZNSt13__future_base7_ResultIvED0Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultIvED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultIvED5Ev,comdat
+.LCOLDE77:
+	.section	.text._ZNSt13__future_base7_ResultIvED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultIvED5Ev,comdat
+.LHOTE77:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultImED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultImED5Ev,comdat
+	.align 2
+.LCOLDB78:
+	.section	.text._ZNSt13__future_base7_ResultImED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultImED5Ev,comdat
+.LHOTB78:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultImED2Ev
+	.type	_ZNSt13__future_base7_ResultImED2Ev, @function
+_ZNSt13__future_base7_ResultImED2Ev:
+.LFB13831:
+	.cfi_startproc
+	movq	$_ZTVNSt13__future_base7_ResultImEE+16, (%rdi)
+	jmp	_ZNSt13__future_base12_Result_baseD2Ev
+	.cfi_endproc
+.LFE13831:
+	.size	_ZNSt13__future_base7_ResultImED2Ev, .-_ZNSt13__future_base7_ResultImED2Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultImED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultImED5Ev,comdat
+.LCOLDE78:
+	.section	.text._ZNSt13__future_base7_ResultImED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultImED5Ev,comdat
+.LHOTE78:
+	.weak	_ZNSt13__future_base7_ResultImED1Ev
+	.set	_ZNSt13__future_base7_ResultImED1Ev,_ZNSt13__future_base7_ResultImED2Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultImED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultImED5Ev,comdat
+	.align 2
+.LCOLDB79:
+	.section	.text._ZNSt13__future_base7_ResultImED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultImED5Ev,comdat
+.LHOTB79:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultImED0Ev
+	.type	_ZNSt13__future_base7_ResultImED0Ev, @function
+_ZNSt13__future_base7_ResultImED0Ev:
+.LFB13833:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base7_ResultImEE+16, (%rdi)
+	call	_ZNSt13__future_base12_Result_baseD2Ev
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13833:
+	.size	_ZNSt13__future_base7_ResultImED0Ev, .-_ZNSt13__future_base7_ResultImED0Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultImED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultImED5Ev,comdat
+.LCOLDE79:
+	.section	.text._ZNSt13__future_base7_ResultImED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultImED5Ev,comdat
+.LHOTE79:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED5Ev,comdat
+	.align 2
+.LCOLDB80:
+	.section	.text._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED5Ev,comdat
+.LHOTB80:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.type	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, @function
+_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev:
+.LFB13821:
+	.cfi_startproc
+	movq	$_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	jmp	_ZNSt13__future_base12_Result_baseD2Ev
+	.cfi_endproc
+.LFE13821:
+	.size	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, .-_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED5Ev,comdat
+.LCOLDE80:
+	.section	.text._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED5Ev,comdat
+.LHOTE80:
+	.weak	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev
+	.set	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED5Ev,comdat
+	.align 2
+.LCOLDB81:
+	.section	.text._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED5Ev,comdat
+.LHOTB81:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.type	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, @function
+_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev:
+.LFB13823:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	call	_ZNSt13__future_base12_Result_baseD2Ev
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13823:
+	.size	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, .-_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED5Ev,comdat
+.LCOLDE81:
+	.section	.text._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED5Ev,comdat
+.LHOTE81:
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV2D2Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+	.align 2
+.LCOLDB82:
+	.section	.text._ZNSt13__future_base13_State_baseV2D2Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+.LHOTB82:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base13_State_baseV2D2Ev
+	.type	_ZNSt13__future_base13_State_baseV2D2Ev, @function
+_ZNSt13__future_base13_State_baseV2D2Ev:
+.LFB12512:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12512
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rdi)
+	movq	%rdi, %rbx
+	leaq	56(%rdi), %rdi
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L163
+	movq	(%rdi), %rax
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	movq	(%rax), %rax
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L163:
+	.cfi_restore_state
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.cfi_endproc
+.LFE12512:
+	.section	.gcc_except_table
+.LLSDA12512:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE12512-.LLSDACSB12512
+.LLSDACSB12512:
+.LLSDACSE12512:
+	.section	.text._ZNSt13__future_base13_State_baseV2D2Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+	.size	_ZNSt13__future_base13_State_baseV2D2Ev, .-_ZNSt13__future_base13_State_baseV2D2Ev
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV2D2Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+.LCOLDE82:
+	.section	.text._ZNSt13__future_base13_State_baseV2D2Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+.LHOTE82:
+	.weak	_ZNSt13__future_base13_State_baseV2D1Ev
+	.set	_ZNSt13__future_base13_State_baseV2D1Ev,_ZNSt13__future_base13_State_baseV2D2Ev
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDB83:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTB83:
+	.p2align 4,,15
+	.weak	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data
+	.type	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data, @function
+_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data:
+.LFB10848:
+	.cfi_startproc
+	movq	(%rsi), %rax
+	movq	(%rax), %rdx
+	cmpq	$0, (%rdx)
+	je	.L169
+	movq	16(%rdx), %rax
+	movq	$0, 16(%rdx)
+	movq	%rax, (%rdi)
+	movq	%rdi, %rax
+	ret
+.L169:
+	pushq	%rax
+	.cfi_def_cfa_offset 16
+	movl	$3, %edi
+	call	_ZSt20__throw_future_errori
+	.cfi_endproc
+.LFE10848:
+	.size	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data, .-_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDE83:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTE83:
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDB84:
+	.section	.text._ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTB84:
+	.p2align 4,,15
+	.weak	_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data
+	.type	_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data, @function
+_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data:
+.LFB12994:
+	.cfi_startproc
+	pushq	%r12
+	.cfi_def_cfa_offset 16
+	.cfi_offset 12, -16
+	pushq	%rbp
+	.cfi_def_cfa_offset 24
+	.cfi_offset 6, -24
+	xorl	%ebp, %ebp
+	pushq	%rbx
+	.cfi_def_cfa_offset 32
+	.cfi_offset 3, -32
+	movq	(%rsi), %rbx
+	movq	%rdi, %r12
+	movl	8(%rbx), %eax
+	testl	%eax, %eax
+	jle	.L172
+	.p2align 4,,10
+	.p2align 3
+.L174:
+	movq	%rbx, %rsi
+	movq	%rbx, %rdi
+	addl	$1, %ebp
+	call	_ZNSs6appendERKSs
+	cmpl	8(%rbx), %ebp
+	jl	.L174
+.L172:
+	movq	%rbx, %rsi
+	movq	%r12, %rdi
+	call	_ZNSsC1ERKSs
+	movq	%r12, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 24
+	popq	%rbp
+	.cfi_def_cfa_offset 16
+	popq	%r12
+	.cfi_def_cfa_offset 8
+	ret
+	.cfi_endproc
+.LFE12994:
+	.size	_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data, .-_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDE84:
+	.section	.text._ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTE84:
+	.section	.text.unlikely._ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation,comdat
+.LCOLDB85:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation,comdat
+.LHOTB85:
+	.p2align 4,,15
+	.weak	_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation
+	.type	_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation, @function
+_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation:
+.LFB10849:
+	.cfi_startproc
+	cmpl	$1, %edx
+	je	.L179
+	jle	.L186
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	cmpl	$2, %edx
+	je	.L182
+	cmpl	$3, %edx
+	jne	.L178
+	movq	(%rdi), %rdi
+	call	_ZdlPv
+.L178:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	xorl	%eax, %eax
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L182:
+	.cfi_restore_state
+	movq	(%rsi), %rbp
+	movl	$8, %edi
+	call	_Znwm
+	movq	0(%rbp), %rdx
+	movq	%rdx, (%rax)
+	movq	%rax, (%rbx)
+	addq	$8, %rsp
+	.cfi_def_cfa_offset 24
+	xorl	%eax, %eax
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L186:
+	testl	%edx, %edx
+	jne	.L185
+	movq	$_ZTINSt13__future_base13_State_baseV27_SetterIvvEE, (%rdi)
+.L185:
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L179:
+	movq	(%rsi), %rax
+	movq	%rax, (%rdi)
+	xorl	%eax, %eax
+	ret
+	.cfi_endproc
+.LFE10849:
+	.size	_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation, .-_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation
+	.section	.text.unlikely._ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation,comdat
+.LCOLDE85:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation,comdat
+.LHOTE85:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB86:
+	.section	.text._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv,comdat
+.LHOTB86:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv
+	.type	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv, @function
+_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv:
+.LFB13819:
+	.cfi_startproc
+	testq	%rdi, %rdi
+	je	.L191
+	movq	(%rdi), %rax
+	movq	16(%rax), %rax
+	cmpq	$_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, %rax
+	jne	.L189
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	call	_ZNSt13__future_base12_Result_baseD2Ev
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.p2align 4,,10
+	.p2align 3
+.L191:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L189:
+	jmp	*%rax
+	.cfi_endproc
+.LFE13819:
+	.size	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv, .-_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv
+	.section	.text.unlikely._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv,comdat
+.LCOLDE86:
+	.section	.text._ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv,comdat
+.LHOTE86:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultImE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultImE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB87:
+	.section	.text._ZNSt13__future_base7_ResultImE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultImE10_M_destroyEv,comdat
+.LHOTB87:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultImE10_M_destroyEv
+	.type	_ZNSt13__future_base7_ResultImE10_M_destroyEv, @function
+_ZNSt13__future_base7_ResultImE10_M_destroyEv:
+.LFB13829:
+	.cfi_startproc
+	testq	%rdi, %rdi
+	je	.L196
+	movq	(%rdi), %rax
+	movq	16(%rax), %rax
+	cmpq	$_ZNSt13__future_base7_ResultImED0Ev, %rax
+	jne	.L194
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base7_ResultImEE+16, (%rdi)
+	call	_ZNSt13__future_base12_Result_baseD2Ev
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.p2align 4,,10
+	.p2align 3
+.L196:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L194:
+	jmp	*%rax
+	.cfi_endproc
+.LFE13829:
+	.size	_ZNSt13__future_base7_ResultImE10_M_destroyEv, .-_ZNSt13__future_base7_ResultImE10_M_destroyEv
+	.section	.text.unlikely._ZNSt13__future_base7_ResultImE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultImE10_M_destroyEv,comdat
+.LCOLDE87:
+	.section	.text._ZNSt13__future_base7_ResultImE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultImE10_M_destroyEv,comdat
+.LHOTE87:
+	.section	.text.unlikely._ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv,"axG",@progbits,_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv,comdat
+.LCOLDB88:
+	.section	.text._ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv,"axG",@progbits,_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv,comdat
+.LHOTB88:
+	.p2align 4,,15
+	.weak	_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv
+	.type	_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, @function
+_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv:
+.LFB10872:
+	.cfi_startproc
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%fs:(%rax), %rdx
+	movq	8(%rdx), %rax
+	movq	(%rdx), %rdi
+	addq	16(%rdx), %rdi
+	testb	$1, %al
+	je	.L199
+	movq	(%rdi), %rdx
+	movq	-1(%rdx,%rax), %rax
+.L199:
+	jmp	*%rax
+	.cfi_endproc
+.LFE10872:
+	.size	_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, .-_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv
+	.section	.text.unlikely._ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv,"axG",@progbits,_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv,comdat
+.LCOLDE88:
+	.section	.text._ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv,"axG",@progbits,_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv,comdat
+.LHOTE88:
+	.section	.text.unlikely._ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv,"axG",@progbits,_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv,comdat
+.LCOLDB89:
+	.section	.text._ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv,"axG",@progbits,_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv,comdat
+.LHOTB89:
+	.p2align 4,,15
+	.weak	_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv
+	.type	_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, @function
+_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv:
+.LFB10818:
+	.cfi_startproc
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%fs:(%rax), %rax
+	movq	24(%rax), %rcx
+	movq	16(%rax), %rdi
+	addq	32(%rax), %rdi
+	testb	$1, %cl
+	je	.L202
+	movq	(%rdi), %rdx
+	movq	-1(%rdx,%rcx), %rcx
+.L202:
+	movq	8(%rax), %rsi
+	movq	(%rax), %rdx
+	jmp	*%rcx
+	.cfi_endproc
+.LFE10818:
+	.size	_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, .-_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv
+	.section	.text.unlikely._ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv,"axG",@progbits,_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv,comdat
+.LCOLDE89:
+	.section	.text._ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv,"axG",@progbits,_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv,comdat
+.LHOTE89:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB90:
+.LHOTB90:
+	.align 2
+	.type	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128, @function
+_ZNSs4_Rep10_M_disposeERKSaIcE.part.128:
+.LFB14130:
+	.cfi_startproc
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L204
+	orl	$-1, %eax
+	lock; xaddl	%eax, 16(%rdi)
+	jmp	.L205
+.L204:
+	movl	16(%rdi), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 16(%rdi)
+.L205:
+	testl	%eax, %eax
+	jg	.L203
+	jmp	_ZNSs4_Rep10_M_destroyERKSaIcE
+.L203:
+	ret
+	.cfi_endproc
+.LFE14130:
+	.size	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128, .-_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+.LCOLDE90:
+.LHOTE90:
+	.section	.text.unlikely._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+.LCOLDB91:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+.LHOTB91:
+	.p2align 4,,15
+	.weak	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation
+	.type	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation, @function
+_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation:
+.LFB12857:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12857
+	cmpl	$1, %edx
+	je	.L209
+	jle	.L233
+	pushq	%r13
+	.cfi_def_cfa_offset 16
+	.cfi_offset 13, -16
+	pushq	%r12
+	.cfi_def_cfa_offset 24
+	.cfi_offset 12, -24
+	pushq	%rbp
+	.cfi_def_cfa_offset 32
+	.cfi_offset 6, -32
+	pushq	%rbx
+	.cfi_def_cfa_offset 40
+	.cfi_offset 3, -40
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 48
+	cmpl	$2, %edx
+	je	.L212
+	cmpl	$3, %edx
+	jne	.L208
+	movq	(%rdi), %rbx
+	testq	%rbx, %rbx
+	je	.L208
+	movq	24(%rbx), %rax
+	testq	%rax, %rax
+	je	.L217
+	leaq	8(%rbx), %rdi
+	movl	$3, %edx
+	movq	%rdi, %rsi
+	call	*%rax
+.L217:
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 40
+	xorl	%eax, %eax
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_restore 12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_restore 13
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L212:
+	.cfi_restore_state
+	movq	(%rsi), %r12
+	movl	$40, %edi
+.LEHB9:
+	call	_Znwm
+.LEHE9:
+	movq	%rax, %rbp
+	movq	(%r12), %rax
+	movq	$0, 24(%rbp)
+	movq	%rax, 0(%rbp)
+	movq	24(%r12), %rax
+	testq	%rax, %rax
+	je	.L214
+	movq	32(%r12), %rdx
+	leaq	8(%rbp), %r13
+	movq	%rax, 24(%rbp)
+	leaq	8(%r12), %rsi
+	movq	%r13, %rdi
+	movq	%rdx, 32(%rbp)
+	movl	$2, %edx
+.LEHB10:
+	call	*24(%r12)
+.LEHE10:
+.L214:
+	movq	%rbp, (%rbx)
+.L208:
+	addq	$8, %rsp
+	.cfi_def_cfa_offset 40
+	xorl	%eax, %eax
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_restore 12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_restore 13
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L233:
+	testl	%edx, %edx
+	jne	.L232
+	movq	$_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE, (%rdi)
+.L232:
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L209:
+	movq	(%rsi), %rax
+	movq	%rax, (%rdi)
+	xorl	%eax, %eax
+	ret
+.L218:
+	.cfi_def_cfa_offset 48
+	.cfi_offset 3, -40
+	.cfi_offset 6, -32
+	.cfi_offset 12, -24
+	.cfi_offset 13, -16
+	movq	%rax, %rbx
+.L215:
+	movq	24(%rbp), %rcx
+	testq	%rcx, %rcx
+	je	.L216
+	movl	$3, %edx
+	movq	%r13, %rsi
+	movq	%r13, %rdi
+	call	*%rcx
+.L216:
+	movq	%rbp, %rdi
+	call	_ZdlPv
+	movq	%rbx, %rdi
+.LEHB11:
+	call	_Unwind_Resume
+.LEHE11:
+	.cfi_endproc
+.LFE12857:
+	.section	.gcc_except_table
+.LLSDA12857:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE12857-.LLSDACSB12857
+.LLSDACSB12857:
+	.uleb128 .LEHB9-.LFB12857
+	.uleb128 .LEHE9-.LEHB9
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB10-.LFB12857
+	.uleb128 .LEHE10-.LEHB10
+	.uleb128 .L218-.LFB12857
+	.uleb128 0
+	.uleb128 .LEHB11-.LFB12857
+	.uleb128 .LEHE11-.LEHB11
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE12857:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+	.size	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation, .-_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation
+	.section	.text.unlikely._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+.LCOLDE91:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+.LHOTE91:
+	.section	.text.unlikely._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,comdat
+.LCOLDB92:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,comdat
+.LHOTB92:
+	.p2align 4,,15
+	.weak	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation
+	.type	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation, @function
+_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation:
+.LFB12915:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12915
+	cmpl	$1, %edx
+	je	.L236
+	jle	.L260
+	pushq	%r13
+	.cfi_def_cfa_offset 16
+	.cfi_offset 13, -16
+	pushq	%r12
+	.cfi_def_cfa_offset 24
+	.cfi_offset 12, -24
+	pushq	%rbp
+	.cfi_def_cfa_offset 32
+	.cfi_offset 6, -32
+	pushq	%rbx
+	.cfi_def_cfa_offset 40
+	.cfi_offset 3, -40
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 48
+	cmpl	$2, %edx
+	je	.L239
+	cmpl	$3, %edx
+	jne	.L235
+	movq	(%rdi), %rbx
+	testq	%rbx, %rbx
+	je	.L235
+	movq	24(%rbx), %rax
+	testq	%rax, %rax
+	je	.L244
+	leaq	8(%rbx), %rdi
+	movl	$3, %edx
+	movq	%rdi, %rsi
+	call	*%rax
+.L244:
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 40
+	xorl	%eax, %eax
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_restore 12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_restore 13
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L239:
+	.cfi_restore_state
+	movq	(%rsi), %r12
+	movl	$40, %edi
+.LEHB12:
+	call	_Znwm
+.LEHE12:
+	movq	%rax, %rbp
+	movq	(%r12), %rax
+	movq	$0, 24(%rbp)
+	movq	%rax, 0(%rbp)
+	movq	24(%r12), %rax
+	testq	%rax, %rax
+	je	.L241
+	movq	32(%r12), %rdx
+	leaq	8(%rbp), %r13
+	movq	%rax, 24(%rbp)
+	leaq	8(%r12), %rsi
+	movq	%r13, %rdi
+	movq	%rdx, 32(%rbp)
+	movl	$2, %edx
+.LEHB13:
+	call	*24(%r12)
+.LEHE13:
+.L241:
+	movq	%rbp, (%rbx)
+.L235:
+	addq	$8, %rsp
+	.cfi_def_cfa_offset 40
+	xorl	%eax, %eax
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_restore 12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_restore 13
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L260:
+	testl	%edx, %edx
+	jne	.L259
+	movq	$_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE, (%rdi)
+.L259:
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L236:
+	movq	(%rsi), %rax
+	movq	%rax, (%rdi)
+	xorl	%eax, %eax
+	ret
+.L245:
+	.cfi_def_cfa_offset 48
+	.cfi_offset 3, -40
+	.cfi_offset 6, -32
+	.cfi_offset 12, -24
+	.cfi_offset 13, -16
+	movq	%rax, %rbx
+.L242:
+	movq	24(%rbp), %rcx
+	testq	%rcx, %rcx
+	je	.L243
+	movl	$3, %edx
+	movq	%r13, %rsi
+	movq	%r13, %rdi
+	call	*%rcx
+.L243:
+	movq	%rbp, %rdi
+	call	_ZdlPv
+	movq	%rbx, %rdi
+.LEHB14:
+	call	_Unwind_Resume
+.LEHE14:
+	.cfi_endproc
+.LFE12915:
+	.section	.gcc_except_table
+.LLSDA12915:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE12915-.LLSDACSB12915
+.LLSDACSB12915:
+	.uleb128 .LEHB12-.LFB12915
+	.uleb128 .LEHE12-.LEHB12
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB13-.LFB12915
+	.uleb128 .LEHE13-.LEHB13
+	.uleb128 .L245-.LFB12915
+	.uleb128 0
+	.uleb128 .LEHB14-.LFB12915
+	.uleb128 .LEHE14-.LEHB14
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE12915:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,comdat
+	.size	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation, .-_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation
+	.section	.text.unlikely._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,comdat
+.LCOLDE92:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation,comdat
+.LHOTE92:
+	.section	.text.unlikely._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+.LCOLDB93:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+.LHOTB93:
+	.p2align 4,,15
+	.weak	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation
+	.type	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation, @function
+_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation:
+.LFB12795:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12795
+	cmpl	$1, %edx
+	je	.L263
+	jle	.L287
+	pushq	%r13
+	.cfi_def_cfa_offset 16
+	.cfi_offset 13, -16
+	pushq	%r12
+	.cfi_def_cfa_offset 24
+	.cfi_offset 12, -24
+	pushq	%rbp
+	.cfi_def_cfa_offset 32
+	.cfi_offset 6, -32
+	pushq	%rbx
+	.cfi_def_cfa_offset 40
+	.cfi_offset 3, -40
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 48
+	cmpl	$2, %edx
+	je	.L266
+	cmpl	$3, %edx
+	jne	.L262
+	movq	(%rdi), %rbx
+	testq	%rbx, %rbx
+	je	.L262
+	movq	24(%rbx), %rax
+	testq	%rax, %rax
+	je	.L271
+	leaq	8(%rbx), %rdi
+	movl	$3, %edx
+	movq	%rdi, %rsi
+	call	*%rax
+.L271:
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 40
+	xorl	%eax, %eax
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_restore 12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_restore 13
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L266:
+	.cfi_restore_state
+	movq	(%rsi), %r12
+	movl	$40, %edi
+.LEHB15:
+	call	_Znwm
+.LEHE15:
+	movq	%rax, %rbp
+	movq	(%r12), %rax
+	movq	$0, 24(%rbp)
+	movq	%rax, 0(%rbp)
+	movq	24(%r12), %rax
+	testq	%rax, %rax
+	je	.L268
+	movq	32(%r12), %rdx
+	leaq	8(%rbp), %r13
+	movq	%rax, 24(%rbp)
+	leaq	8(%r12), %rsi
+	movq	%r13, %rdi
+	movq	%rdx, 32(%rbp)
+	movl	$2, %edx
+.LEHB16:
+	call	*24(%r12)
+.LEHE16:
+.L268:
+	movq	%rbp, (%rbx)
+.L262:
+	addq	$8, %rsp
+	.cfi_def_cfa_offset 40
+	xorl	%eax, %eax
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_restore 12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_restore 13
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L287:
+	testl	%edx, %edx
+	jne	.L286
+	movq	$_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE, (%rdi)
+.L286:
+	xorl	%eax, %eax
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L263:
+	movq	(%rsi), %rax
+	movq	%rax, (%rdi)
+	xorl	%eax, %eax
+	ret
+.L272:
+	.cfi_def_cfa_offset 48
+	.cfi_offset 3, -40
+	.cfi_offset 6, -32
+	.cfi_offset 12, -24
+	.cfi_offset 13, -16
+	movq	%rax, %rbx
+.L269:
+	movq	24(%rbp), %rcx
+	testq	%rcx, %rcx
+	je	.L270
+	movl	$3, %edx
+	movq	%r13, %rsi
+	movq	%r13, %rdi
+	call	*%rcx
+.L270:
+	movq	%rbp, %rdi
+	call	_ZdlPv
+	movq	%rbx, %rdi
+.LEHB17:
+	call	_Unwind_Resume
+.LEHE17:
+	.cfi_endproc
+.LFE12795:
+	.section	.gcc_except_table
+.LLSDA12795:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE12795-.LLSDACSB12795
+.LLSDACSB12795:
+	.uleb128 .LEHB15-.LFB12795
+	.uleb128 .LEHE15-.LEHB15
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB16-.LFB12795
+	.uleb128 .LEHE16-.LEHB16
+	.uleb128 .L272-.LFB12795
+	.uleb128 0
+	.uleb128 .LEHB17-.LFB12795
+	.uleb128 .LEHE17-.LEHB17
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE12795:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+	.size	_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation, .-_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation
+	.section	.text.unlikely._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+.LCOLDE93:
+	.section	.text._ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,"axG",@progbits,_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation,comdat
+.LHOTE93:
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,"axG",@progbits,_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,comdat
+	.align 2
+.LCOLDB94:
+	.section	.text._ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,"axG",@progbits,_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,comdat
+.LHOTB94:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb
+	.type	_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, @function
+_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb:
+.LFB9521:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA9521
+	pushq	%r12
+	.cfi_def_cfa_offset 16
+	.cfi_offset 12, -16
+	pushq	%rbp
+	.cfi_def_cfa_offset 24
+	.cfi_offset 6, -24
+	movq	%rsi, %rax
+	pushq	%rbx
+	.cfi_def_cfa_offset 32
+	.cfi_offset 3, -32
+	subq	$16, %rsp
+	.cfi_def_cfa_offset 48
+	cmpq	$0, 16(%rsi)
+	je	.L304
+	movq	%rdi, %rbx
+	movq	%rdx, %r12
+	movq	%rsp, %rdi
+.LEHB18:
+	call	*24(%rax)
+.LEHE18:
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L290
+	leaq	16(%rbx), %rbp
+	movq	%rbp, %rdi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L305
+	movq	(%rsp), %rdx
+	movq	8(%rbx), %rax
+	movq	%rbp, %rdi
+	movq	%rdx, 8(%rbx)
+	movq	%rax, (%rsp)
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	movq	(%rsp), %rdi
+.L295:
+	testq	%rdi, %rdi
+	movb	$1, (%r12)
+	je	.L288
+	movq	(%rdi), %rdx
+	call	*(%rdx)
+.L288:
+	addq	$16, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 32
+	popq	%rbx
+	.cfi_def_cfa_offset 24
+	popq	%rbp
+	.cfi_def_cfa_offset 16
+	popq	%r12
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L290:
+	.cfi_restore_state
+	movq	8(%rbx), %rdi
+	movq	(%rsp), %rdx
+	movq	%rdi, (%rsp)
+	movq	%rdx, 8(%rbx)
+	jmp	.L295
+.L304:
+.LEHB19:
+	call	_ZSt25__throw_bad_function_callv
+.LEHE19:
+.L305:
+	movl	%eax, %edi
+.LEHB20:
+	call	_ZSt20__throw_system_errori
+.LEHE20:
+.L296:
+	movq	%rax, %rbx
+.L293:
+	movq	(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L294
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L294:
+	movq	%rbx, %rdi
+.LEHB21:
+	call	_Unwind_Resume
+.LEHE21:
+	.cfi_endproc
+.LFE9521:
+	.section	.gcc_except_table
+.LLSDA9521:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE9521-.LLSDACSB9521
+.LLSDACSB9521:
+	.uleb128 .LEHB18-.LFB9521
+	.uleb128 .LEHE18-.LEHB18
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB19-.LFB9521
+	.uleb128 .LEHE19-.LEHB19
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB20-.LFB9521
+	.uleb128 .LEHE20-.LEHB20
+	.uleb128 .L296-.LFB9521
+	.uleb128 0
+	.uleb128 .LEHB21-.LFB9521
+	.uleb128 .LEHE21-.LEHB21
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE9521:
+	.section	.text._ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,"axG",@progbits,_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,comdat
+	.size	_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, .-_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,"axG",@progbits,_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,comdat
+.LCOLDE94:
+	.section	.text._ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,"axG",@progbits,_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb,comdat
+.LHOTE94:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB95:
+	.text
+.LHOTB95:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13746:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L307
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L314
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L307
+.L314:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L307:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13746:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely
+.LCOLDE95:
+	.text
+.LHOTE95:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+	.align 2
+.LCOLDB96:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTB96:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13714:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L318
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L325
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L318
+.L325:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L318:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13714:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LCOLDE96:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTE96:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB97:
+	.text
+.LHOTB97:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13693:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L329
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L336
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L329
+.L336:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L329:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13693:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely
+.LCOLDE97:
+	.text
+.LHOTE97:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB98:
+	.text
+.LHOTB98:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13700:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L340
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L347
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L340
+.L347:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L340:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13700:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely
+.LCOLDE98:
+	.text
+.LHOTE98:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+	.align 2
+.LCOLDB99:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTB99:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13707:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L351
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L358
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L351
+.L358:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L351:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13707:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LCOLDE99:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTE99:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB100:
+	.text
+.LHOTB100:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13725:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L362
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L369
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L362
+.L369:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L362:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13725:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely
+.LCOLDE100:
+	.text
+.LHOTE100:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB101:
+	.text
+.LHOTB101:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13732:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L373
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L380
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L373
+.L380:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L373:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13732:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely
+.LCOLDE101:
+	.text
+.LHOTE101:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB102:
+	.text
+.LHOTB102:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13739:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L384
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L391
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L384
+.L391:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L384:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13739:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely
+.LCOLDE102:
+	.text
+.LHOTE102:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+	.align 2
+.LCOLDB103:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTB103:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13753:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L395
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L402
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L395
+.L402:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L395:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13753:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LCOLDE103:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTE103:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+	.align 2
+.LCOLDB104:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTB104:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13760:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L406
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L413
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L406
+.L413:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L406:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13760:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LCOLDE104:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTE104:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+	.align 2
+.LCOLDB105:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTB105:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13767:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L417
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L424
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L417
+.L424:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L417:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13767:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LCOLDE105:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTE105:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+	.align 2
+.LCOLDB106:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTB106:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13774:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L428
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L435
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L428
+.L435:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L428:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13774:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LCOLDE106:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTE106:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+	.align 2
+.LCOLDB107:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTB107:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info:
+.LFB13781:
+	.cfi_startproc
+	movq	8(%rsi), %rsi
+	movq	%rdi, %r8
+	cmpq	$_ZTSSt19_Sp_make_shared_tag, %rsi
+	je	.L439
+	xorl	%eax, %eax
+	cmpb	$42, (%rsi)
+	je	.L446
+	movl	$_ZTSSt19_Sp_make_shared_tag, %edi
+	movl	$24, %ecx
+	repz; cmpsb
+	je	.L439
+.L446:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L439:
+	leaq	16(%r8), %rax
+	ret
+	.cfi_endproc
+.LFE13781:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LCOLDE107:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info,comdat
+.LHOTE107:
+	.section	.text.unlikely._ZNSt13__future_base21_Async_state_commonV2D2Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+	.align 2
+.LCOLDB108:
+	.section	.text._ZNSt13__future_base21_Async_state_commonV2D2Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+.LHOTB108:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base21_Async_state_commonV2D2Ev
+	.type	_ZNSt13__future_base21_Async_state_commonV2D2Ev, @function
+_ZNSt13__future_base21_Async_state_commonV2D2Ev:
+.LFB12521:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12521
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	cmpq	$0, 112(%rdi)
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rdi)
+	jne	.L453
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rdi)
+	leaq	56(%rdi), %rdi
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L449
+	movq	(%rdi), %rax
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	movq	(%rax), %rax
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L449:
+	.cfi_restore_state
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+.L453:
+	.cfi_restore_state
+	call	_ZSt9terminatev
+	.cfi_endproc
+.LFE12521:
+	.section	.gcc_except_table
+.LLSDA12521:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE12521-.LLSDACSB12521
+.LLSDACSB12521:
+.LLSDACSE12521:
+	.section	.text._ZNSt13__future_base21_Async_state_commonV2D2Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+	.size	_ZNSt13__future_base21_Async_state_commonV2D2Ev, .-_ZNSt13__future_base21_Async_state_commonV2D2Ev
+	.section	.text.unlikely._ZNSt13__future_base21_Async_state_commonV2D2Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+.LCOLDE108:
+	.section	.text._ZNSt13__future_base21_Async_state_commonV2D2Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+.LHOTE108:
+	.weak	_ZNSt13__future_base21_Async_state_commonV2D1Ev
+	.set	_ZNSt13__future_base21_Async_state_commonV2D1Ev,_ZNSt13__future_base21_Async_state_commonV2D2Ev
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV2D0Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+	.align 2
+.LCOLDB109:
+	.section	.text._ZNSt13__future_base13_State_baseV2D0Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+.LHOTB109:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base13_State_baseV2D0Ev
+	.type	_ZNSt13__future_base13_State_baseV2D0Ev, @function
+_ZNSt13__future_base13_State_baseV2D0Ev:
+.LFB12514:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12514
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rdi)
+	movq	%rdi, %rbx
+	leaq	56(%rdi), %rdi
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L455
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L455:
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE12514:
+	.section	.gcc_except_table
+.LLSDA12514:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE12514-.LLSDACSB12514
+.LLSDACSB12514:
+.LLSDACSE12514:
+	.section	.text._ZNSt13__future_base13_State_baseV2D0Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+	.size	_ZNSt13__future_base13_State_baseV2D0Ev, .-_ZNSt13__future_base13_State_baseV2D0Ev
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV2D0Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+.LCOLDE109:
+	.section	.text._ZNSt13__future_base13_State_baseV2D0Ev,"axG",@progbits,_ZNSt13__future_base13_State_baseV2D5Ev,comdat
+.LHOTE109:
+	.section	.text.unlikely._ZNSt13__future_base21_Async_state_commonV2D0Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+	.align 2
+.LCOLDB110:
+	.section	.text._ZNSt13__future_base21_Async_state_commonV2D0Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+.LHOTB110:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base21_Async_state_commonV2D0Ev
+	.type	_ZNSt13__future_base21_Async_state_commonV2D0Ev, @function
+_ZNSt13__future_base21_Async_state_commonV2D0Ev:
+.LFB12523:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12523
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	cmpq	$0, 112(%rdi)
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rdi)
+	jne	.L467
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rdi)
+	leaq	56(%rdi), %rdi
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L462
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L462:
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+.L467:
+	.cfi_restore_state
+	call	_ZSt9terminatev
+	.cfi_endproc
+.LFE12523:
+	.section	.gcc_except_table
+.LLSDA12523:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE12523-.LLSDACSB12523
+.LLSDACSB12523:
+.LLSDACSE12523:
+	.section	.text._ZNSt13__future_base21_Async_state_commonV2D0Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+	.size	_ZNSt13__future_base21_Async_state_commonV2D0Ev, .-_ZNSt13__future_base21_Async_state_commonV2D0Ev
+	.section	.text.unlikely._ZNSt13__future_base21_Async_state_commonV2D0Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+.LCOLDE110:
+	.section	.text._ZNSt13__future_base21_Async_state_commonV2D0Ev,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV2D5Ev,comdat
+.LHOTE110:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.align 2
+.LCOLDB111:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTB111:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13751:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13751
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE+16, 16(%rdi)
+	movq	128(%rdi), %rdi
+	testq	%rdi, %rdi
+	je	.L469
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L469:
+	leaq	72(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	24(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L468
+	movq	(%rdi), %rax
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	movq	(%rax), %rax
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L468:
+	.cfi_restore_state
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.cfi_endproc
+.LFE13751:
+	.section	.gcc_except_table
+.LLSDA13751:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13751-.LLSDACSB13751
+.LLSDACSB13751:
+.LLSDACSE13751:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LCOLDE111:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTE111:
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+	.align 2
+.LCOLDB112:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LHOTB112:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev:
+.LFB13611:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13611
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE+16, (%rdi)
+	movq	112(%rdi), %rdi
+	testq	%rdi, %rdi
+	je	.L476
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L476:
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L475
+	movq	(%rdi), %rax
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	movq	(%rax), %rax
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L475:
+	.cfi_restore_state
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.cfi_endproc
+.LFE13611:
+	.section	.gcc_except_table
+.LLSDA13611:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13611-.LLSDACSB13611
+.LLSDACSB13611:
+.LLSDACSE13611:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LCOLDE112:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LHOTE112:
+	.weak	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED1Ev
+	.set	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED1Ev,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED2Ev
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+	.align 2
+.LCOLDB113:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LHOTB113:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev:
+.LFB13613:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13613
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE+16, (%rdi)
+	movq	112(%rdi), %rdi
+	testq	%rdi, %rdi
+	je	.L483
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L483:
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L484
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L484:
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.cfi_endproc
+.LFE13613:
+	.section	.gcc_except_table
+.LLSDA13613:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13613-.LLSDACSB13613
+.LLSDACSB13613:
+.LLSDACSE13613:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LCOLDE113:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LHOTE113:
+	.section	.text.unlikely._ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv,comdat
+	.align 2
+.LCOLDB114:
+	.section	.text._ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv,comdat
+.LHOTB114:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv
+	.type	_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv, @function
+_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv:
+.LFB9713:
+	.cfi_startproc
+	leaq	112(%rdi), %rax
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 48
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L495
+	addq	$120, %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L493
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L495:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L493:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+	.cfi_endproc
+.LFE9713:
+	.size	_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv, .-_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv
+	.section	.text.unlikely._ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv,comdat
+.LCOLDE114:
+	.section	.text._ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv,comdat
+.LHOTE114:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultISsED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultISsED5Ev,comdat
+	.align 2
+.LCOLDB115:
+	.section	.text._ZNSt13__future_base7_ResultISsED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultISsED5Ev,comdat
+.LHOTB115:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultISsED2Ev
+	.type	_ZNSt13__future_base7_ResultISsED2Ev, @function
+_ZNSt13__future_base7_ResultISsED2Ev:
+.LFB13826:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	subq	$16, %rsp
+	.cfi_def_cfa_offset 32
+	cmpb	$0, 24(%rdi)
+	movq	$_ZTVNSt13__future_base7_ResultISsEE+16, (%rdi)
+	je	.L498
+	movq	16(%rdi), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L505
+.L498:
+	movq	%rbx, %rdi
+	call	_ZNSt13__future_base12_Result_baseD2Ev
+	addq	$16, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L505:
+	.cfi_restore_state
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L501
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L502:
+	testl	%eax, %eax
+	jg	.L498
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L498
+	.p2align 4,,10
+	.p2align 3
+.L501:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L502
+	.cfi_endproc
+.LFE13826:
+	.size	_ZNSt13__future_base7_ResultISsED2Ev, .-_ZNSt13__future_base7_ResultISsED2Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultISsED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultISsED5Ev,comdat
+.LCOLDE115:
+	.section	.text._ZNSt13__future_base7_ResultISsED2Ev,"axG",@progbits,_ZNSt13__future_base7_ResultISsED5Ev,comdat
+.LHOTE115:
+	.weak	_ZNSt13__future_base7_ResultISsED1Ev
+	.set	_ZNSt13__future_base7_ResultISsED1Ev,_ZNSt13__future_base7_ResultISsED2Ev
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,comdat
+	.align 2
+.LCOLDB116:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,comdat
+.LHOTB116:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv:
+.LFB13807:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13807
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$152, %rsp
+	.cfi_def_cfa_offset 176
+	movq	%rax, 48(%rsp)
+	leaq	120(%rdi), %rax
+	movl	$40, %edi
+	movq	$_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data, 80(%rsp)
+	movq	$_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation, 72(%rsp)
+	movq	%rax, 56(%rsp)
+	movq	$0, 32(%rsp)
+.LEHB22:
+	call	_Znwm
+.LEHE22:
+	movq	48(%rsp), %rdx
+	movq	8(%rax), %r9
+	leaq	16(%rsp), %rbp
+	movq	$0, 24(%rax)
+	movq	16(%rax), %r10
+	movq	32(%rax), %rcx
+	movq	%rdx, (%rax)
+	movq	64(%rsp), %rdi
+	movq	56(%rsp), %rsi
+	movq	%r10, 64(%rsp)
+	movq	%r9, 56(%rsp)
+	movq	%rax, 16(%rsp)
+	movq	%rdi, 16(%rax)
+	movb	$0, 15(%rsp)
+	movq	%rsi, 8(%rax)
+	movq	72(%rsp), %rdx
+	movq	$0, 72(%rsp)
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation, 32(%rsp)
+	movq	%rbp, 104(%rsp)
+	movq	%rbx, 112(%rsp)
+	movq	%rdx, 24(%rax)
+	movq	80(%rsp), %rdx
+	movq	%rcx, 80(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 120(%rsp)
+	movq	%rdx, 32(%rax)
+	leaq	15(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movq	$0, 128(%rsp)
+	movq	%rax, 96(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rdx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L537
+	leaq	108(%rbx), %rdi
+	movl	$__once_proxy, %esi
+.LEHB23:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+.LEHE23:
+	testl	%eax, %eax
+	jne	.L508
+	cmpb	$0, 15(%rsp)
+	jne	.L538
+.L513:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L514
+	movl	$3, %edx
+	movq	%rbp, %rsi
+	movq	%rbp, %rdi
+	call	*%rax
+.L514:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L506
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L506:
+	addq	$152, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L537:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L508:
+	movl	%eax, %edi
+.LEHB24:
+	call	_ZSt20__throw_system_errori
+.LEHE24:
+	.p2align 4,,10
+	.p2align 3
+.L538:
+	leaq	56(%rbx), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	jmp	.L513
+.L519:
+	movq	%rax, %rbx
+	jmp	.L516
+.L520:
+	movq	%rax, %rbx
+	jmp	.L509
+.L516:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L511
+	movl	$3, %edx
+	movq	%rbp, %rsi
+	movq	%rbp, %rdi
+	call	*%rax
+.L511:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L518
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L518:
+	movq	%rbx, %rdi
+.LEHB25:
+	call	_Unwind_Resume
+.LEHE25:
+.L509:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L511
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L511
+	.cfi_endproc
+.LFE13807:
+	.section	.gcc_except_table
+.LLSDA13807:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13807-.LLSDACSB13807
+.LLSDACSB13807:
+	.uleb128 .LEHB22-.LFB13807
+	.uleb128 .LEHE22-.LEHB22
+	.uleb128 .L520-.LFB13807
+	.uleb128 0
+	.uleb128 .LEHB23-.LFB13807
+	.uleb128 .LEHE23-.LEHB23
+	.uleb128 .L519-.LFB13807
+	.uleb128 0
+	.uleb128 .LEHB24-.LFB13807
+	.uleb128 .LEHE24-.LEHB24
+	.uleb128 .L519-.LFB13807
+	.uleb128 0
+	.uleb128 .LEHB25-.LFB13807
+	.uleb128 .LEHE25-.LEHB25
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13807:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,comdat
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,comdat
+.LCOLDE116:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv,comdat
+.LHOTE116:
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,comdat
+	.align 2
+.LCOLDB117:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,comdat
+.LHOTB117:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv:
+.LFB13813:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13813
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$152, %rsp
+	.cfi_def_cfa_offset 176
+	movq	%rax, 48(%rsp)
+	leaq	120(%rdi), %rax
+	movl	$40, %edi
+	movq	$_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data, 80(%rsp)
+	movq	$_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation, 72(%rsp)
+	movq	%rax, 56(%rsp)
+	movq	$0, 32(%rsp)
+.LEHB26:
+	call	_Znwm
+.LEHE26:
+	movq	48(%rsp), %rdx
+	movq	8(%rax), %r9
+	leaq	16(%rsp), %rbp
+	movq	$0, 24(%rax)
+	movq	16(%rax), %r10
+	movq	32(%rax), %rcx
+	movq	%rdx, (%rax)
+	movq	64(%rsp), %rdi
+	movq	56(%rsp), %rsi
+	movq	%r10, 64(%rsp)
+	movq	%r9, 56(%rsp)
+	movq	%rax, 16(%rsp)
+	movq	%rdi, 16(%rax)
+	movb	$0, 15(%rsp)
+	movq	%rsi, 8(%rax)
+	movq	72(%rsp), %rdx
+	movq	$0, 72(%rsp)
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation, 32(%rsp)
+	movq	%rbp, 104(%rsp)
+	movq	%rbx, 112(%rsp)
+	movq	%rdx, 24(%rax)
+	movq	80(%rsp), %rdx
+	movq	%rcx, 80(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 120(%rsp)
+	movq	%rdx, 32(%rax)
+	leaq	15(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movq	$0, 128(%rsp)
+	movq	%rax, 96(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rdx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L570
+	leaq	108(%rbx), %rdi
+	movl	$__once_proxy, %esi
+.LEHB27:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+.LEHE27:
+	testl	%eax, %eax
+	jne	.L541
+	cmpb	$0, 15(%rsp)
+	jne	.L571
+.L546:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L547
+	movl	$3, %edx
+	movq	%rbp, %rsi
+	movq	%rbp, %rdi
+	call	*%rax
+.L547:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L539
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L539:
+	addq	$152, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L570:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L541:
+	movl	%eax, %edi
+.LEHB28:
+	call	_ZSt20__throw_system_errori
+.LEHE28:
+	.p2align 4,,10
+	.p2align 3
+.L571:
+	leaq	56(%rbx), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	jmp	.L546
+.L552:
+	movq	%rax, %rbx
+	jmp	.L549
+.L553:
+	movq	%rax, %rbx
+	jmp	.L542
+.L549:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L544
+	movl	$3, %edx
+	movq	%rbp, %rsi
+	movq	%rbp, %rdi
+	call	*%rax
+.L544:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L551
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L551:
+	movq	%rbx, %rdi
+.LEHB29:
+	call	_Unwind_Resume
+.LEHE29:
+.L542:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L544
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L544
+	.cfi_endproc
+.LFE13813:
+	.section	.gcc_except_table
+.LLSDA13813:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13813-.LLSDACSB13813
+.LLSDACSB13813:
+	.uleb128 .LEHB26-.LFB13813
+	.uleb128 .LEHE26-.LEHB26
+	.uleb128 .L553-.LFB13813
+	.uleb128 0
+	.uleb128 .LEHB27-.LFB13813
+	.uleb128 .LEHE27-.LEHB27
+	.uleb128 .L552-.LFB13813
+	.uleb128 0
+	.uleb128 .LEHB28-.LFB13813
+	.uleb128 .LEHE28-.LEHB28
+	.uleb128 .L552-.LFB13813
+	.uleb128 0
+	.uleb128 .LEHB29-.LFB13813
+	.uleb128 .LEHE29-.LEHB29
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13813:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,comdat
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,comdat
+.LCOLDE117:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv,comdat
+.LHOTE117:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.align 2
+.LCOLDB118:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTB118:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13758:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13758
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	leaq	128(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$32, %rsp
+	.cfi_def_cfa_offset 48
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE+16, 16(%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L578
+	leaq	136(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L573
+	movq	144(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L575
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L575:
+	cmpq	$0, 128(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, 16(%rbx)
+	jne	.L586
+	leaq	72(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	24(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L572
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L572:
+	addq	$32, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L578:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L573:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L586:
+	call	_ZSt9terminatev
+	.cfi_endproc
+.LFE13758:
+	.section	.gcc_except_table
+.LLSDA13758:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13758-.LLSDACSB13758
+.LLSDACSB13758:
+.LLSDACSE13758:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LCOLDE118:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTE118:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultISsE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultISsE10_M_destroyEv,comdat
+	.align 2
+.LCOLDB119:
+	.section	.text._ZNSt13__future_base7_ResultISsE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultISsE10_M_destroyEv,comdat
+.LHOTB119:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultISsE10_M_destroyEv
+	.type	_ZNSt13__future_base7_ResultISsE10_M_destroyEv, @function
+_ZNSt13__future_base7_ResultISsE10_M_destroyEv:
+.LFB13824:
+	.cfi_startproc
+	testq	%rdi, %rdi
+	je	.L601
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	subq	$16, %rsp
+	.cfi_def_cfa_offset 32
+	movq	(%rdi), %rax
+	movq	16(%rax), %rax
+	cmpq	$_ZNSt13__future_base7_ResultISsED0Ev, %rax
+	jne	.L589
+	cmpb	$0, 24(%rdi)
+	movq	$_ZTVNSt13__future_base7_ResultISsEE+16, (%rdi)
+	je	.L590
+	movq	16(%rdi), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L602
+.L590:
+	movq	%rbx, %rdi
+	call	_ZNSt13__future_base12_Result_baseD2Ev
+	movq	%rbx, %rdi
+	call	_ZdlPv
+.L587:
+	addq	$16, %rsp
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 8
+.L601:
+	rep; ret
+	.p2align 4,,10
+	.p2align 3
+.L589:
+	.cfi_def_cfa_offset 32
+	.cfi_offset 3, -16
+	call	*%rax
+	jmp	.L587
+	.p2align 4,,10
+	.p2align 3
+.L602:
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L593
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L594:
+	testl	%eax, %eax
+	jg	.L590
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L590
+	.p2align 4,,10
+	.p2align 3
+.L593:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L594
+	.cfi_endproc
+.LFE13824:
+	.size	_ZNSt13__future_base7_ResultISsE10_M_destroyEv, .-_ZNSt13__future_base7_ResultISsE10_M_destroyEv
+	.section	.text.unlikely._ZNSt13__future_base7_ResultISsE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultISsE10_M_destroyEv,comdat
+.LCOLDE119:
+	.section	.text._ZNSt13__future_base7_ResultISsE10_M_destroyEv,"axG",@progbits,_ZNSt13__future_base7_ResultISsE10_M_destroyEv,comdat
+.LHOTE119:
+	.section	.text.unlikely._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+	.align 2
+.LCOLDB120:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LHOTB120:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev
+	.type	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev, @function
+_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev:
+.LFB13810:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13810
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$32, %rsp
+	.cfi_def_cfa_offset 48
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE+16, (%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L609
+	leaq	120(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L604
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L606
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L606:
+	cmpq	$0, 112(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rbx)
+	jne	.L617
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L603
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L603:
+	addq	$32, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L609:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L604:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L617:
+	call	_ZSt9terminatev
+	.cfi_endproc
+.LFE13810:
+	.section	.gcc_except_table
+.LLSDA13810:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13810-.LLSDACSB13810
+.LLSDACSB13810:
+.LLSDACSE13810:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+	.size	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev, .-_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev
+	.section	.text.unlikely._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LCOLDE120:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LHOTE120:
+	.weak	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED1Ev
+	.set	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED1Ev,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED2Ev
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.align 2
+.LCOLDB121:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTB121:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13765:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13765
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	subq	$16, %rsp
+	.cfi_def_cfa_offset 32
+	movq	136(%rdi), %rax
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE+16, 16(%rdi)
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L633
+.L620:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L624
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L624:
+	leaq	72(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	24(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L618
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L618:
+	addq	$16, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L633:
+	.cfi_restore_state
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L621
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L622:
+	testl	%eax, %eax
+	jg	.L620
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L620
+	.p2align 4,,10
+	.p2align 3
+.L621:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L622
+	.cfi_endproc
+.LFE13765:
+	.section	.gcc_except_table
+.LLSDA13765:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13765-.LLSDACSB13765
+.LLSDACSB13765:
+.LLSDACSE13765:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LCOLDE121:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTE121:
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+	.align 2
+.LCOLDB122:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LHOTB122:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev:
+.LFB13615:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13615
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	subq	$16, %rsp
+	.cfi_def_cfa_offset 32
+	movq	120(%rdi), %rax
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE+16, (%rdi)
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L649
+.L636:
+	movq	112(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L640
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L640:
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L634
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L634:
+	addq	$16, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L649:
+	.cfi_restore_state
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L637
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L638:
+	testl	%eax, %eax
+	jg	.L636
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L636
+	.p2align 4,,10
+	.p2align 3
+.L637:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L638
+	.cfi_endproc
+.LFE13615:
+	.section	.gcc_except_table
+.LLSDA13615:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13615-.LLSDACSB13615
+.LLSDACSB13615:
+.LLSDACSE13615:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LCOLDE122:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LHOTE122:
+	.weak	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED1Ev
+	.set	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED1Ev,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev
+	.section	.text.unlikely._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+	.align 2
+.LCOLDB123:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LHOTB123:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev
+	.type	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev, @function
+_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev:
+.LFB13812:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13812
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$32, %rsp
+	.cfi_def_cfa_offset 48
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE+16, (%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L656
+	leaq	120(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L651
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L653
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L653:
+	cmpq	$0, 112(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rbx)
+	jne	.L664
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L655
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L655:
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$32, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L656:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L651:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L664:
+	call	_ZSt9terminatev
+	.cfi_endproc
+.LFE13812:
+	.section	.gcc_except_table
+.LLSDA13812:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13812-.LLSDACSB13812
+.LLSDACSB13812:
+.LLSDACSE13812:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+	.size	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev, .-_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev
+	.section	.text.unlikely._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LCOLDE123:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED5Ev,comdat
+.LHOTE123:
+	.section	.text.unlikely._ZNSt13__future_base7_ResultISsED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultISsED5Ev,comdat
+	.align 2
+.LCOLDB124:
+	.section	.text._ZNSt13__future_base7_ResultISsED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultISsED5Ev,comdat
+.LHOTB124:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base7_ResultISsED0Ev
+	.type	_ZNSt13__future_base7_ResultISsED0Ev, @function
+_ZNSt13__future_base7_ResultISsED0Ev:
+.LFB13828:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	subq	$16, %rsp
+	.cfi_def_cfa_offset 32
+	cmpb	$0, 24(%rdi)
+	movq	$_ZTVNSt13__future_base7_ResultISsEE+16, (%rdi)
+	je	.L666
+	movq	16(%rdi), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L673
+.L666:
+	movq	%rbx, %rdi
+	call	_ZNSt13__future_base12_Result_baseD2Ev
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$16, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L673:
+	.cfi_restore_state
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L669
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L670:
+	testl	%eax, %eax
+	jg	.L666
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L666
+	.p2align 4,,10
+	.p2align 3
+.L669:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L670
+	.cfi_endproc
+.LFE13828:
+	.size	_ZNSt13__future_base7_ResultISsED0Ev, .-_ZNSt13__future_base7_ResultISsED0Ev
+	.section	.text.unlikely._ZNSt13__future_base7_ResultISsED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultISsED5Ev,comdat
+.LCOLDE124:
+	.section	.text._ZNSt13__future_base7_ResultISsED0Ev,"axG",@progbits,_ZNSt13__future_base7_ResultISsED5Ev,comdat
+.LHOTE124:
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+	.align 2
+.LCOLDB125:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LHOTB125:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev:
+.LFB13617:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13617
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	subq	$16, %rsp
+	.cfi_def_cfa_offset 32
+	movq	120(%rdi), %rax
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE+16, (%rdi)
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L689
+.L676:
+	movq	112(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L680
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L680:
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L681
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L681:
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$16, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L689:
+	.cfi_restore_state
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L677
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L678:
+	testl	%eax, %eax
+	jg	.L676
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L676
+	.p2align 4,,10
+	.p2align 3
+.L677:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L678
+	.cfi_endproc
+.LFE13617:
+	.section	.gcc_except_table
+.LLSDA13617:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13617-.LLSDACSB13617
+.LLSDACSB13617:
+.LLSDACSE13617:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev
+	.section	.text.unlikely._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LCOLDE125:
+	.section	.text._ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LHOTE125:
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.align 2
+.LCOLDB126:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTB126:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13772:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13772
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	leaq	128(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$32, %rsp
+	.cfi_def_cfa_offset 48
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE+16, 16(%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L699
+	leaq	136(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L691
+	movq	152(%rbx), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L707
+.L694:
+	movq	144(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L696
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L696:
+	cmpq	$0, 128(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, 16(%rbx)
+	jne	.L708
+	leaq	72(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	24(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L690
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L690:
+	addq	$32, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L699:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L691:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+	.p2align 4,,10
+	.p2align 3
+.L707:
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	testl	%edx, %edx
+	jg	.L694
+	movq	%rsp, %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L694
+.L708:
+	call	_ZSt9terminatev
+	.cfi_endproc
+.LFE13772:
+	.section	.gcc_except_table
+.LLSDA13772:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13772-.LLSDACSB13772
+.LLSDACSB13772:
+.LLSDACSE13772:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LCOLDE126:
+	.section	.text._ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,"axG",@progbits,_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv,comdat
+.LHOTE126:
+	.section	.text.unlikely._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+	.align 2
+.LCOLDB127:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LHOTB127:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev
+	.type	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev, @function
+_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev:
+.LFB13816:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13816
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$32, %rsp
+	.cfi_def_cfa_offset 48
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE+16, (%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L718
+	leaq	120(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L710
+	movq	136(%rbx), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L726
+.L713:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L715
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L715:
+	cmpq	$0, 112(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rbx)
+	jne	.L727
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L709
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L709:
+	addq	$32, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L718:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L710:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+	.p2align 4,,10
+	.p2align 3
+.L726:
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	testl	%edx, %edx
+	jg	.L713
+	movq	%rsp, %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L713
+.L727:
+	call	_ZSt9terminatev
+	.cfi_endproc
+.LFE13816:
+	.section	.gcc_except_table
+.LLSDA13816:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13816-.LLSDACSB13816
+.LLSDACSB13816:
+.LLSDACSE13816:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+	.size	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev, .-_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev
+	.section	.text.unlikely._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LCOLDE127:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LHOTE127:
+	.weak	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED1Ev
+	.set	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED1Ev,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED2Ev
+	.section	.text.unlikely._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+	.align 2
+.LCOLDB128:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LHOTB128:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev
+	.type	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev, @function
+_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev:
+.LFB13818:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13818
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$32, %rsp
+	.cfi_def_cfa_offset 48
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE+16, (%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L737
+	leaq	120(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L729
+	movq	136(%rbx), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L745
+.L732:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L734
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L734:
+	cmpq	$0, 112(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rbx)
+	jne	.L746
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L736
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L736:
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$32, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L737:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L729:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+	.p2align 4,,10
+	.p2align 3
+.L745:
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	testl	%edx, %edx
+	jg	.L732
+	movq	%rsp, %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L732
+.L746:
+	call	_ZSt9terminatev
+	.cfi_endproc
+.LFE13818:
+	.section	.gcc_except_table
+.LLSDA13818:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13818-.LLSDACSB13818
+.LLSDACSB13818:
+.LLSDACSE13818:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+	.size	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev, .-_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev
+	.section	.text.unlikely._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LCOLDE128:
+	.section	.text._ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev,"axG",@progbits,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED5Ev,comdat
+.LHOTE128:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB129:
+	.text
+.LHOTB129:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv:
+.LFB13801:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13801
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$152, %rsp
+	.cfi_def_cfa_offset 176
+	movq	%rax, 48(%rsp)
+	leaq	120(%rdi), %rax
+	movl	$40, %edi
+	movq	$_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEEE9_M_invokeERKSt9_Any_data, 80(%rsp)
+	movq	$_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation, 72(%rsp)
+	movq	%rax, 56(%rsp)
+	movq	$0, 32(%rsp)
+.LEHB30:
+	call	_Znwm
+.LEHE30:
+	movq	48(%rsp), %rdx
+	movq	8(%rax), %r9
+	leaq	16(%rsp), %rbp
+	movq	$0, 24(%rax)
+	movq	16(%rax), %r10
+	movq	32(%rax), %rcx
+	movq	%rdx, (%rax)
+	movq	64(%rsp), %rdi
+	movq	56(%rsp), %rsi
+	movq	%r10, 64(%rsp)
+	movq	%r9, 56(%rsp)
+	movq	%rax, 16(%rsp)
+	movq	%rdi, 16(%rax)
+	movb	$0, 15(%rsp)
+	movq	%rsi, 8(%rax)
+	movq	72(%rsp), %rdx
+	movq	$0, 72(%rsp)
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation, 32(%rsp)
+	movq	%rbp, 104(%rsp)
+	movq	%rbx, 112(%rsp)
+	movq	%rdx, 24(%rax)
+	movq	80(%rsp), %rdx
+	movq	%rcx, 80(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 120(%rsp)
+	movq	%rdx, 32(%rax)
+	leaq	15(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movq	$0, 128(%rsp)
+	movq	%rax, 96(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rdx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L778
+	leaq	108(%rbx), %rdi
+	movl	$__once_proxy, %esi
+.LEHB31:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+.LEHE31:
+	testl	%eax, %eax
+	jne	.L749
+	cmpb	$0, 15(%rsp)
+	jne	.L779
+.L754:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L755
+	movl	$3, %edx
+	movq	%rbp, %rsi
+	movq	%rbp, %rdi
+	call	*%rax
+.L755:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L747
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L747:
+	addq	$152, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L778:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L749:
+	movl	%eax, %edi
+.LEHB32:
+	call	_ZSt20__throw_system_errori
+.LEHE32:
+	.p2align 4,,10
+	.p2align 3
+.L779:
+	leaq	56(%rbx), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	jmp	.L754
+.L760:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L752
+	movl	$3, %edx
+	movq	%rbp, %rsi
+	movq	%rbp, %rdi
+	call	*%rax
+.L752:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L759
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L759:
+	movq	%rbx, %rdi
+.LEHB33:
+	call	_Unwind_Resume
+.LEHE33:
+.L761:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L752
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L752
+	.cfi_endproc
+.LFE13801:
+	.section	.gcc_except_table
+.LLSDA13801:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13801-.LLSDACSB13801
+.LLSDACSB13801:
+	.uleb128 .LEHB30-.LFB13801
+	.uleb128 .LEHE30-.LEHB30
+	.uleb128 .L761-.LFB13801
+	.uleb128 0
+	.uleb128 .LEHB31-.LFB13801
+	.uleb128 .LEHE31-.LEHB31
+	.uleb128 .L760-.LFB13801
+	.uleb128 0
+	.uleb128 .LEHB32-.LFB13801
+	.uleb128 .LEHE32-.LEHB32
+	.uleb128 .L760-.LFB13801
+	.uleb128 0
+	.uleb128 .LEHB33-.LFB13801
+	.uleb128 .LEHE33-.LEHB33
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13801:
+	.text
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv
+	.section	.text.unlikely
+.LCOLDE129:
+	.text
+.LHOTE129:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB130:
+	.text
+.LHOTB130:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv:
+.LFB13795:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13795
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$152, %rsp
+	.cfi_def_cfa_offset 176
+	movq	%rax, 48(%rsp)
+	leaq	120(%rdi), %rax
+	movl	$40, %edi
+	movq	$_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEEE9_M_invokeERKSt9_Any_data, 80(%rsp)
+	movq	$_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation, 72(%rsp)
+	movq	%rax, 56(%rsp)
+	movq	$0, 32(%rsp)
+.LEHB34:
+	call	_Znwm
+.LEHE34:
+	movq	48(%rsp), %rdx
+	movq	8(%rax), %r9
+	leaq	16(%rsp), %rbp
+	movq	$0, 24(%rax)
+	movq	16(%rax), %r10
+	movq	32(%rax), %rcx
+	movq	%rdx, (%rax)
+	movq	64(%rsp), %rdi
+	movq	56(%rsp), %rsi
+	movq	%r10, 64(%rsp)
+	movq	%r9, 56(%rsp)
+	movq	%rax, 16(%rsp)
+	movq	%rdi, 16(%rax)
+	movb	$0, 15(%rsp)
+	movq	%rsi, 8(%rax)
+	movq	72(%rsp), %rdx
+	movq	$0, 72(%rsp)
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation, 32(%rsp)
+	movq	%rbp, 104(%rsp)
+	movq	%rbx, 112(%rsp)
+	movq	%rdx, 24(%rax)
+	movq	80(%rsp), %rdx
+	movq	%rcx, 80(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 120(%rsp)
+	movq	%rdx, 32(%rax)
+	leaq	15(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movq	$0, 128(%rsp)
+	movq	%rax, 96(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rdx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L811
+	leaq	108(%rbx), %rdi
+	movl	$__once_proxy, %esi
+.LEHB35:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+.LEHE35:
+	testl	%eax, %eax
+	jne	.L782
+	cmpb	$0, 15(%rsp)
+	jne	.L812
+.L787:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L788
+	movl	$3, %edx
+	movq	%rbp, %rsi
+	movq	%rbp, %rdi
+	call	*%rax
+.L788:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L780
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L780:
+	addq	$152, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L811:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L782:
+	movl	%eax, %edi
+.LEHB36:
+	call	_ZSt20__throw_system_errori
+.LEHE36:
+	.p2align 4,,10
+	.p2align 3
+.L812:
+	leaq	56(%rbx), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	jmp	.L787
+.L793:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L785
+	movl	$3, %edx
+	movq	%rbp, %rsi
+	movq	%rbp, %rdi
+	call	*%rax
+.L785:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L792
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L792:
+	movq	%rbx, %rdi
+.LEHB37:
+	call	_Unwind_Resume
+.LEHE37:
+.L794:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L785
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L785
+	.cfi_endproc
+.LFE13795:
+	.section	.gcc_except_table
+.LLSDA13795:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13795-.LLSDACSB13795
+.LLSDACSB13795:
+	.uleb128 .LEHB34-.LFB13795
+	.uleb128 .LEHE34-.LEHB34
+	.uleb128 .L794-.LFB13795
+	.uleb128 0
+	.uleb128 .LEHB35-.LFB13795
+	.uleb128 .LEHE35-.LEHB35
+	.uleb128 .L793-.LFB13795
+	.uleb128 0
+	.uleb128 .LEHB36-.LFB13795
+	.uleb128 .LEHE36-.LEHB36
+	.uleb128 .L793-.LFB13795
+	.uleb128 0
+	.uleb128 .LEHB37-.LFB13795
+	.uleb128 .LEHE37-.LEHB37
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13795:
+	.text
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv
+	.section	.text.unlikely
+.LCOLDE130:
+	.text
+.LHOTE130:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB131:
+	.text
+.LHOTB131:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13698:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	32(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, 16(%rdi)
+	testq	%rbx, %rbx
+	je	.L813
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L816
+	lock; subl	$1, 8(%rbx)
+	je	.L824
+.L813:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L816:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L813
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L820
+.L824:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L820:
+	cmpl	$1, %eax
+	jne	.L813
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13698:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely
+.LCOLDE131:
+	.text
+.LHOTE131:
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED5Ev,comdat
+	.align 2
+.LCOLDB132:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LHOTB132:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev:
+.LFB13595:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	16(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, (%rdi)
+	testq	%rbx, %rbx
+	je	.L825
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L828
+	lock; subl	$1, 8(%rbx)
+	je	.L836
+.L825:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L828:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L825
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L832
+.L836:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L832:
+	cmpl	$1, %eax
+	jne	.L825
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13595:
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LCOLDE132:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LHOTE132:
+	.weak	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED1Ev
+	.set	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED1Ev,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB133:
+	.text
+.LHOTB133:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev:
+.LFB13591:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	16(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, (%rdi)
+	testq	%rbx, %rbx
+	je	.L837
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L840
+	lock; subl	$1, 8(%rbx)
+	je	.L848
+.L837:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L840:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L837
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L844
+.L848:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L844:
+	cmpl	$1, %eax
+	jne	.L837
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13591:
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev
+	.section	.text.unlikely
+.LCOLDE133:
+	.text
+.LHOTE133:
+	.set	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED1Ev,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB134:
+	.text
+.LHOTB134:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev:
+.LFB13587:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	16(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, (%rdi)
+	testq	%rbx, %rbx
+	je	.L849
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L852
+	lock; subl	$1, 8(%rbx)
+	je	.L860
+.L849:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L852:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L849
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L856
+.L860:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L856:
+	cmpl	$1, %eax
+	jne	.L849
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13587:
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev
+	.section	.text.unlikely
+.LCOLDE134:
+	.text
+.LHOTE134:
+	.set	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED1Ev,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED2Ev
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED5Ev,comdat
+	.align 2
+.LCOLDB135:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LHOTB135:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev:
+.LFB13599:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	16(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, (%rdi)
+	testq	%rbx, %rbx
+	je	.L861
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L864
+	lock; subl	$1, 8(%rbx)
+	je	.L872
+.L861:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L864:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L861
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L868
+.L872:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L868:
+	cmpl	$1, %eax
+	jne	.L861
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13599:
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LCOLDE135:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LHOTE135:
+	.weak	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED1Ev
+	.set	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED1Ev,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB136:
+	.text
+.LHOTB136:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13691:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	32(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, 16(%rdi)
+	testq	%rbx, %rbx
+	je	.L873
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L876
+	lock; subl	$1, 8(%rbx)
+	je	.L884
+.L873:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L876:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L873
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L880
+.L884:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L880:
+	cmpl	$1, %eax
+	jne	.L873
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE13691:
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely
+.LCOLDE136:
+	.text
+.LHOTE136:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB137:
+	.text
+.LHOTB137:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev:
+.LFB13593:
+	.cfi_startproc
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbp
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	16(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, (%rdi)
+	testq	%rbx, %rbx
+	je	.L887
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L888
+	lock; subl	$1, 8(%rbx)
+	je	.L896
+.L887:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbp, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.p2align 4,,10
+	.p2align 3
+.L888:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L887
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L892
+.L896:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L892:
+	cmpl	$1, %eax
+	jne	.L887
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L887
+	.cfi_endproc
+.LFE13593:
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev
+	.section	.text.unlikely
+.LCOLDE137:
+	.text
+.LHOTE137:
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED5Ev,comdat
+	.align 2
+.LCOLDB138:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LHOTB138:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev:
+.LFB13597:
+	.cfi_startproc
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbp
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	16(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, (%rdi)
+	testq	%rbx, %rbx
+	je	.L899
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L900
+	lock; subl	$1, 8(%rbx)
+	je	.L908
+.L899:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbp, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.p2align 4,,10
+	.p2align 3
+.L900:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L899
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L904
+.L908:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L904:
+	cmpl	$1, %eax
+	jne	.L899
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L899
+	.cfi_endproc
+.LFE13597:
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LCOLDE138:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LHOTE138:
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED5Ev,comdat
+	.align 2
+.LCOLDB139:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LHOTB139:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev:
+.LFB13601:
+	.cfi_startproc
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbp
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	16(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, (%rdi)
+	testq	%rbx, %rbx
+	je	.L911
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L912
+	lock; subl	$1, 8(%rbx)
+	je	.L920
+.L911:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbp, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.p2align 4,,10
+	.p2align 3
+.L912:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L911
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L916
+.L920:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L916:
+	cmpl	$1, %eax
+	jne	.L911
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L911
+	.cfi_endproc
+.LFE13601:
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LCOLDE139:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED5Ev,comdat
+.LHOTE139:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB140:
+	.text
+.LHOTB140:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev:
+.LFB13589:
+	.cfi_startproc
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbp
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	16(%rdi), %rbx
+	movq	$_ZTVNSt6thread10_Impl_baseE+16, (%rdi)
+	testq	%rbx, %rbx
+	je	.L923
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L924
+	lock; subl	$1, 8(%rbx)
+	je	.L932
+.L923:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbp, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.p2align 4,,10
+	.p2align 3
+.L924:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L923
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L928
+.L932:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L928:
+	cmpl	$1, %eax
+	jne	.L923
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L923
+	.cfi_endproc
+.LFE13589:
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev
+	.section	.text.unlikely
+.LCOLDE140:
+	.text
+.LHOTE140:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB141:
+	.text
+.LHOTB141:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13723:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13723
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	144(%rdi), %rbp
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, 16(%rdi)
+	testq	%rbp, %rbp
+	je	.L935
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L936
+	lock; subl	$1, 8(%rbp)
+	je	.L949
+.L935:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L940
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L940:
+	leaq	72(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	24(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L933
+	movq	(%rdi), %rax
+	movq	(%rax), %rax
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L936:
+	.cfi_restore_state
+	movl	8(%rbp), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbp)
+	jne	.L935
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	movl	12(%rbp), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbp)
+	jmp	.L942
+	.p2align 4,,10
+	.p2align 3
+.L933:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L949:
+	.cfi_restore_state
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+.L942:
+	cmpl	$1, %eax
+	jne	.L935
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L935
+	.cfi_endproc
+.LFE13723:
+	.section	.gcc_except_table
+.LLSDA13723:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13723-.LLSDACSB13723
+.LLSDACSB13723:
+.LLSDACSE13723:
+	.text
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely
+.LCOLDE141:
+	.text
+.LHOTE141:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB142:
+	.text
+.LHOTB142:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13737:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13737
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	144(%rdi), %rbp
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, 16(%rdi)
+	testq	%rbp, %rbp
+	je	.L952
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L953
+	lock; subl	$1, 8(%rbp)
+	je	.L966
+.L952:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L957
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L957:
+	leaq	72(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	24(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L950
+	movq	(%rdi), %rax
+	movq	(%rax), %rax
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L953:
+	.cfi_restore_state
+	movl	8(%rbp), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbp)
+	jne	.L952
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	movl	12(%rbp), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbp)
+	jmp	.L959
+	.p2align 4,,10
+	.p2align 3
+.L950:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L966:
+	.cfi_restore_state
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+.L959:
+	cmpl	$1, %eax
+	jne	.L952
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L952
+	.cfi_endproc
+.LFE13737:
+	.section	.gcc_except_table
+.LLSDA13737:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13737-.LLSDACSB13737
+.LLSDACSB13737:
+.LLSDACSE13737:
+	.text
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely
+.LCOLDE142:
+	.text
+.LHOTE142:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB143:
+	.text
+.LHOTB143:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev:
+.LFB13603:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13603
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	128(%rdi), %rbp
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	testq	%rbp, %rbp
+	je	.L969
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L970
+	lock; subl	$1, 8(%rbp)
+	je	.L983
+.L969:
+	movq	112(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L974
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L974:
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L967
+	movq	(%rdi), %rax
+	movq	(%rax), %rax
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L970:
+	.cfi_restore_state
+	movl	8(%rbp), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbp)
+	jne	.L969
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	movl	12(%rbp), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbp)
+	jmp	.L976
+	.p2align 4,,10
+	.p2align 3
+.L967:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L983:
+	.cfi_restore_state
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+.L976:
+	cmpl	$1, %eax
+	jne	.L969
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L969
+	.cfi_endproc
+.LFE13603:
+	.section	.gcc_except_table
+.LLSDA13603:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13603-.LLSDACSB13603
+.LLSDACSB13603:
+.LLSDACSE13603:
+	.text
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely
+.LCOLDE143:
+	.text
+.LHOTE143:
+	.set	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB144:
+	.text
+.LHOTB144:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev:
+.LFB13607:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13607
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	128(%rdi), %rbp
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	testq	%rbp, %rbp
+	je	.L986
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L987
+	lock; subl	$1, 8(%rbp)
+	je	.L1000
+.L986:
+	movq	112(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L991
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L991:
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L984
+	movq	(%rdi), %rax
+	movq	(%rax), %rax
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	*%rax
+	.p2align 4,,10
+	.p2align 3
+.L987:
+	.cfi_restore_state
+	movl	8(%rbp), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbp)
+	jne	.L986
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	movl	12(%rbp), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbp)
+	jmp	.L993
+	.p2align 4,,10
+	.p2align 3
+.L984:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L1000:
+	.cfi_restore_state
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+.L993:
+	cmpl	$1, %eax
+	jne	.L986
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L986
+	.cfi_endproc
+.LFE13607:
+	.section	.gcc_except_table
+.LLSDA13607:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13607-.LLSDACSB13607
+.LLSDACSB13607:
+.LLSDACSE13607:
+	.text
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely
+.LCOLDE144:
+	.text
+.LHOTE144:
+	.set	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev,_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB145:
+	.text
+.LHOTB145:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev:
+.LFB13609:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13609
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	128(%rdi), %rbp
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	testq	%rbp, %rbp
+	je	.L1003
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1004
+	lock; subl	$1, 8(%rbp)
+	je	.L1020
+.L1003:
+	movq	112(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1008
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1008:
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1009
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1009:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.p2align 4,,10
+	.p2align 3
+.L1004:
+	.cfi_restore_state
+	movl	8(%rbp), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbp)
+	jne	.L1003
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	movl	12(%rbp), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbp)
+	jmp	.L1010
+.L1020:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+.L1010:
+	cmpl	$1, %eax
+	jne	.L1003
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L1003
+	.cfi_endproc
+.LFE13609:
+	.section	.gcc_except_table
+.LLSDA13609:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13609-.LLSDACSB13609
+.LLSDACSB13609:
+.LLSDACSE13609:
+	.text
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.section	.text.unlikely
+.LCOLDE145:
+	.text
+.LHOTE145:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB146:
+	.text
+.LHOTB146:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, @function
+_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev:
+.LFB13605:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13605
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbx
+	subq	$8, %rsp
+	.cfi_def_cfa_offset 32
+	movq	128(%rdi), %rbp
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	testq	%rbp, %rbp
+	je	.L1023
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1024
+	lock; subl	$1, 8(%rbp)
+	je	.L1040
+.L1023:
+	movq	112(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1028
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1028:
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1029
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1029:
+	addq	$8, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	jmp	_ZdlPv
+	.p2align 4,,10
+	.p2align 3
+.L1024:
+	.cfi_restore_state
+	movl	8(%rbp), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbp)
+	jne	.L1023
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	movl	12(%rbp), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbp)
+	jmp	.L1030
+.L1040:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+.L1030:
+	cmpl	$1, %eax
+	jne	.L1023
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L1023
+	.cfi_endproc
+.LFE13605:
+	.section	.gcc_except_table
+.LLSDA13605:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13605-.LLSDACSB13605
+.LLSDACSB13605:
+.LLSDACSE13605:
+	.text
+	.size	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, .-_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.section	.text.unlikely
+.LCOLDE146:
+	.text
+.LHOTE146:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB147:
+	.text
+.LHOTB147:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13744:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13744
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	128(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 64
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, 16(%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1052
+	leaq	136(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1042
+	movq	160(%rbx), %rbp
+	testq	%rbp, %rbp
+	je	.L1045
+	lock; subl	$1, 8(%rbp)
+	je	.L1062
+.L1045:
+	movq	144(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1048
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1048:
+	cmpq	$0, 128(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, 16(%rbx)
+	jne	.L1063
+	leaq	72(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	24(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1041
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1041:
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1052:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L1042:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L1063:
+	call	_ZSt9terminatev
+.L1062:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+	subl	$1, %eax
+	jne	.L1045
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L1045
+	.cfi_endproc
+.LFE13744:
+	.section	.gcc_except_table
+.LLSDA13744:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13744-.LLSDACSB13744
+.LLSDACSB13744:
+.LLSDACSE13744:
+	.text
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely
+.LCOLDE147:
+	.text
+.LHOTE147:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB148:
+	.text
+.LHOTB148:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, @function
+_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv:
+.LFB13730:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13730
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	128(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 64
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, 16(%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1075
+	leaq	136(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1065
+	movq	160(%rbx), %rbp
+	testq	%rbp, %rbp
+	je	.L1068
+	lock; subl	$1, 8(%rbp)
+	je	.L1085
+.L1068:
+	movq	144(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1071
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1071:
+	cmpq	$0, 128(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, 16(%rbx)
+	jne	.L1086
+	leaq	72(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	24(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1064
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1064:
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1075:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L1065:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L1086:
+	call	_ZSt9terminatev
+.L1085:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+	subl	$1, %eax
+	jne	.L1068
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L1068
+	.cfi_endproc
+.LFE13730:
+	.section	.gcc_except_table
+.LLSDA13730:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13730-.LLSDACSB13730
+.LLSDACSB13730:
+.LLSDACSE13730:
+	.text
+	.size	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv, .-_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.section	.text.unlikely
+.LCOLDE148:
+	.text
+.LHOTE148:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB149:
+	.text
+.LHOTB149:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, @function
+_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev:
+.LFB13798:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13798
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 64
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1098
+	leaq	120(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1088
+	movq	144(%rbx), %rbp
+	testq	%rbp, %rbp
+	je	.L1091
+	lock; subl	$1, 8(%rbp)
+	je	.L1108
+.L1091:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1094
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1094:
+	cmpq	$0, 112(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rbx)
+	jne	.L1109
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1087
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1087:
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1098:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L1088:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L1109:
+	call	_ZSt9terminatev
+.L1108:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+	subl	$1, %eax
+	jne	.L1091
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L1091
+	.cfi_endproc
+.LFE13798:
+	.section	.gcc_except_table
+.LLSDA13798:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13798-.LLSDACSB13798
+.LLSDACSB13798:
+.LLSDACSE13798:
+	.text
+	.size	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, .-_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely
+.LCOLDE149:
+	.text
+.LHOTE149:
+	.set	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB150:
+	.text
+.LHOTB150:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, @function
+_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev:
+.LFB13804:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13804
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 64
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1121
+	leaq	120(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1111
+	movq	144(%rbx), %rbp
+	testq	%rbp, %rbp
+	je	.L1114
+	lock; subl	$1, 8(%rbp)
+	je	.L1131
+.L1114:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1117
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1117:
+	cmpq	$0, 112(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rbx)
+	jne	.L1132
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1110
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1110:
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1121:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L1111:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L1132:
+	call	_ZSt9terminatev
+.L1131:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+	subl	$1, %eax
+	jne	.L1114
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L1114
+	.cfi_endproc
+.LFE13804:
+	.section	.gcc_except_table
+.LLSDA13804:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13804-.LLSDACSB13804
+.LLSDACSB13804:
+.LLSDACSE13804:
+	.text
+	.size	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev, .-_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely
+.LCOLDE150:
+	.text
+.LHOTE150:
+	.set	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev,_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED2Ev
+	.section	.text.unlikely
+	.align 2
+.LCOLDB151:
+	.text
+.LHOTB151:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, @function
+_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev:
+.LFB13800:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13800
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 64
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1144
+	leaq	120(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1134
+	movq	144(%rbx), %rbp
+	testq	%rbp, %rbp
+	je	.L1137
+	lock; subl	$1, 8(%rbp)
+	je	.L1155
+.L1137:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1140
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1140:
+	cmpq	$0, 112(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rbx)
+	jne	.L1156
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1142
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1142:
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1144:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L1134:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L1156:
+	call	_ZSt9terminatev
+.L1155:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+	subl	$1, %eax
+	jne	.L1137
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L1137
+	.cfi_endproc
+.LFE13800:
+	.section	.gcc_except_table
+.LLSDA13800:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13800-.LLSDACSB13800
+.LLSDACSB13800:
+.LLSDACSE13800:
+	.text
+	.size	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, .-_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.section	.text.unlikely
+.LCOLDE151:
+	.text
+.LHOTE151:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB152:
+	.text
+.LHOTB152:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, @function
+_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev:
+.LFB13806:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13806
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	leaq	112(%rdi), %rax
+	movq	%rdi, %rbx
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 64
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rdi)
+	movq	%rax, (%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt6thread4joinEv, 8(%rsp)
+	movq	$0, 16(%rsp)
+	movq	%rsp, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMSt6threadFvvEESt17reference_wrapperIS2_EEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1168
+	leaq	120(%rdi), %rdi
+	movl	$__once_proxy, %esi
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1158
+	movq	144(%rbx), %rbp
+	testq	%rbp, %rbp
+	je	.L1161
+	lock; subl	$1, 8(%rbp)
+	je	.L1179
+.L1161:
+	movq	128(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1164
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1164:
+	cmpq	$0, 112(%rbx)
+	movq	$_ZTVNSt13__future_base21_Async_state_commonV2E+16, (%rbx)
+	jne	.L1180
+	leaq	56(%rbx), %rdi
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, (%rbx)
+	call	_ZNSt18condition_variableD1Ev
+	movq	8(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1166
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1166:
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1168:
+	.cfi_restore_state
+	movl	$-1, %eax
+.L1158:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L1180:
+	call	_ZSt9terminatev
+.L1179:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+	subl	$1, %eax
+	jne	.L1161
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L1161
+	.cfi_endproc
+.LFE13806:
+	.section	.gcc_except_table
+.LLSDA13806:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13806-.LLSDACSB13806
+.LLSDACSB13806:
+.LLSDACSE13806:
+	.text
+	.size	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev, .-_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.section	.text.unlikely
+.LCOLDE152:
+	.text
+.LHOTE152:
+	.section	.text.unlikely._ZNSt15__exception_ptr13exception_ptraSEOS0_,"axG",@progbits,_ZNSt15__exception_ptr13exception_ptraSEOS0_,comdat
+	.align 2
+.LCOLDB153:
+	.section	.text._ZNSt15__exception_ptr13exception_ptraSEOS0_,"axG",@progbits,_ZNSt15__exception_ptr13exception_ptraSEOS0_,comdat
+.LHOTB153:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt15__exception_ptr13exception_ptraSEOS0_
+	.type	_ZNSt15__exception_ptr13exception_ptraSEOS0_, @function
+_ZNSt15__exception_ptr13exception_ptraSEOS0_:
+.LFB366:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	subq	$16, %rsp
+	.cfi_def_cfa_offset 32
+	movq	(%rsi), %rax
+	movq	$0, (%rsi)
+	movq	%rdi, %rsi
+	movq	%rsp, %rdi
+	movq	%rax, (%rsp)
+	call	_ZNSt15__exception_ptr13exception_ptr4swapERS0_
+	movq	%rsp, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	addq	$16, %rsp
+	.cfi_def_cfa_offset 16
+	movq	%rbx, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.cfi_endproc
+.LFE366:
+	.size	_ZNSt15__exception_ptr13exception_ptraSEOS0_, .-_ZNSt15__exception_ptr13exception_ptraSEOS0_
+	.section	.text.unlikely._ZNSt15__exception_ptr13exception_ptraSEOS0_,"axG",@progbits,_ZNSt15__exception_ptr13exception_ptraSEOS0_,comdat
+.LCOLDE153:
+	.section	.text._ZNSt15__exception_ptr13exception_ptraSEOS0_,"axG",@progbits,_ZNSt15__exception_ptr13exception_ptraSEOS0_,comdat
+.LHOTE153:
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDB154:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTB154:
+	.p2align 4,,15
+	.weak	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data
+	.type	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data, @function
+_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data:
+.LFB12794:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12794
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbp
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 64
+	movq	(%rsi), %rbx
+	cmpq	$0, 24(%rbx)
+	je	.L1205
+	leaq	8(%rbx), %rsi
+	leaq	16(%rsp), %rdi
+.LEHB38:
+	call	*32(%rbx)
+	movq	(%rbx), %rdx
+	movq	16(%rsp), %rax
+	movq	(%rdx), %rcx
+	cmpq	$-16, %rcx
+	je	.L1186
+	movq	%rax, 16(%rcx)
+	movq	$_ZNSs4_Rep20_S_empty_rep_storageE+24, 16(%rsp)
+	movl	$_ZNSs4_Rep20_S_empty_rep_storageE+24, %eax
+.L1186:
+	leaq	-24(%rax), %rdi
+	movb	$1, 24(%rcx)
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L1206
+.L1196:
+	movq	(%rdx), %rax
+	movq	$0, (%rdx)
+	movq	%rax, 0(%rbp)
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbp, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1206:
+	.cfi_restore_state
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L1189
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L1190:
+	testl	%eax, %eax
+	jle	.L1207
+.L1204:
+	movq	(%rbx), %rdx
+	jmp	.L1196
+	.p2align 4,,10
+	.p2align 3
+.L1189:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L1190
+	.p2align 4,,10
+	.p2align 3
+.L1207:
+	movq	%rsp, %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	movq	(%rbx), %rdx
+	jmp	.L1196
+.L1205:
+	call	_ZSt25__throw_bad_function_callv
+.LEHE38:
+.L1198:
+	movq	%rax, %rdi
+.L1193:
+	subq	$1, %rdx
+	jne	.L1202
+	call	__cxa_begin_catch
+.LEHB39:
+	call	__cxa_rethrow
+.LEHE39:
+.L1202:
+	call	__cxa_begin_catch
+	movq	%rsp, %rdi
+	call	_ZSt17current_exceptionv
+	movq	(%rbx), %rax
+	movq	%rsp, %rsi
+	movq	(%rax), %rdi
+	addq	$8, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptraSEOS0_
+	movq	%rsp, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+.LEHB40:
+	call	__cxa_end_catch
+	jmp	.L1204
+.L1197:
+	movq	%rax, %rbx
+.L1192:
+	call	__cxa_end_catch
+	movq	%rbx, %rdi
+	call	_Unwind_Resume
+.LEHE40:
+	.cfi_endproc
+.LFE12794:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA12794:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT12794-.LLSDATTD12794
+.LLSDATTD12794:
+	.byte	0x1
+	.uleb128 .LLSDACSE12794-.LLSDACSB12794
+.LLSDACSB12794:
+	.uleb128 .LEHB38-.LFB12794
+	.uleb128 .LEHE38-.LEHB38
+	.uleb128 .L1198-.LFB12794
+	.uleb128 0x3
+	.uleb128 .LEHB39-.LFB12794
+	.uleb128 .LEHE39-.LEHB39
+	.uleb128 .L1197-.LFB12794
+	.uleb128 0
+	.uleb128 .LEHB40-.LFB12794
+	.uleb128 .LEHE40-.LEHB40
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE12794:
+	.byte	0x2
+	.byte	0
+	.byte	0x1
+	.byte	0x7d
+	.align 4
+	.long	0
+
+	.long	_ZTIN10__cxxabiv115__forced_unwindE
+.LLSDATT12794:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,comdat
+	.size	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data, .-_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDE154:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTE154:
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDB155:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTB155:
+	.p2align 4,,15
+	.weak	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data
+	.type	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data, @function
+_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data:
+.LFB12856:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12856
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbp
+	subq	$24, %rsp
+	.cfi_def_cfa_offset 48
+	movq	(%rsi), %rbx
+	cmpq	$0, 24(%rbx)
+	je	.L1224
+	leaq	8(%rbx), %rdi
+.LEHB41:
+	call	*32(%rbx)
+	movq	(%rbx), %rcx
+	movq	(%rcx), %rdx
+	cmpq	$-16, %rdx
+	je	.L1210
+	movq	%rax, 16(%rdx)
+.L1210:
+	movb	$1, 24(%rdx)
+.L1215:
+	movq	$0, (%rcx)
+	movq	%rdx, 0(%rbp)
+	addq	$24, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	movq	%rbp, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L1224:
+	.cfi_restore_state
+	call	_ZSt25__throw_bad_function_callv
+.LEHE41:
+.L1217:
+	movq	%rax, %rdi
+.L1212:
+	subq	$1, %rdx
+	jne	.L1222
+	call	__cxa_begin_catch
+.LEHB42:
+	call	__cxa_rethrow
+.LEHE42:
+.L1222:
+	call	__cxa_begin_catch
+	movq	%rsp, %rdi
+	call	_ZSt17current_exceptionv
+	movq	(%rbx), %rax
+	movq	%rsp, %rsi
+	movq	(%rax), %rdi
+	addq	$8, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptraSEOS0_
+	movq	%rsp, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+.LEHB43:
+	call	__cxa_end_catch
+	movq	(%rbx), %rcx
+	movq	(%rcx), %rdx
+	jmp	.L1215
+.L1216:
+	movq	%rax, %rbx
+.L1211:
+	call	__cxa_end_catch
+	movq	%rbx, %rdi
+	call	_Unwind_Resume
+.LEHE43:
+	.cfi_endproc
+.LFE12856:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA12856:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT12856-.LLSDATTD12856
+.LLSDATTD12856:
+	.byte	0x1
+	.uleb128 .LLSDACSE12856-.LLSDACSB12856
+.LLSDACSB12856:
+	.uleb128 .LEHB41-.LFB12856
+	.uleb128 .LEHE41-.LEHB41
+	.uleb128 .L1217-.LFB12856
+	.uleb128 0x3
+	.uleb128 .LEHB42-.LFB12856
+	.uleb128 .LEHE42-.LEHB42
+	.uleb128 .L1216-.LFB12856
+	.uleb128 0
+	.uleb128 .LEHB43-.LFB12856
+	.uleb128 .LEHE43-.LEHB43
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE12856:
+	.byte	0x2
+	.byte	0
+	.byte	0x1
+	.byte	0x7d
+	.align 4
+	.long	0
+
+	.long	_ZTIN10__cxxabiv115__forced_unwindE
+.LLSDATT12856:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,comdat
+	.size	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data, .-_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDE155:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTE155:
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDB156:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTB156:
+	.p2align 4,,15
+	.weak	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data
+	.type	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data, @function
+_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data:
+.LFB12914:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA12914
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	.cfi_offset 3, -24
+	movq	%rdi, %rbp
+	subq	$24, %rsp
+	.cfi_def_cfa_offset 48
+	movq	(%rsi), %rbx
+	cmpq	$0, 24(%rbx)
+	je	.L1241
+	leaq	8(%rbx), %rdi
+.LEHB44:
+	call	*32(%rbx)
+	movq	(%rbx), %rcx
+	movq	(%rcx), %rdx
+	cmpq	$-16, %rdx
+	je	.L1227
+	movsd	%xmm0, 16(%rdx)
+.L1227:
+	movb	$1, 24(%rdx)
+.L1232:
+	movq	$0, (%rcx)
+	movq	%rbp, %rax
+	movq	%rdx, 0(%rbp)
+	addq	$24, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 24
+	popq	%rbx
+	.cfi_def_cfa_offset 16
+	popq	%rbp
+	.cfi_def_cfa_offset 8
+	ret
+.L1241:
+	.cfi_restore_state
+	call	_ZSt25__throw_bad_function_callv
+.LEHE44:
+.L1234:
+	movq	%rax, %rdi
+.L1229:
+	subq	$1, %rdx
+	jne	.L1239
+	call	__cxa_begin_catch
+.LEHB45:
+	call	__cxa_rethrow
+.LEHE45:
+.L1239:
+	call	__cxa_begin_catch
+	movq	%rsp, %rdi
+	call	_ZSt17current_exceptionv
+	movq	(%rbx), %rax
+	movq	%rsp, %rsi
+	movq	(%rax), %rdi
+	addq	$8, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptraSEOS0_
+	movq	%rsp, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+.LEHB46:
+	call	__cxa_end_catch
+	movq	(%rbx), %rcx
+	movq	(%rcx), %rdx
+	jmp	.L1232
+.L1233:
+	movq	%rax, %rbx
+.L1228:
+	call	__cxa_end_catch
+	movq	%rbx, %rdi
+	call	_Unwind_Resume
+.LEHE46:
+	.cfi_endproc
+.LFE12914:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA12914:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT12914-.LLSDATTD12914
+.LLSDATTD12914:
+	.byte	0x1
+	.uleb128 .LLSDACSE12914-.LLSDACSB12914
+.LLSDACSB12914:
+	.uleb128 .LEHB44-.LFB12914
+	.uleb128 .LEHE44-.LEHB44
+	.uleb128 .L1234-.LFB12914
+	.uleb128 0x3
+	.uleb128 .LEHB45-.LFB12914
+	.uleb128 .LEHE45-.LEHB45
+	.uleb128 .L1233-.LFB12914
+	.uleb128 0
+	.uleb128 .LEHB46-.LFB12914
+	.uleb128 .LEHE46-.LEHB46
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE12914:
+	.byte	0x2
+	.byte	0
+	.byte	0x1
+	.byte	0x7d
+	.align 4
+	.long	0
+
+	.long	_ZTIN10__cxxabiv115__forced_unwindE
+.LLSDATT12914:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,comdat
+	.size	_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data, .-_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data
+	.section	.text.unlikely._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,comdat
+.LCOLDE156:
+	.section	.text._ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,"axG",@progbits,_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data,comdat
+.LHOTE156:
+	.section	.rodata.str1.1
+.LC157:
+	.string	"std::future_error"
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,"axG",@progbits,_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,comdat
+	.align 2
+.LCOLDB158:
+	.section	.text._ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,"axG",@progbits,_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,comdat
+.LHOTB158:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE
+	.type	_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE, @function
+_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE:
+.LFB9507:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA9507
+	cmpq	$0, (%rsi)
+	je	.L1266
+	pushq	%r14
+	.cfi_def_cfa_offset 16
+	.cfi_offset 14, -16
+	pushq	%r13
+	.cfi_def_cfa_offset 24
+	.cfi_offset 13, -24
+	pushq	%r12
+	.cfi_def_cfa_offset 32
+	.cfi_offset 12, -32
+	pushq	%rbp
+	.cfi_def_cfa_offset 40
+	.cfi_offset 6, -40
+	movq	%rdi, %r12
+	pushq	%rbx
+	.cfi_def_cfa_offset 48
+	.cfi_offset 3, -48
+	movq	%rsi, %rbp
+	subq	$80, %rsp
+	.cfi_def_cfa_offset 128
+	call	_ZSt15future_categoryv
+	leaq	32(%rsp), %rdi
+	leaq	16(%rsp), %rdx
+	movl	$.LC157, %esi
+	movq	%rax, %rbx
+.LEHB47:
+	call	_ZNSsC1EPKcRKSaIcE
+.LEHE47:
+	leaq	32(%rsp), %rsi
+	leaq	48(%rsp), %rdi
+.LEHB48:
+	call	_ZNSt11logic_errorC2ERKSs
+.LEHE48:
+	movq	32(%rsp), %rdx
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %r13d
+	leaq	-24(%rdx), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L1268
+.L1245:
+	movl	$32, %edi
+	movq	%rbx, 72(%rsp)
+	movq	$_ZTVSt12future_error+16, 48(%rsp)
+	movl	$4, 64(%rsp)
+	call	__cxa_allocate_exception
+	movq	%rax, %rbx
+	movq	$_ZTVSt11logic_error+16, (%rax)
+	leaq	48(%rsp), %rax
+	leaq	8(%rbx), %rdi
+	leaq	8(%rax), %rsi
+.LEHB49:
+	call	_ZNSsC1ERKSs
+.LEHE49:
+	movq	72(%rsp), %rdx
+	movq	64(%rsp), %rax
+	movl	$_ZTISt12future_error, %esi
+	movq	$_ZTVSt12future_error+16, (%rbx)
+	movq	%rbx, %rdi
+	movq	%rdx, 24(%rbx)
+	movq	%rax, 16(%rbx)
+	movl	$_ZNSt12future_errorD1Ev, %edx
+.LEHB50:
+	call	__cxa_throw
+.LEHE50:
+	.p2align 4,,10
+	.p2align 3
+.L1268:
+	testq	%r13, %r13
+	je	.L1246
+	movl	$-1, %eax
+	lock; xaddl	%eax, -8(%rdx)
+.L1247:
+	testl	%eax, %eax
+	jg	.L1245
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L1245
+.L1258:
+	jmp	.L1253
+	.p2align 4,,10
+	.p2align 3
+.L1246:
+	movl	-8(%rdx), %eax
+	leal	-1(%rax), %ecx
+	movl	%ecx, -8(%rdx)
+	jmp	.L1247
+.L1257:
+	movq	%rax, %rbx
+	jmp	.L1250
+.L1252:
+	movq	%rbx, %rdi
+	call	_ZNSt9exceptionD2Ev
+	movq	%rbx, %rdi
+	call	__cxa_free_exception
+	movq	%r14, %rax
+.L1253:
+	movq	%rax, %rdi
+	leaq	16(%r12), %rbx
+	call	__cxa_begin_catch
+	leaq	16(%rsp), %rdi
+	call	_ZSt17current_exceptionv
+	call	__cxa_end_catch
+	movq	0(%rbp), %rax
+	leaq	32(%rsp), %rdi
+	leaq	8(%rax), %rsi
+	movq	16(%rsp), %rax
+	movq	$0, 16(%rsp)
+	movq	%rax, 32(%rsp)
+	call	_ZNSt15__exception_ptr13exception_ptr4swapERS0_
+	leaq	32(%rsp), %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	leaq	16(%rsp), %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	leaq	48(%rsp), %rdi
+	call	_ZNSt12future_errorD1Ev
+	testq	%r13, %r13
+	je	.L1254
+	movq	%rbx, %rdi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L1269
+	movq	8(%r12), %rax
+	movq	0(%rbp), %rdx
+	movq	%rbx, %rdi
+	movq	%rdx, 8(%r12)
+	movq	%rax, 0(%rbp)
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+.L1256:
+	leaq	56(%r12), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	addq	$80, %rsp
+	.cfi_def_cfa_offset 48
+	popq	%rbx
+	.cfi_restore 3
+	.cfi_def_cfa_offset 40
+	popq	%rbp
+	.cfi_restore 6
+	.cfi_def_cfa_offset 32
+	popq	%r12
+	.cfi_restore 12
+	.cfi_def_cfa_offset 24
+	popq	%r13
+	.cfi_restore 13
+	.cfi_def_cfa_offset 16
+	popq	%r14
+	.cfi_restore 14
+	.cfi_def_cfa_offset 8
+.L1266:
+	ret
+.L1250:
+	.cfi_def_cfa_offset 128
+	.cfi_offset 3, -48
+	.cfi_offset 6, -40
+	.cfi_offset 12, -32
+	.cfi_offset 13, -24
+	.cfi_offset 14, -16
+	movq	32(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L1251
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+.L1251:
+	movq	%rbx, %rdi
+.LEHB51:
+	call	_Unwind_Resume
+.L1259:
+	movq	%rax, %r14
+	jmp	.L1252
+.L1269:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.LEHE51:
+.L1254:
+	movq	8(%r12), %rax
+	movq	0(%rbp), %rdx
+	movq	%rdx, 8(%r12)
+	movq	%rax, 0(%rbp)
+	jmp	.L1256
+	.cfi_endproc
+.LFE9507:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA9507:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT9507-.LLSDATTD9507
+.LLSDATTD9507:
+	.byte	0x1
+	.uleb128 .LLSDACSE9507-.LLSDACSB9507
+.LLSDACSB9507:
+	.uleb128 .LEHB47-.LFB9507
+	.uleb128 .LEHE47-.LEHB47
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB48-.LFB9507
+	.uleb128 .LEHE48-.LEHB48
+	.uleb128 .L1257-.LFB9507
+	.uleb128 0
+	.uleb128 .LEHB49-.LFB9507
+	.uleb128 .LEHE49-.LEHB49
+	.uleb128 .L1259-.LFB9507
+	.uleb128 0x3
+	.uleb128 .LEHB50-.LFB9507
+	.uleb128 .LEHE50-.LEHB50
+	.uleb128 .L1258-.LFB9507
+	.uleb128 0x1
+	.uleb128 .LEHB51-.LFB9507
+	.uleb128 .LEHE51-.LEHB51
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE9507:
+	.byte	0x1
+	.byte	0
+	.byte	0
+	.byte	0x7d
+	.align 4
+	.long	0
+
+.LLSDATT9507:
+	.section	.text._ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,"axG",@progbits,_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,comdat
+	.size	_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE, .-_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE
+	.section	.text.unlikely._ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,"axG",@progbits,_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,comdat
+.LCOLDE158:
+	.section	.text._ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,"axG",@progbits,_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE,comdat
+.LHOTE158:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB159:
+	.text
+.LHOTB159:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv:
+.LFB13716:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13716
+	pushq	%r13
+	.cfi_def_cfa_offset 16
+	.cfi_offset 13, -16
+	pushq	%r12
+	.cfi_def_cfa_offset 24
+	.cfi_offset 12, -24
+	pushq	%rbp
+	.cfi_def_cfa_offset 32
+	.cfi_offset 6, -32
+	pushq	%rbx
+	.cfi_def_cfa_offset 40
+	.cfi_offset 3, -40
+	movq	%rdi, %rbp
+	subq	$152, %rsp
+	.cfi_def_cfa_offset 192
+	movq	24(%rdi), %rax
+	movl	$40, %edi
+	movq	$_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEEE9_M_invokeERKSt9_Any_data, 80(%rsp)
+	movq	$_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation, 72(%rsp)
+	movq	$0, 32(%rsp)
+	leaq	128(%rax), %rdx
+	addq	$136, %rax
+	movq	%rax, 56(%rsp)
+	movq	%rdx, 48(%rsp)
+.LEHB52:
+	call	_Znwm
+.LEHE52:
+	movq	48(%rsp), %rdx
+	movq	8(%rax), %rsi
+	leaq	16(%rsp), %r12
+	movq	$0, 24(%rax)
+	movq	16(%rax), %rdi
+	movq	%rdx, (%rax)
+	movq	56(%rsp), %rcx
+	movq	64(%rsp), %rbx
+	movq	%rsi, 56(%rsp)
+	movq	%rdi, 64(%rsp)
+	movq	%rax, 16(%rsp)
+	movq	%rcx, 8(%rax)
+	movb	$0, 15(%rsp)
+	movq	%rbx, 16(%rax)
+	movq	72(%rsp), %rdx
+	movq	$0, 72(%rsp)
+	movq	32(%rax), %rcx
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation, 32(%rsp)
+	movq	%r12, 104(%rsp)
+	movq	%rdx, 24(%rax)
+	movq	80(%rsp), %rdx
+	movq	%rcx, 80(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 120(%rsp)
+	movq	%rdx, 32(%rax)
+	leaq	15(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movq	24(%rbp), %rbx
+	movq	$0, 128(%rsp)
+	movq	%rax, 96(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rbx, 112(%rsp)
+	movq	%rdx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1319
+	leaq	108(%rbx), %rdi
+	movl	$__once_proxy, %esi
+.LEHB53:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1272
+	cmpb	$0, 15(%rsp)
+	jne	.L1320
+	movl	$2, %edi
+	call	_ZSt20__throw_future_errori
+	.p2align 4,,10
+	.p2align 3
+.L1319:
+	movl	$-1, %eax
+.L1272:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.LEHE53:
+	.p2align 4,,10
+	.p2align 3
+.L1320:
+	leaq	56(%rbx), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1279
+	movl	$3, %edx
+	movq	%r12, %rsi
+	movq	%r12, %rdi
+	call	*%rax
+.L1279:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1270
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L1270:
+	addq	$152, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 40
+	popq	%rbx
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_def_cfa_offset 8
+	ret
+.L1293:
+	.cfi_restore_state
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	movq	%rdx, %r13
+	testq	%rax, %rax
+	je	.L1282
+	movl	$3, %edx
+	movq	%r12, %rsi
+	movq	%r12, %rdi
+	call	*%rax
+.L1282:
+	movq	%r13, %r12
+.L1275:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1283
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L1283:
+	subq	$1, %r12
+	jne	.L1321
+	movq	%rbx, %rdi
+	call	__cxa_begin_catch
+	movq	24(%rbp), %rdx
+	movq	128(%rdx), %rax
+	testq	%rax, %rax
+	je	.L1289
+	movq	$0, 128(%rdx)
+	movq	24(%rbp), %rdi
+	leaq	48(%rsp), %rsi
+	movq	%rax, 48(%rsp)
+.LEHB54:
+	call	_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE
+.LEHE54:
+	movq	48(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1289
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1289:
+.LEHB55:
+	call	__cxa_rethrow
+.LEHE55:
+.L1321:
+	movq	%rbx, %rdi
+.LEHB56:
+	call	_Unwind_Resume
+.L1291:
+	movq	%rax, %rbx
+.L1288:
+	call	__cxa_end_catch
+	movq	%rbx, %rdi
+	call	_Unwind_Resume
+.LEHE56:
+.L1294:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	movq	%rdx, %r12
+	testq	%rax, %rax
+	je	.L1275
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L1275
+.L1292:
+	movq	48(%rsp), %rdi
+	movq	%rax, %rbx
+	testq	%rdi, %rdi
+	je	.L1288
+	movq	(%rdi), %rax
+	call	*(%rax)
+	jmp	.L1288
+	.cfi_endproc
+.LFE13716:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA13716:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT13716-.LLSDATTD13716
+.LLSDATTD13716:
+	.byte	0x1
+	.uleb128 .LLSDACSE13716-.LLSDACSB13716
+.LLSDACSB13716:
+	.uleb128 .LEHB52-.LFB13716
+	.uleb128 .LEHE52-.LEHB52
+	.uleb128 .L1294-.LFB13716
+	.uleb128 0x3
+	.uleb128 .LEHB53-.LFB13716
+	.uleb128 .LEHE53-.LEHB53
+	.uleb128 .L1293-.LFB13716
+	.uleb128 0x3
+	.uleb128 .LEHB54-.LFB13716
+	.uleb128 .LEHE54-.LEHB54
+	.uleb128 .L1292-.LFB13716
+	.uleb128 0
+	.uleb128 .LEHB55-.LFB13716
+	.uleb128 .LEHE55-.LEHB55
+	.uleb128 .L1291-.LFB13716
+	.uleb128 0
+	.uleb128 .LEHB56-.LFB13716
+	.uleb128 .LEHE56-.LEHB56
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13716:
+	.byte	0x1
+	.byte	0
+	.byte	0
+	.byte	0x7d
+	.align 4
+	.long	_ZTIN10__cxxabiv115__forced_unwindE
+.LLSDATT13716:
+	.text
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv
+	.section	.text.unlikely
+.LCOLDE159:
+	.text
+.LHOTE159:
+	.section	.text.unlikely
+	.align 2
+.LCOLDB160:
+	.text
+.LHOTB160:
+	.align 2
+	.p2align 4,,15
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv:
+.LFB13715:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13715
+	pushq	%r13
+	.cfi_def_cfa_offset 16
+	.cfi_offset 13, -16
+	pushq	%r12
+	.cfi_def_cfa_offset 24
+	.cfi_offset 12, -24
+	pushq	%rbp
+	.cfi_def_cfa_offset 32
+	.cfi_offset 6, -32
+	pushq	%rbx
+	.cfi_def_cfa_offset 40
+	.cfi_offset 3, -40
+	movq	%rdi, %rbp
+	subq	$152, %rsp
+	.cfi_def_cfa_offset 192
+	movq	24(%rdi), %rax
+	movl	$40, %edi
+	movq	$_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEEE9_M_invokeERKSt9_Any_data, 80(%rsp)
+	movq	$_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEE10_M_managerERSt9_Any_dataRKS8_St18_Manager_operation, 72(%rsp)
+	movq	$0, 32(%rsp)
+	leaq	128(%rax), %rdx
+	addq	$136, %rax
+	movq	%rax, 56(%rsp)
+	movq	%rdx, 48(%rsp)
+.LEHB57:
+	call	_Znwm
+.LEHE57:
+	movq	48(%rsp), %rdx
+	movq	8(%rax), %rsi
+	leaq	16(%rsp), %r12
+	movq	$0, 24(%rax)
+	movq	16(%rax), %rdi
+	movq	%rdx, (%rax)
+	movq	56(%rsp), %rcx
+	movq	64(%rsp), %rbx
+	movq	%rsi, 56(%rsp)
+	movq	%rdi, 64(%rsp)
+	movq	%rax, 16(%rsp)
+	movq	%rcx, 8(%rax)
+	movb	$0, 15(%rsp)
+	movq	%rbx, 16(%rax)
+	movq	72(%rsp), %rdx
+	movq	$0, 72(%rsp)
+	movq	32(%rax), %rcx
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS1_12_Result_base8_DeleterEES9_EEE10_M_managerERSt9_Any_dataRKSG_St18_Manager_operation, 32(%rsp)
+	movq	%r12, 104(%rsp)
+	movq	%rdx, 24(%rax)
+	movq	80(%rsp), %rdx
+	movq	%rcx, 80(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEES3_ESC_EEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 120(%rsp)
+	movq	%rdx, 32(%rax)
+	leaq	15(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movq	24(%rbp), %rbx
+	movq	$0, 128(%rsp)
+	movq	%rax, 96(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rbx, 112(%rsp)
+	movq	%rdx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1371
+	leaq	108(%rbx), %rdi
+	movl	$__once_proxy, %esi
+.LEHB58:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1324
+	cmpb	$0, 15(%rsp)
+	jne	.L1372
+	movl	$2, %edi
+	call	_ZSt20__throw_future_errori
+	.p2align 4,,10
+	.p2align 3
+.L1371:
+	movl	$-1, %eax
+.L1324:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.LEHE58:
+	.p2align 4,,10
+	.p2align 3
+.L1372:
+	leaq	56(%rbx), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1331
+	movl	$3, %edx
+	movq	%r12, %rsi
+	movq	%r12, %rdi
+	call	*%rax
+.L1331:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1322
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L1322:
+	addq	$152, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 40
+	popq	%rbx
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_def_cfa_offset 8
+	ret
+.L1345:
+	.cfi_restore_state
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	movq	%rdx, %r13
+	testq	%rax, %rax
+	je	.L1334
+	movl	$3, %edx
+	movq	%r12, %rsi
+	movq	%r12, %rdi
+	call	*%rax
+.L1334:
+	movq	%r13, %r12
+.L1327:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1335
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L1335:
+	subq	$1, %r12
+	jne	.L1373
+	movq	%rbx, %rdi
+	call	__cxa_begin_catch
+	movq	24(%rbp), %rdx
+	movq	128(%rdx), %rax
+	testq	%rax, %rax
+	je	.L1341
+	movq	$0, 128(%rdx)
+	movq	24(%rbp), %rdi
+	leaq	48(%rsp), %rsi
+	movq	%rax, 48(%rsp)
+.LEHB59:
+	call	_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE
+.LEHE59:
+	movq	48(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1341
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1341:
+.LEHB60:
+	call	__cxa_rethrow
+.LEHE60:
+.L1373:
+	movq	%rbx, %rdi
+.LEHB61:
+	call	_Unwind_Resume
+.L1343:
+	movq	%rax, %rbx
+.L1340:
+	call	__cxa_end_catch
+	movq	%rbx, %rdi
+	call	_Unwind_Resume
+.LEHE61:
+.L1346:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	movq	%rdx, %r12
+	testq	%rax, %rax
+	je	.L1327
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L1327
+.L1344:
+	movq	48(%rsp), %rdi
+	movq	%rax, %rbx
+	testq	%rdi, %rdi
+	je	.L1340
+	movq	(%rdi), %rax
+	call	*(%rax)
+	jmp	.L1340
+	.cfi_endproc
+.LFE13715:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA13715:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT13715-.LLSDATTD13715
+.LLSDATTD13715:
+	.byte	0x1
+	.uleb128 .LLSDACSE13715-.LLSDACSB13715
+.LLSDACSB13715:
+	.uleb128 .LEHB57-.LFB13715
+	.uleb128 .LEHE57-.LEHB57
+	.uleb128 .L1346-.LFB13715
+	.uleb128 0x3
+	.uleb128 .LEHB58-.LFB13715
+	.uleb128 .LEHE58-.LEHB58
+	.uleb128 .L1345-.LFB13715
+	.uleb128 0x3
+	.uleb128 .LEHB59-.LFB13715
+	.uleb128 .LEHE59-.LEHB59
+	.uleb128 .L1344-.LFB13715
+	.uleb128 0
+	.uleb128 .LEHB60-.LFB13715
+	.uleb128 .LEHE60-.LEHB60
+	.uleb128 .L1343-.LFB13715
+	.uleb128 0
+	.uleb128 .LEHB61-.LFB13715
+	.uleb128 .LEHE61-.LEHB61
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13715:
+	.byte	0x1
+	.byte	0
+	.byte	0
+	.byte	0x7d
+	.align 4
+	.long	_ZTIN10__cxxabiv115__forced_unwindE
+.LLSDATT13715:
+	.text
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv
+	.section	.text.unlikely
+.LCOLDE160:
+	.text
+.LHOTE160:
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+	.align 2
+.LCOLDB161:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+.LHOTB161:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv:
+.LFB13718:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13718
+	pushq	%r13
+	.cfi_def_cfa_offset 16
+	.cfi_offset 13, -16
+	pushq	%r12
+	.cfi_def_cfa_offset 24
+	.cfi_offset 12, -24
+	pushq	%rbp
+	.cfi_def_cfa_offset 32
+	.cfi_offset 6, -32
+	pushq	%rbx
+	.cfi_def_cfa_offset 40
+	.cfi_offset 3, -40
+	movq	%rdi, %rbp
+	subq	$152, %rsp
+	.cfi_def_cfa_offset 192
+	movq	24(%rdi), %rax
+	movl	$40, %edi
+	movq	$_ZNSt17_Function_handlerIFSsvESt17reference_wrapperISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEEE9_M_invokeERKSt9_Any_data, 80(%rsp)
+	movq	$_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation, 72(%rsp)
+	movq	$0, 32(%rsp)
+	leaq	128(%rax), %rdx
+	addq	$136, %rax
+	movq	%rax, 56(%rsp)
+	movq	%rdx, 48(%rsp)
+.LEHB62:
+	call	_Znwm
+.LEHE62:
+	movq	48(%rsp), %rdx
+	movq	8(%rax), %rsi
+	leaq	16(%rsp), %r12
+	movq	$0, 24(%rax)
+	movq	16(%rax), %rdi
+	movq	%rdx, (%rax)
+	movq	56(%rsp), %rcx
+	movq	64(%rsp), %rbx
+	movq	%rsi, 56(%rsp)
+	movq	%rdi, 64(%rsp)
+	movq	%rax, 16(%rsp)
+	movq	%rcx, 8(%rax)
+	movb	$0, 15(%rsp)
+	movq	%rbx, 16(%rax)
+	movq	72(%rsp), %rdx
+	movq	$0, 72(%rsp)
+	movq	32(%rax), %rcx
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultISsEENS1_12_Result_base8_DeleterEESsEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation, 32(%rsp)
+	movq	%r12, 104(%rsp)
+	movq	%rdx, 24(%rax)
+	movq	80(%rsp), %rdx
+	movq	%rcx, 80(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultISsEES3_ESsEEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 120(%rsp)
+	movq	%rdx, 32(%rax)
+	leaq	15(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movq	24(%rbp), %rbx
+	movq	$0, 128(%rsp)
+	movq	%rax, 96(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rbx, 112(%rsp)
+	movq	%rdx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1423
+	leaq	108(%rbx), %rdi
+	movl	$__once_proxy, %esi
+.LEHB63:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1376
+	cmpb	$0, 15(%rsp)
+	jne	.L1424
+	movl	$2, %edi
+	call	_ZSt20__throw_future_errori
+	.p2align 4,,10
+	.p2align 3
+.L1423:
+	movl	$-1, %eax
+.L1376:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.LEHE63:
+	.p2align 4,,10
+	.p2align 3
+.L1424:
+	leaq	56(%rbx), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1383
+	movl	$3, %edx
+	movq	%r12, %rsi
+	movq	%r12, %rdi
+	call	*%rax
+.L1383:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1374
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L1374:
+	addq	$152, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 40
+	popq	%rbx
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_def_cfa_offset 8
+	ret
+.L1397:
+	.cfi_restore_state
+	movq	%rax, %rbx
+	movq	%rdx, %r13
+	jmp	.L1385
+.L1398:
+	movq	%rax, %rbx
+	movq	%rdx, %r12
+	jmp	.L1377
+.L1385:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1386
+	movl	$3, %edx
+	movq	%r12, %rsi
+	movq	%r12, %rdi
+	call	*%rax
+.L1386:
+	movq	%r13, %r12
+.L1379:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1387
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L1387:
+	subq	$1, %r12
+	jne	.L1425
+	movq	%rbx, %rdi
+	call	__cxa_begin_catch
+	movq	24(%rbp), %rdx
+	movq	128(%rdx), %rax
+	testq	%rax, %rax
+	je	.L1393
+	movq	$0, 128(%rdx)
+	movq	24(%rbp), %rdi
+	leaq	48(%rsp), %rsi
+	movq	%rax, 48(%rsp)
+.LEHB64:
+	call	_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE
+.LEHE64:
+	movq	48(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1393
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1393:
+.LEHB65:
+	call	__cxa_rethrow
+.LEHE65:
+.L1425:
+	movq	%rbx, %rdi
+.LEHB66:
+	call	_Unwind_Resume
+.LEHE66:
+.L1395:
+	movq	%rax, %rbx
+	jmp	.L1392
+.L1377:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1379
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L1379
+.L1396:
+	movq	%rax, %rbx
+.L1390:
+	movq	48(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1392
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1392:
+	call	__cxa_end_catch
+	movq	%rbx, %rdi
+.LEHB67:
+	call	_Unwind_Resume
+.LEHE67:
+	.cfi_endproc
+.LFE13718:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA13718:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT13718-.LLSDATTD13718
+.LLSDATTD13718:
+	.byte	0x1
+	.uleb128 .LLSDACSE13718-.LLSDACSB13718
+.LLSDACSB13718:
+	.uleb128 .LEHB62-.LFB13718
+	.uleb128 .LEHE62-.LEHB62
+	.uleb128 .L1398-.LFB13718
+	.uleb128 0x3
+	.uleb128 .LEHB63-.LFB13718
+	.uleb128 .LEHE63-.LEHB63
+	.uleb128 .L1397-.LFB13718
+	.uleb128 0x3
+	.uleb128 .LEHB64-.LFB13718
+	.uleb128 .LEHE64-.LEHB64
+	.uleb128 .L1396-.LFB13718
+	.uleb128 0
+	.uleb128 .LEHB65-.LFB13718
+	.uleb128 .LEHE65-.LEHB65
+	.uleb128 .L1395-.LFB13718
+	.uleb128 0
+	.uleb128 .LEHB66-.LFB13718
+	.uleb128 .LEHE66-.LEHB66
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB67-.LFB13718
+	.uleb128 .LEHE67-.LEHB67
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13718:
+	.byte	0x1
+	.byte	0
+	.byte	0
+	.byte	0x7d
+	.align 4
+	.long	_ZTIN10__cxxabiv115__forced_unwindE
+.LLSDATT13718:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+.LCOLDE161:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+.LHOTE161:
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+	.align 2
+.LCOLDB162:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+.LHOTB162:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv
+	.type	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv, @function
+_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv:
+.LFB13717:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13717
+	pushq	%r13
+	.cfi_def_cfa_offset 16
+	.cfi_offset 13, -16
+	pushq	%r12
+	.cfi_def_cfa_offset 24
+	.cfi_offset 12, -24
+	pushq	%rbp
+	.cfi_def_cfa_offset 32
+	.cfi_offset 6, -32
+	pushq	%rbx
+	.cfi_def_cfa_offset 40
+	.cfi_offset 3, -40
+	movq	%rdi, %rbp
+	subq	$152, %rsp
+	.cfi_def_cfa_offset 192
+	movq	24(%rdi), %rax
+	movl	$40, %edi
+	movq	$_ZNSt17_Function_handlerIFmvESt17reference_wrapperISt12_Bind_simpleIFPFmmEiEEEE9_M_invokeERKSt9_Any_data, 80(%rsp)
+	movq	$_ZNSt14_Function_base12_Ref_managerISt12_Bind_simpleIFPFmmEiEEE10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation, 72(%rsp)
+	movq	$0, 32(%rsp)
+	leaq	128(%rax), %rdx
+	addq	$136, %rax
+	movq	%rax, 56(%rsp)
+	movq	%rdx, 48(%rsp)
+.LEHB68:
+	call	_Znwm
+.LEHE68:
+	movq	48(%rsp), %rdx
+	movq	8(%rax), %rsi
+	leaq	16(%rsp), %r12
+	movq	$0, 24(%rax)
+	movq	16(%rax), %rdi
+	movq	%rdx, (%rax)
+	movq	56(%rsp), %rcx
+	movq	64(%rsp), %rbx
+	movq	%rsi, 56(%rsp)
+	movq	%rdi, 64(%rsp)
+	movq	%rax, 16(%rsp)
+	movq	%rcx, 8(%rax)
+	movb	$0, 15(%rsp)
+	movq	%rbx, 16(%rax)
+	movq	72(%rsp), %rdx
+	movq	$0, 72(%rsp)
+	movq	32(%rax), %rcx
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base12_Task_setterISt10unique_ptrINS1_7_ResultImEENS1_12_Result_base8_DeleterEEmEEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation, 32(%rsp)
+	movq	%r12, 104(%rsp)
+	movq	%rdx, 24(%rax)
+	movq	80(%rsp), %rdx
+	movq	%rcx, 80(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_12_Task_setterIS0_INS1_7_ResultImEES3_EmEEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 120(%rsp)
+	movq	%rdx, 32(%rax)
+	leaq	15(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movq	24(%rbp), %rbx
+	movq	$0, 128(%rsp)
+	movq	%rax, 96(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	%rbx, 112(%rsp)
+	movq	%rdx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1475
+	leaq	108(%rbx), %rdi
+	movl	$__once_proxy, %esi
+.LEHB69:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1428
+	cmpb	$0, 15(%rsp)
+	jne	.L1476
+	movl	$2, %edi
+	call	_ZSt20__throw_future_errori
+	.p2align 4,,10
+	.p2align 3
+.L1475:
+	movl	$-1, %eax
+.L1428:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.LEHE69:
+	.p2align 4,,10
+	.p2align 3
+.L1476:
+	leaq	56(%rbx), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1435
+	movl	$3, %edx
+	movq	%r12, %rsi
+	movq	%r12, %rdi
+	call	*%rax
+.L1435:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1426
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L1426:
+	addq	$152, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 40
+	popq	%rbx
+	.cfi_def_cfa_offset 32
+	popq	%rbp
+	.cfi_def_cfa_offset 24
+	popq	%r12
+	.cfi_def_cfa_offset 16
+	popq	%r13
+	.cfi_def_cfa_offset 8
+	ret
+.L1449:
+	.cfi_restore_state
+	movq	%rax, %rbx
+	movq	%rdx, %r13
+	jmp	.L1437
+.L1450:
+	movq	%rax, %rbx
+	movq	%rdx, %r12
+	jmp	.L1429
+.L1437:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1438
+	movl	$3, %edx
+	movq	%r12, %rsi
+	movq	%r12, %rdi
+	call	*%rax
+.L1438:
+	movq	%r13, %r12
+.L1431:
+	movq	72(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1439
+	leaq	56(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L1439:
+	subq	$1, %r12
+	jne	.L1477
+	movq	%rbx, %rdi
+	call	__cxa_begin_catch
+	movq	24(%rbp), %rdx
+	movq	128(%rdx), %rax
+	testq	%rax, %rax
+	je	.L1445
+	movq	$0, 128(%rdx)
+	movq	24(%rbp), %rdi
+	leaq	48(%rsp), %rsi
+	movq	%rax, 48(%rsp)
+.LEHB70:
+	call	_ZNSt13__future_base13_State_baseV216_M_break_promiseESt10unique_ptrINS_12_Result_baseENS2_8_DeleterEE
+.LEHE70:
+	movq	48(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1445
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1445:
+.LEHB71:
+	call	__cxa_rethrow
+.LEHE71:
+.L1477:
+	movq	%rbx, %rdi
+.LEHB72:
+	call	_Unwind_Resume
+.LEHE72:
+.L1447:
+	movq	%rax, %rbx
+	jmp	.L1444
+.L1429:
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1431
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L1431
+.L1448:
+	movq	%rax, %rbx
+.L1442:
+	movq	48(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1444
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1444:
+	call	__cxa_end_catch
+	movq	%rbx, %rdi
+.LEHB73:
+	call	_Unwind_Resume
+.LEHE73:
+	.cfi_endproc
+.LFE13717:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA13717:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT13717-.LLSDATTD13717
+.LLSDATTD13717:
+	.byte	0x1
+	.uleb128 .LLSDACSE13717-.LLSDACSB13717
+.LLSDACSB13717:
+	.uleb128 .LEHB68-.LFB13717
+	.uleb128 .LEHE68-.LEHB68
+	.uleb128 .L1450-.LFB13717
+	.uleb128 0x3
+	.uleb128 .LEHB69-.LFB13717
+	.uleb128 .LEHE69-.LEHB69
+	.uleb128 .L1449-.LFB13717
+	.uleb128 0x3
+	.uleb128 .LEHB70-.LFB13717
+	.uleb128 .LEHE70-.LEHB70
+	.uleb128 .L1448-.LFB13717
+	.uleb128 0
+	.uleb128 .LEHB71-.LFB13717
+	.uleb128 .LEHE71-.LEHB71
+	.uleb128 .L1447-.LFB13717
+	.uleb128 0
+	.uleb128 .LEHB72-.LFB13717
+	.uleb128 .LEHE72-.LEHB72
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB73-.LFB13717
+	.uleb128 .LEHE73-.LEHB73
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13717:
+	.byte	0x1
+	.byte	0
+	.byte	0
+	.byte	0x7d
+	.align 4
+	.long	_ZTIN10__cxxabiv115__forced_unwindE
+.LLSDATT13717:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+	.size	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv, .-_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv
+	.section	.text.unlikely._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+.LCOLDE162:
+	.section	.text._ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,"axG",@progbits,_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv,comdat
+.LHOTE162:
+	.section	.text.unlikely._ZNSt7promiseIvED2Ev,"axG",@progbits,_ZNSt7promiseIvED5Ev,comdat
+	.align 2
+.LCOLDB163:
+	.section	.text._ZNSt7promiseIvED2Ev,"axG",@progbits,_ZNSt7promiseIvED5Ev,comdat
+.LHOTB163:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt7promiseIvED2Ev
+	.type	_ZNSt7promiseIvED2Ev, @function
+_ZNSt7promiseIvED2Ev:
+.LFB9665:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA9665
+	pushq	%r15
+	.cfi_def_cfa_offset 16
+	.cfi_offset 15, -16
+	pushq	%r14
+	.cfi_def_cfa_offset 24
+	.cfi_offset 14, -24
+	pushq	%r13
+	.cfi_def_cfa_offset 32
+	.cfi_offset 13, -32
+	pushq	%r12
+	.cfi_def_cfa_offset 40
+	.cfi_offset 12, -40
+	pushq	%rbp
+	.cfi_def_cfa_offset 48
+	.cfi_offset 6, -48
+	pushq	%rbx
+	.cfi_def_cfa_offset 56
+	.cfi_offset 3, -56
+	movq	%rdi, %rbp
+	subq	$88, %rsp
+	.cfi_def_cfa_offset 144
+	movq	(%rdi), %r13
+	testq	%r13, %r13
+	je	.L1528
+	movq	8(%rdi), %rbx
+	testq	%rbx, %rbx
+	je	.L1480
+	movl	8(%rbx), %eax
+	cmpl	$1, %eax
+	je	.L1528
+.L1480:
+	movq	16(%rbp), %r12
+	movq	$0, 16(%rbp)
+	testq	%r12, %r12
+	je	.L1495
+	call	_ZSt15future_categoryv
+	leaq	32(%rsp), %rdi
+	leaq	16(%rsp), %rdx
+	movl	$.LC157, %esi
+	movq	%rax, %rbx
+	call	_ZNSsC1EPKcRKSaIcE
+	leaq	32(%rsp), %rsi
+	leaq	48(%rsp), %rdi
+.LEHB74:
+	call	_ZNSt11logic_errorC2ERKSs
+.LEHE74:
+	movq	32(%rsp), %rdx
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %r14d
+	leaq	-24(%rdx), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L1533
+.L1483:
+	movl	$32, %edi
+	movq	%rbx, 72(%rsp)
+	movq	$_ZTVSt12future_error+16, 48(%rsp)
+	movl	$4, 64(%rsp)
+	call	__cxa_allocate_exception
+	movq	%rax, %rbx
+	movq	$_ZTVSt11logic_error+16, (%rax)
+	leaq	48(%rsp), %rax
+	leaq	8(%rbx), %rdi
+	leaq	8(%rax), %rsi
+.LEHB75:
+	call	_ZNSsC1ERKSs
+.LEHE75:
+	movq	72(%rsp), %rdx
+	movq	64(%rsp), %rax
+	movl	$_ZTISt12future_error, %esi
+	movq	$_ZTVSt12future_error+16, (%rbx)
+	movq	%rbx, %rdi
+	movq	%rdx, 24(%rbx)
+	movq	%rax, 16(%rbx)
+	movl	$_ZNSt12future_errorD1Ev, %edx
+.LEHB76:
+	call	__cxa_throw
+.LEHE76:
+.L1490:
+	movq	%rbx, %rdi
+	call	_ZNSt9exceptionD2Ev
+	movq	%rbx, %rdi
+	call	__cxa_free_exception
+	movq	%r15, %rax
+.L1491:
+	movq	%rax, %rdi
+	leaq	16(%r13), %r15
+	call	__cxa_begin_catch
+	leaq	16(%rsp), %rdi
+	call	_ZSt17current_exceptionv
+	call	__cxa_end_catch
+	movq	16(%rsp), %rax
+	leaq	8(%r12), %rsi
+	leaq	32(%rsp), %rdi
+	movq	$0, 16(%rsp)
+	movq	%rax, 32(%rsp)
+	call	_ZNSt15__exception_ptr13exception_ptr4swapERS0_
+	leaq	32(%rsp), %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	leaq	16(%rsp), %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	leaq	48(%rsp), %rdi
+	call	_ZNSt12future_errorD1Ev
+	testq	%r14, %r14
+	je	.L1492
+	movq	%r15, %rdi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L1534
+	movq	8(%r13), %rbx
+	movq	%r15, %rdi
+	movq	%r12, 8(%r13)
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+.L1503:
+	leaq	56(%r13), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	testq	%rbx, %rbx
+	je	.L1528
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*(%rax)
+	.p2align 4,,10
+	.p2align 3
+.L1528:
+	movq	16(%rbp), %r12
+	testq	%r12, %r12
+	je	.L1529
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*(%rax)
+.L1529:
+	movq	8(%rbp), %rbx
+.L1495:
+	testq	%rbx, %rbx
+	je	.L1478
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1498
+	lock; subl	$1, 8(%rbx)
+	je	.L1535
+.L1478:
+	addq	$88, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 56
+	popq	%rbx
+	.cfi_def_cfa_offset 48
+	popq	%rbp
+	.cfi_def_cfa_offset 40
+	popq	%r12
+	.cfi_def_cfa_offset 32
+	popq	%r13
+	.cfi_def_cfa_offset 24
+	popq	%r14
+	.cfi_def_cfa_offset 16
+	popq	%r15
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1498:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L1478
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+.L1504:
+	cmpl	$1, %eax
+	jne	.L1478
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L1478
+.L1506:
+	jmp	.L1491
+	.p2align 4,,10
+	.p2align 3
+.L1533:
+	testq	%r14, %r14
+	je	.L1484
+	movl	$-1, %eax
+	lock; xaddl	%eax, -8(%rdx)
+.L1485:
+	testl	%eax, %eax
+	jg	.L1483
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L1483
+.L1484:
+	movl	-8(%rdx), %eax
+	leal	-1(%rax), %ecx
+	movl	%ecx, -8(%rdx)
+	jmp	.L1485
+.L1535:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+	jmp	.L1504
+.L1507:
+	movq	%rax, %r15
+	jmp	.L1490
+.L1505:
+.L1488:
+	movq	32(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L1489
+	leaq	15(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+.L1489:
+	call	_ZSt9terminatev
+.L1534:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L1492:
+	movq	8(%r13), %rbx
+	movq	%r12, 8(%r13)
+	jmp	.L1503
+	.cfi_endproc
+.LFE9665:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA9665:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT9665-.LLSDATTD9665
+.LLSDATTD9665:
+	.byte	0x1
+	.uleb128 .LLSDACSE9665-.LLSDACSB9665
+.LLSDACSB9665:
+	.uleb128 .LEHB74-.LFB9665
+	.uleb128 .LEHE74-.LEHB74
+	.uleb128 .L1505-.LFB9665
+	.uleb128 0
+	.uleb128 .LEHB75-.LFB9665
+	.uleb128 .LEHE75-.LEHB75
+	.uleb128 .L1507-.LFB9665
+	.uleb128 0x3
+	.uleb128 .LEHB76-.LFB9665
+	.uleb128 .LEHE76-.LEHB76
+	.uleb128 .L1506-.LFB9665
+	.uleb128 0x1
+.LLSDACSE9665:
+	.byte	0x1
+	.byte	0
+	.byte	0
+	.byte	0x7d
+	.align 4
+	.long	0
+
+.LLSDATT9665:
+	.section	.text._ZNSt7promiseIvED2Ev,"axG",@progbits,_ZNSt7promiseIvED5Ev,comdat
+	.size	_ZNSt7promiseIvED2Ev, .-_ZNSt7promiseIvED2Ev
+	.section	.text.unlikely._ZNSt7promiseIvED2Ev,"axG",@progbits,_ZNSt7promiseIvED5Ev,comdat
+.LCOLDE163:
+	.section	.text._ZNSt7promiseIvED2Ev,"axG",@progbits,_ZNSt7promiseIvED5Ev,comdat
+.LHOTE163:
+	.weak	_ZNSt7promiseIvED1Ev
+	.set	_ZNSt7promiseIvED1Ev,_ZNSt7promiseIvED2Ev
+	.section	.text.unlikely._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv,"axG",@progbits,_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv,comdat
+	.align 2
+.LCOLDB164:
+	.section	.text._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv,"axG",@progbits,_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv,comdat
+.LHOTB164:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	.type	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv, @function
+_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv:
+.LFB10752:
+	.cfi_startproc
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	%rdi, %rbx
+	testq	%rax, %rax
+	je	.L1537
+	lock; subl	$1, 8(%rdi)
+	je	.L1546
+.L1536:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1537:
+	.cfi_restore_state
+	movl	8(%rdi), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rdi)
+	jne	.L1536
+	movq	(%rdi), %rax
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L1542
+.L1546:
+	movq	(%rdi), %rax
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L1542:
+	cmpl	$1, %eax
+	jne	.L1536
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE10752:
+	.size	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv, .-_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	.section	.text.unlikely._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv,"axG",@progbits,_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv,comdat
+.LCOLDE164:
+	.section	.text._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv,"axG",@progbits,_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv,comdat
+.LHOTE164:
+	.section	.text.unlikely._ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+.LCOLDB165:
+	.section	.text._ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+.LHOTB165:
+	.p2align 4,,15
+	.weak	_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+	.type	_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_, @function
+_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_:
+.LFB10426:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA10426
+	pushq	%r15
+	.cfi_def_cfa_offset 16
+	.cfi_offset 15, -16
+	pushq	%r14
+	.cfi_def_cfa_offset 24
+	.cfi_offset 14, -24
+	andl	$3, %esi
+	pushq	%r13
+	.cfi_def_cfa_offset 32
+	.cfi_offset 13, -32
+	pushq	%r12
+	.cfi_def_cfa_offset 40
+	.cfi_offset 12, -40
+	movq	%rdx, %r13
+	pushq	%rbp
+	.cfi_def_cfa_offset 48
+	.cfi_offset 6, -48
+	pushq	%rbx
+	.cfi_def_cfa_offset 56
+	.cfi_offset 3, -56
+	movq	%rdi, %rbp
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 96
+	cmpl	$1, %esi
+	je	.L1609
+	movl	$152, %edi
+	movl	(%rcx), %r14d
+.LEHB77:
+	call	_Znwm
+.LEHE77:
+	leaq	72(%rax), %rdi
+	movq	%rax, %rbx
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$0, 40(%rax)
+	movq	$0, 48(%rax)
+	movq	$0, 56(%rax)
+	movq	$0, 64(%rax)
+	call	_ZNSt18condition_variableC1Ev
+	movb	$0, 120(%rbx)
+	movl	$0, 124(%rbx)
+	movl	$32, %edi
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE+16, 16(%rbx)
+.LEHB78:
+	call	_Znwm
+.LEHE78:
+	movq	%rax, %r12
+	movq	%rax, %rdi
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+	movq	$_ZTVNSt13__future_base7_ResultImEE+16, (%r12)
+	movq	(%rbx), %rax
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movb	$0, 24(%r12)
+	movq	%rbx, %rdi
+	movq	%r12, 128(%rbx)
+	movl	%r14d, 136(%rbx)
+	movq	%r13, 144(%rbx)
+	call	*32(%rax)
+.L1563:
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %ecx
+	movq	%rax, 0(%rbp)
+	movq	%rbx, 8(%rbp)
+	testq	%rcx, %rcx
+	je	.L1566
+	lock; addl	$1, 8(%rbx)
+	movq	0(%rbp), %rdx
+.L1567:
+	testq	%rdx, %rdx
+	je	.L1610
+	movl	$1, %eax
+	xchgb	104(%rdx), %al
+	testb	%al, %al
+	jne	.L1611
+	testq	%rcx, %rcx
+	je	.L1574
+	lock; subl	$1, 8(%rbx)
+	je	.L1612
+.L1547:
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 56
+	movq	%rbp, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 48
+	popq	%rbp
+	.cfi_def_cfa_offset 40
+	popq	%r12
+	.cfi_def_cfa_offset 32
+	popq	%r13
+	.cfi_def_cfa_offset 24
+	popq	%r14
+	.cfi_def_cfa_offset 16
+	popq	%r15
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1566:
+	.cfi_restore_state
+	addl	$1, 8(%rbx)
+	movq	%rax, %rdx
+	jmp	.L1567
+	.p2align 4,,10
+	.p2align 3
+.L1609:
+	movl	$168, %edi
+	movl	(%rcx), %r15d
+.LEHB79:
+	call	_Znwm
+.LEHE79:
+	leaq	72(%rax), %rdi
+	movq	%rax, %rbx
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	leaq	16(%rax), %r14
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$0, 40(%rax)
+	movq	$0, 48(%rax)
+	movq	$0, 56(%rax)
+	movq	$0, 64(%rax)
+	call	_ZNSt18condition_variableC1Ev
+	movb	$0, 120(%rbx)
+	movl	$0, 124(%rbx)
+	movl	$32, %edi
+	movq	$0, 128(%rbx)
+	movl	$0, 136(%rbx)
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE+16, 16(%rbx)
+.LEHB80:
+	call	_Znwm
+.LEHE80:
+	movq	%rax, %r12
+	movq	%rax, %rdi
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+	movq	$_ZTVNSt13__future_base7_ResultImEE+16, (%r12)
+	movb	$0, 24(%r12)
+	movl	$48, %edi
+	movq	%r12, 144(%rbx)
+	movl	%r15d, 152(%rbx)
+	movq	%r13, 160(%rbx)
+	movq	$0, (%rsp)
+.LEHB81:
+	call	_Znwm
+.LEHE81:
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movq	%rax, %rdi
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	%rax, %r12
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE+16, 16(%rax)
+	movq	%r14, 40(%rax)
+	call	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	leaq	16(%rsp), %rsi
+	movq	%rsp, %rdi
+	movq	%rax, 16(%rsp)
+	movq	%r12, 24(%rsp)
+.LEHB82:
+	call	_ZNSt6thread15_M_start_threadESt10shared_ptrINS_10_Impl_baseEE
+.LEHE82:
+	movq	24(%rsp), %r12
+	testq	%r12, %r12
+	je	.L1555
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1550
+	lock; subl	$1, 8(%r12)
+	je	.L1613
+.L1555:
+	cmpq	$0, 128(%rbx)
+	jne	.L1614
+	movq	(%rsp), %rax
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movq	%rbx, %rdi
+	movq	%rax, 128(%rbx)
+	movq	(%rbx), %rax
+	call	*32(%rax)
+	jmp	.L1563
+	.p2align 4,,10
+	.p2align 3
+.L1574:
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L1547
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L1581
+.L1612:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L1581:
+	cmpl	$1, %eax
+	jne	.L1547
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L1547
+	.p2align 4,,10
+	.p2align 3
+.L1550:
+	movl	8(%r12), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%r12)
+	jne	.L1555
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	movl	12(%r12), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%r12)
+.L1580:
+	cmpl	$1, %eax
+	jne	.L1555
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*24(%rax)
+	jmp	.L1555
+.L1610:
+	movl	$3, %edi
+.LEHB83:
+	call	_ZSt20__throw_future_errori
+.L1588:
+	movq	%rax, %r12
+	jmp	.L1570
+.L1611:
+	movl	$1, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE83:
+.L1614:
+	call	_ZSt9terminatev
+.L1613:
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%r12)
+	jmp	.L1580
+.L1583:
+	movq	%rax, %rbp
+	jmp	.L1560
+.L1570:
+	movq	8(%rbp), %rdi
+	testq	%rdi, %rdi
+	je	.L1571
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1571:
+	movq	%rbx, %rdi
+	movq	%r12, %rbp
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1572:
+	movq	%rbp, %rdi
+.LEHB84:
+	call	_Unwind_Resume
+.LEHE84:
+.L1556:
+	movq	24(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1558
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1558:
+	movq	144(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1560
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1560:
+	movq	%r14, %rdi
+	call	_ZNSt13__future_base21_Async_state_commonV2D2Ev
+	movq	%rbp, %rdi
+	call	__cxa_begin_catch
+	movq	%rbx, %rdi
+	call	_ZdlPv
+.LEHB85:
+	call	__cxa_rethrow
+.LEHE85:
+.L1584:
+	movq	%rax, %rbp
+	jmp	.L1558
+.L1589:
+	movq	%rax, %rbp
+	jmp	.L1562
+.L1585:
+	movq	%rax, %rbp
+	jmp	.L1556
+.L1587:
+	movq	%rax, %rbp
+	jmp	.L1564
+.L1582:
+	movq	%rax, %rbp
+	jmp	.L1561
+.L1562:
+	jmp	.L1572
+.L1564:
+	leaq	16(%rbx), %rdi
+	call	_ZNSt13__future_base13_State_baseV2D2Ev
+	movq	%rbp, %rdi
+	call	__cxa_begin_catch
+	movq	%rbx, %rdi
+	call	_ZdlPv
+.LEHB86:
+	call	__cxa_rethrow
+.LEHE86:
+.L1561:
+	call	__cxa_end_catch
+	jmp	.L1572
+.L1586:
+	movq	%rax, %rbp
+.L1565:
+	call	__cxa_end_catch
+	jmp	.L1572
+	.cfi_endproc
+.LFE10426:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA10426:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT10426-.LLSDATTD10426
+.LLSDATTD10426:
+	.byte	0x1
+	.uleb128 .LLSDACSE10426-.LLSDACSB10426
+.LLSDACSB10426:
+	.uleb128 .LEHB77-.LFB10426
+	.uleb128 .LEHE77-.LEHB77
+	.uleb128 .L1589-.LFB10426
+	.uleb128 0
+	.uleb128 .LEHB78-.LFB10426
+	.uleb128 .LEHE78-.LEHB78
+	.uleb128 .L1587-.LFB10426
+	.uleb128 0x1
+	.uleb128 .LEHB79-.LFB10426
+	.uleb128 .LEHE79-.LEHB79
+	.uleb128 .L1589-.LFB10426
+	.uleb128 0
+	.uleb128 .LEHB80-.LFB10426
+	.uleb128 .LEHE80-.LEHB80
+	.uleb128 .L1583-.LFB10426
+	.uleb128 0x1
+	.uleb128 .LEHB81-.LFB10426
+	.uleb128 .LEHE81-.LEHB81
+	.uleb128 .L1584-.LFB10426
+	.uleb128 0x1
+	.uleb128 .LEHB82-.LFB10426
+	.uleb128 .LEHE82-.LEHB82
+	.uleb128 .L1585-.LFB10426
+	.uleb128 0x1
+	.uleb128 .LEHB83-.LFB10426
+	.uleb128 .LEHE83-.LEHB83
+	.uleb128 .L1588-.LFB10426
+	.uleb128 0
+	.uleb128 .LEHB84-.LFB10426
+	.uleb128 .LEHE84-.LEHB84
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB85-.LFB10426
+	.uleb128 .LEHE85-.LEHB85
+	.uleb128 .L1582-.LFB10426
+	.uleb128 0
+	.uleb128 .LEHB86-.LFB10426
+	.uleb128 .LEHE86-.LEHB86
+	.uleb128 .L1586-.LFB10426
+	.uleb128 0
+.LLSDACSE10426:
+	.byte	0x1
+	.byte	0
+	.align 4
+	.long	0
+
+.LLSDATT10426:
+	.section	.text._ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+	.size	_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_, .-_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+	.section	.text.unlikely._ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+.LCOLDE165:
+	.section	.text._ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+.LHOTE165:
+	.weak	_ZSt5asyncIRFmmEJiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+	.set	_ZSt5asyncIRFmmEJiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+	.section	.text.unlikely._ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+.LCOLDB166:
+	.section	.text._ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+.LHOTB166:
+	.p2align 4,,15
+	.weak	_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+	.type	_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_, @function
+_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_:
+.LFB10408:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA10408
+	pushq	%r15
+	.cfi_def_cfa_offset 16
+	.cfi_offset 15, -16
+	pushq	%r14
+	.cfi_def_cfa_offset 24
+	.cfi_offset 14, -24
+	andl	$3, %esi
+	pushq	%r13
+	.cfi_def_cfa_offset 32
+	.cfi_offset 13, -32
+	pushq	%r12
+	.cfi_def_cfa_offset 40
+	.cfi_offset 12, -40
+	pushq	%rbp
+	.cfi_def_cfa_offset 48
+	.cfi_offset 6, -48
+	pushq	%rbx
+	.cfi_def_cfa_offset 56
+	.cfi_offset 3, -56
+	movq	%rdi, %rbp
+	subq	$40, %rsp
+	.cfi_def_cfa_offset 96
+	cmpl	$1, %esi
+	movq	(%rdx), %r13
+	movq	$_ZNSs4_Rep20_S_empty_rep_storageE+24, (%rdx)
+	je	.L1689
+	movl	$152, %edi
+	movl	8(%rdx), %r14d
+.LEHB87:
+	call	_Znwm
+.LEHE87:
+	leaq	72(%rax), %rdi
+	movq	%rax, %rbx
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$0, 40(%rax)
+	movq	$0, 48(%rax)
+	movq	$0, 56(%rax)
+	movq	$0, 64(%rax)
+	call	_ZNSt18condition_variableC1Ev
+	movb	$0, 120(%rbx)
+	movl	$0, 124(%rbx)
+	movl	$32, %edi
+	movq	$_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE+16, 16(%rbx)
+.LEHB88:
+	call	_Znwm
+.LEHE88:
+	movq	%rax, %r12
+	movq	%rax, %rdi
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+	movq	$_ZTVNSt13__future_base7_ResultISsEE+16, (%r12)
+	movq	(%rbx), %rax
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movb	$0, 24(%r12)
+	movq	%rbx, %rdi
+	movq	%r12, 128(%rbx)
+	movq	%r13, 136(%rbx)
+	movl	%r14d, 144(%rbx)
+	call	*32(%rax)
+.L1634:
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %ecx
+	movq	%rax, 0(%rbp)
+	movq	%rbx, 8(%rbp)
+	testq	%rcx, %rcx
+	je	.L1640
+	lock; addl	$1, 8(%rbx)
+	movq	0(%rbp), %rdx
+.L1641:
+	testq	%rdx, %rdx
+	je	.L1690
+	movl	$1, %eax
+	xchgb	104(%rdx), %al
+	testb	%al, %al
+	jne	.L1691
+	testq	%rcx, %rcx
+	je	.L1647
+	lock; subl	$1, 8(%rbx)
+	je	.L1692
+.L1615:
+	addq	$40, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 56
+	movq	%rbp, %rax
+	popq	%rbx
+	.cfi_def_cfa_offset 48
+	popq	%rbp
+	.cfi_def_cfa_offset 40
+	popq	%r12
+	.cfi_def_cfa_offset 32
+	popq	%r13
+	.cfi_def_cfa_offset 24
+	popq	%r14
+	.cfi_def_cfa_offset 16
+	popq	%r15
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1640:
+	.cfi_restore_state
+	addl	$1, 8(%rbx)
+	movq	%rax, %rdx
+	jmp	.L1641
+	.p2align 4,,10
+	.p2align 3
+.L1689:
+	movl	$168, %edi
+	movl	8(%rdx), %r15d
+.LEHB89:
+	call	_Znwm
+.LEHE89:
+	leaq	72(%rax), %rdi
+	movq	%rax, %rbx
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	leaq	16(%rax), %r14
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$0, 40(%rax)
+	movq	$0, 48(%rax)
+	movq	$0, 56(%rax)
+	movq	$0, 64(%rax)
+	call	_ZNSt18condition_variableC1Ev
+	movb	$0, 120(%rbx)
+	movl	$0, 124(%rbx)
+	movl	$32, %edi
+	movq	$0, 128(%rbx)
+	movl	$0, 136(%rbx)
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE+16, 16(%rbx)
+.LEHB90:
+	call	_Znwm
+.LEHE90:
+	movq	%rax, %r12
+	movq	%rax, %rdi
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+	movq	$_ZTVNSt13__future_base7_ResultISsEE+16, (%r12)
+	movb	$0, 24(%r12)
+	movl	$48, %edi
+	movq	%r12, 144(%rbx)
+	movq	%r13, 152(%rbx)
+	movl	%r15d, 160(%rbx)
+	movq	$0, (%rsp)
+.LEHB91:
+	call	_Znwm
+.LEHE91:
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movq	%rax, %rdi
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	%rax, %r12
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE+16, 16(%rax)
+	movq	%r14, 40(%rax)
+	call	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	leaq	16(%rsp), %rsi
+	movq	%rsp, %rdi
+	movq	%rax, 16(%rsp)
+	movq	%r12, 24(%rsp)
+.LEHB92:
+	call	_ZNSt6thread15_M_start_threadESt10shared_ptrINS_10_Impl_baseEE
+.LEHE92:
+	movq	24(%rsp), %r12
+	testq	%r12, %r12
+	je	.L1623
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1618
+	lock; subl	$1, 8(%r12)
+	je	.L1693
+.L1623:
+	cmpq	$0, 128(%rbx)
+	jne	.L1694
+	movq	(%rsp), %rax
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movq	%rbx, %rdi
+	movq	%rax, 128(%rbx)
+	movq	(%rbx), %rax
+	call	*32(%rax)
+	jmp	.L1634
+	.p2align 4,,10
+	.p2align 3
+.L1647:
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L1615
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L1654
+.L1692:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L1654:
+	cmpl	$1, %eax
+	jne	.L1615
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L1615
+	.p2align 4,,10
+	.p2align 3
+.L1618:
+	movl	8(%r12), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%r12)
+	jne	.L1623
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	movl	12(%r12), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%r12)
+.L1653:
+	cmpl	$1, %eax
+	jne	.L1623
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*24(%rax)
+	jmp	.L1623
+.L1691:
+	movl	$1, %edi
+.LEHB93:
+	call	_ZSt20__throw_future_errori
+.L1663:
+	movq	%rax, %r12
+	jmp	.L1644
+.L1690:
+	movl	$3, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE93:
+.L1694:
+	call	_ZSt9terminatev
+.L1655:
+.L1682:
+	movq	%rax, %rbx
+	jmp	.L1637
+.L1693:
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%r12)
+	jmp	.L1653
+.L1630:
+	call	__cxa_end_catch
+.L1637:
+	leaq	-24(%r13), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L1639
+	leaq	16(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+.L1639:
+	movq	%rbx, %rdi
+.LEHB94:
+	call	_Unwind_Resume
+.L1660:
+	jmp	.L1682
+.L1644:
+	movq	8(%rbp), %rdi
+	testq	%rdi, %rdi
+	je	.L1645
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1645:
+	movq	%rbx, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	movq	%r12, %rdi
+	call	_Unwind_Resume
+.LEHE94:
+.L1662:
+	movq	%rax, %rbp
+	jmp	.L1635
+.L1657:
+	movq	%rax, %rbp
+	jmp	.L1629
+.L1635:
+	leaq	16(%rbx), %rdi
+	call	_ZNSt13__future_base13_State_baseV2D2Ev
+	movq	%rbp, %rdi
+	call	__cxa_begin_catch
+	movq	%rbx, %rdi
+	call	_ZdlPv
+.LEHB95:
+	call	__cxa_rethrow
+.LEHE95:
+.L1624:
+	movq	24(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1626
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1626:
+	movq	152(%rbx), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L1627
+	leaq	16(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+.L1627:
+	movq	144(%rbx), %rdi
+	testq	%rdi, %rdi
+	je	.L1628
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L1628:
+	movl	$_ZNSs4_Rep20_S_empty_rep_storageE+24, %r13d
+.L1629:
+	movq	%r14, %rdi
+	call	_ZNSt13__future_base21_Async_state_commonV2D2Ev
+	movq	%rbp, %rdi
+	call	__cxa_begin_catch
+	movq	%rbx, %rdi
+	call	_ZdlPv
+.LEHB96:
+	call	__cxa_rethrow
+.LEHE96:
+.L1661:
+	movq	%rax, %rbx
+	jmp	.L1636
+.L1656:
+	movq	%rax, %rbx
+	jmp	.L1630
+.L1636:
+	call	__cxa_end_catch
+	jmp	.L1637
+.L1658:
+	movq	%rax, %rbp
+	jmp	.L1626
+.L1659:
+	movq	%rax, %rbp
+	jmp	.L1624
+	.cfi_endproc
+.LFE10408:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA10408:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT10408-.LLSDATTD10408
+.LLSDATTD10408:
+	.byte	0x1
+	.uleb128 .LLSDACSE10408-.LLSDACSB10408
+.LLSDACSB10408:
+	.uleb128 .LEHB87-.LFB10408
+	.uleb128 .LEHE87-.LEHB87
+	.uleb128 .L1660-.LFB10408
+	.uleb128 0
+	.uleb128 .LEHB88-.LFB10408
+	.uleb128 .LEHE88-.LEHB88
+	.uleb128 .L1662-.LFB10408
+	.uleb128 0x1
+	.uleb128 .LEHB89-.LFB10408
+	.uleb128 .LEHE89-.LEHB89
+	.uleb128 .L1655-.LFB10408
+	.uleb128 0
+	.uleb128 .LEHB90-.LFB10408
+	.uleb128 .LEHE90-.LEHB90
+	.uleb128 .L1657-.LFB10408
+	.uleb128 0x1
+	.uleb128 .LEHB91-.LFB10408
+	.uleb128 .LEHE91-.LEHB91
+	.uleb128 .L1658-.LFB10408
+	.uleb128 0x1
+	.uleb128 .LEHB92-.LFB10408
+	.uleb128 .LEHE92-.LEHB92
+	.uleb128 .L1659-.LFB10408
+	.uleb128 0x1
+	.uleb128 .LEHB93-.LFB10408
+	.uleb128 .LEHE93-.LEHB93
+	.uleb128 .L1663-.LFB10408
+	.uleb128 0
+	.uleb128 .LEHB94-.LFB10408
+	.uleb128 .LEHE94-.LEHB94
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB95-.LFB10408
+	.uleb128 .LEHE95-.LEHB95
+	.uleb128 .L1661-.LFB10408
+	.uleb128 0
+	.uleb128 .LEHB96-.LFB10408
+	.uleb128 .LEHE96-.LEHB96
+	.uleb128 .L1656-.LFB10408
+	.uleb128 0
+.LLSDACSE10408:
+	.byte	0x1
+	.byte	0
+	.align 4
+	.long	0
+
+.LLSDATT10408:
+	.section	.text._ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+	.size	_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_, .-_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+	.section	.text.unlikely._ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+.LCOLDE166:
+	.section	.text._ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,"axG",@progbits,_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,comdat
+.LHOTE166:
+	.weak	_ZSt5asyncIN7Lesson613PowerRepeaterEJEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+	.set	_ZSt5asyncIN7Lesson613PowerRepeaterEJEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_,_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+	.section	.text.unlikely._ZNSt11unique_lockISt5mutexE6unlockEv,"axG",@progbits,_ZNSt11unique_lockISt5mutexE6unlockEv,comdat
+	.align 2
+.LCOLDB167:
+	.section	.text._ZNSt11unique_lockISt5mutexE6unlockEv,"axG",@progbits,_ZNSt11unique_lockISt5mutexE6unlockEv,comdat
+.LHOTB167:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt11unique_lockISt5mutexE6unlockEv
+	.type	_ZNSt11unique_lockISt5mutexE6unlockEv, @function
+_ZNSt11unique_lockISt5mutexE6unlockEv:
+.LFB10769:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	cmpb	$0, 8(%rdi)
+	movq	%rdi, %rbx
+	je	.L1706
+	movq	(%rdi), %rdi
+	testq	%rdi, %rdi
+	je	.L1695
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1698
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+.L1698:
+	movb	$0, 8(%rbx)
+.L1695:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+.L1706:
+	.cfi_restore_state
+	movl	$1, %edi
+	call	_ZSt20__throw_system_errori
+	.cfi_endproc
+.LFE10769:
+	.size	_ZNSt11unique_lockISt5mutexE6unlockEv, .-_ZNSt11unique_lockISt5mutexE6unlockEv
+	.section	.text.unlikely._ZNSt11unique_lockISt5mutexE6unlockEv,"axG",@progbits,_ZNSt11unique_lockISt5mutexE6unlockEv,comdat
+.LCOLDE167:
+	.section	.text._ZNSt11unique_lockISt5mutexE6unlockEv,"axG",@progbits,_ZNSt11unique_lockISt5mutexE6unlockEv,comdat
+.LHOTE167:
+	.section	.text.unlikely
+.LCOLDB169:
+	.text
+.LHOTB169:
+	.p2align 4,,15
+	.type	_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEEE9_M_invokeERKSt9_Any_data, @function
+_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEEE9_M_invokeERKSt9_Any_data:
+.LFB13069:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13069
+	pushq	%r14
+	.cfi_def_cfa_offset 16
+	.cfi_offset 14, -16
+	pushq	%r13
+	.cfi_def_cfa_offset 24
+	.cfi_offset 13, -24
+	pushq	%r12
+	.cfi_def_cfa_offset 32
+	.cfi_offset 12, -32
+	pushq	%rbp
+	.cfi_def_cfa_offset 40
+	.cfi_offset 6, -40
+	pushq	%rbx
+	.cfi_def_cfa_offset 48
+	.cfi_offset 3, -48
+	subq	$96, %rsp
+	.cfi_def_cfa_offset 144
+	movq	(%rdi), %r13
+	movq	16(%r13), %rbx
+	movq	8(%rbx), %rbp
+	movq	(%rbx), %r12
+	testq	%rbp, %rbp
+	je	.L1708
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1709
+	lock; addl	$1, 8(%rbp)
+.L1708:
+	movl	$8, %edi
+	movq	$0, 32(%rsp)
+.LEHB97:
+	call	_Znwm
+.LEHE97:
+	movq	%rbx, (%rax)
+	movq	%rax, 16(%rsp)
+	leaq	15(%rsp), %rax
+	leaq	48(%rsp), %rbx
+	leaq	16(%rsp), %r14
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	%rax, 48(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation, 32(%rsp)
+	movb	$0, 15(%rsp)
+	movq	%r14, 56(%rsp)
+	movq	%r12, 64(%rsp)
+	movq	%rbx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 72(%rsp)
+	movq	$0, 80(%rsp)
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1770
+	leaq	108(%r12), %rdi
+	movl	$__once_proxy, %esi
+.LEHB98:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1711
+	cmpb	$0, 15(%rsp)
+	jne	.L1771
+	movl	$2, %edi
+	call	_ZSt20__throw_future_errori
+	.p2align 4,,10
+	.p2align 3
+.L1709:
+	addl	$1, 8(%rbp)
+	jmp	.L1708
+	.p2align 4,,10
+	.p2align 3
+.L1770:
+	movl	$-1, %eax
+.L1711:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.LEHE98:
+	.p2align 4,,10
+	.p2align 3
+.L1771:
+	leaq	56(%r12), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1718
+	movl	$3, %edx
+	movq	%r14, %rsi
+	movq	%r14, %rdi
+	call	*%rax
+.L1718:
+	testq	%rbp, %rbp
+	je	.L1719
+	orl	$-1, %eax
+	lock; xaddl	%eax, 8(%rbp)
+	subl	$1, %eax
+	jne	.L1719
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+	subl	$1, %eax
+	jne	.L1719
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	.p2align 4,,10
+	.p2align 3
+.L1719:
+	movq	0(%r13), %rbp
+	testq	%rbp, %rbp
+	je	.L1772
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+.LEHB99:
+	call	*16(%rax)
+.LEHE99:
+	leaq	16(%rbp), %rdi
+	movb	$0, 56(%rsp)
+	movq	%rdi, 48(%rsp)
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L1773
+	movb	$1, 56(%rsp)
+	leaq	56(%rbp), %r12
+	jmp	.L1724
+	.p2align 4,,10
+	.p2align 3
+.L1725:
+	movq	%rbx, %rsi
+	movq	%r12, %rdi
+.LEHB100:
+	call	_ZNSt18condition_variable4waitERSt11unique_lockISt5mutexE
+.LEHE100:
+.L1724:
+	cmpq	$0, 8(%rbp)
+	je	.L1725
+	cmpb	$0, 56(%rsp)
+	jne	.L1774
+.L1726:
+	movq	24(%r13), %rbx
+	call	_ZNSt6chrono3_V212system_clock3nowEv
+	pxor	%xmm0, %xmm0
+	subq	(%rbx), %rax
+	cvtsi2sdq	%rax, %xmm0
+	divsd	.LC168(%rip), %xmm0
+	addq	$96, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 48
+	popq	%rbx
+	.cfi_def_cfa_offset 40
+	popq	%rbp
+	.cfi_def_cfa_offset 32
+	popq	%r12
+	.cfi_def_cfa_offset 24
+	popq	%r13
+	.cfi_def_cfa_offset 16
+	popq	%r14
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1774:
+	.cfi_restore_state
+	movq	48(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1726
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L1726
+.L1737:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1714
+	movl	$3, %edx
+	movq	%r14, %rsi
+	movq	%r14, %rdi
+	call	*%rax
+.L1714:
+	testq	%rbp, %rbp
+	je	.L1722
+	movq	%rbp, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1722:
+	movq	%rbx, %rdi
+.LEHB101:
+	call	_Unwind_Resume
+.L1772:
+	movl	$3, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE101:
+.L1738:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1714
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L1714
+.L1773:
+	movl	%eax, %edi
+.LEHB102:
+	call	_ZSt20__throw_system_errori
+.LEHE102:
+.L1739:
+	cmpb	$0, 56(%rsp)
+	movq	%rax, %rbp
+	je	.L1728
+	movq	%rbx, %rdi
+	call	_ZNSt11unique_lockISt5mutexE6unlockEv
+.L1728:
+	movq	%rbp, %rdi
+.LEHB103:
+	call	_Unwind_Resume
+.LEHE103:
+	.cfi_endproc
+.LFE13069:
+	.section	.gcc_except_table
+.LLSDA13069:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13069-.LLSDACSB13069
+.LLSDACSB13069:
+	.uleb128 .LEHB97-.LFB13069
+	.uleb128 .LEHE97-.LEHB97
+	.uleb128 .L1738-.LFB13069
+	.uleb128 0
+	.uleb128 .LEHB98-.LFB13069
+	.uleb128 .LEHE98-.LEHB98
+	.uleb128 .L1737-.LFB13069
+	.uleb128 0
+	.uleb128 .LEHB99-.LFB13069
+	.uleb128 .LEHE99-.LEHB99
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB100-.LFB13069
+	.uleb128 .LEHE100-.LEHB100
+	.uleb128 .L1739-.LFB13069
+	.uleb128 0
+	.uleb128 .LEHB101-.LFB13069
+	.uleb128 .LEHE101-.LEHB101
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB102-.LFB13069
+	.uleb128 .LEHE102-.LEHB102
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB103-.LFB13069
+	.uleb128 .LEHE103-.LEHB103
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13069:
+	.text
+	.size	_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEEE9_M_invokeERKSt9_Any_data, .-_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEEEE9_M_invokeERKSt9_Any_data
+	.section	.text.unlikely
+.LCOLDE169:
+	.text
+.LHOTE169:
+	.section	.text.unlikely
+.LCOLDB170:
+	.text
+.LHOTB170:
+	.p2align 4,,15
+	.type	_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEEE9_M_invokeERKSt9_Any_data, @function
+_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEEE9_M_invokeERKSt9_Any_data:
+.LFB13105:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA13105
+	pushq	%r14
+	.cfi_def_cfa_offset 16
+	.cfi_offset 14, -16
+	pushq	%r13
+	.cfi_def_cfa_offset 24
+	.cfi_offset 13, -24
+	pushq	%r12
+	.cfi_def_cfa_offset 32
+	.cfi_offset 12, -32
+	pushq	%rbp
+	.cfi_def_cfa_offset 40
+	.cfi_offset 6, -40
+	pushq	%rbx
+	.cfi_def_cfa_offset 48
+	.cfi_offset 3, -48
+	subq	$96, %rsp
+	.cfi_def_cfa_offset 144
+	movq	(%rdi), %r13
+	movq	16(%r13), %rbx
+	movq	8(%rbx), %rbp
+	movq	(%rbx), %r12
+	testq	%rbp, %rbp
+	je	.L1776
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1777
+	lock; addl	$1, 8(%rbp)
+.L1776:
+	movl	$8, %edi
+	movq	$0, 32(%rsp)
+.LEHB104:
+	call	_Znwm
+.LEHE104:
+	movq	%rbx, (%rax)
+	movq	%rax, 16(%rsp)
+	leaq	15(%rsp), %rax
+	leaq	48(%rsp), %rbx
+	leaq	16(%rsp), %r14
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data, 40(%rsp)
+	movq	%rax, 48(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation, 32(%rsp)
+	movb	$0, 15(%rsp)
+	movq	%r14, 56(%rsp)
+	movq	%r12, 64(%rsp)
+	movq	%rbx, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 72(%rsp)
+	movq	$0, 80(%rsp)
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1838
+	leaq	108(%r12), %rdi
+	movl	$__once_proxy, %esi
+.LEHB105:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L1779
+	cmpb	$0, 15(%rsp)
+	jne	.L1839
+	movl	$2, %edi
+	call	_ZSt20__throw_future_errori
+	.p2align 4,,10
+	.p2align 3
+.L1777:
+	addl	$1, 8(%rbp)
+	jmp	.L1776
+	.p2align 4,,10
+	.p2align 3
+.L1838:
+	movl	$-1, %eax
+.L1779:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.LEHE105:
+	.p2align 4,,10
+	.p2align 3
+.L1839:
+	leaq	56(%r12), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1786
+	movl	$3, %edx
+	movq	%r14, %rsi
+	movq	%r14, %rdi
+	call	*%rax
+.L1786:
+	testq	%rbp, %rbp
+	je	.L1787
+	orl	$-1, %eax
+	lock; xaddl	%eax, 8(%rbp)
+	subl	$1, %eax
+	jne	.L1787
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbp)
+	subl	$1, %eax
+	jne	.L1787
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	.p2align 4,,10
+	.p2align 3
+.L1787:
+	movq	0(%r13), %rbp
+	testq	%rbp, %rbp
+	je	.L1840
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+.LEHB106:
+	call	*16(%rax)
+.LEHE106:
+	leaq	16(%rbp), %rdi
+	movb	$0, 56(%rsp)
+	movq	%rdi, 48(%rsp)
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L1841
+	movb	$1, 56(%rsp)
+	leaq	56(%rbp), %r12
+	jmp	.L1792
+	.p2align 4,,10
+	.p2align 3
+.L1793:
+	movq	%rbx, %rsi
+	movq	%r12, %rdi
+.LEHB107:
+	call	_ZNSt18condition_variable4waitERSt11unique_lockISt5mutexE
+.LEHE107:
+.L1792:
+	cmpq	$0, 8(%rbp)
+	je	.L1793
+	cmpb	$0, 56(%rsp)
+	jne	.L1842
+.L1794:
+	movq	24(%r13), %rbx
+	call	_ZNSt6chrono3_V212system_clock3nowEv
+	pxor	%xmm0, %xmm0
+	subq	(%rbx), %rax
+	cvtsi2sdq	%rax, %xmm0
+	divsd	.LC168(%rip), %xmm0
+	addq	$96, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 48
+	popq	%rbx
+	.cfi_def_cfa_offset 40
+	popq	%rbp
+	.cfi_def_cfa_offset 32
+	popq	%r12
+	.cfi_def_cfa_offset 24
+	popq	%r13
+	.cfi_def_cfa_offset 16
+	popq	%r14
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1842:
+	.cfi_restore_state
+	movq	48(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1794
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L1794
+.L1805:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1782
+	movl	$3, %edx
+	movq	%r14, %rsi
+	movq	%r14, %rdi
+	call	*%rax
+.L1782:
+	testq	%rbp, %rbp
+	je	.L1790
+	movq	%rbp, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1790:
+	movq	%rbx, %rdi
+.LEHB108:
+	call	_Unwind_Resume
+.L1840:
+	movl	$3, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE108:
+.L1806:
+	movq	%rax, %rbx
+	movq	32(%rsp), %rax
+	testq	%rax, %rax
+	je	.L1782
+	leaq	16(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+	jmp	.L1782
+.L1841:
+	movl	%eax, %edi
+.LEHB109:
+	call	_ZSt20__throw_system_errori
+.LEHE109:
+.L1807:
+	cmpb	$0, 56(%rsp)
+	movq	%rax, %rbp
+	je	.L1796
+	movq	%rbx, %rdi
+	call	_ZNSt11unique_lockISt5mutexE6unlockEv
+.L1796:
+	movq	%rbp, %rdi
+.LEHB110:
+	call	_Unwind_Resume
+.LEHE110:
+	.cfi_endproc
+.LFE13105:
+	.section	.gcc_except_table
+.LLSDA13105:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE13105-.LLSDACSB13105
+.LLSDACSB13105:
+	.uleb128 .LEHB104-.LFB13105
+	.uleb128 .LEHE104-.LEHB104
+	.uleb128 .L1806-.LFB13105
+	.uleb128 0
+	.uleb128 .LEHB105-.LFB13105
+	.uleb128 .LEHE105-.LEHB105
+	.uleb128 .L1805-.LFB13105
+	.uleb128 0
+	.uleb128 .LEHB106-.LFB13105
+	.uleb128 .LEHE106-.LEHB106
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB107-.LFB13105
+	.uleb128 .LEHE107-.LEHB107
+	.uleb128 .L1807-.LFB13105
+	.uleb128 0
+	.uleb128 .LEHB108-.LFB13105
+	.uleb128 .LEHE108-.LEHB108
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB109-.LFB13105
+	.uleb128 .LEHE109-.LEHB109
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB110-.LFB13105
+	.uleb128 .LEHE110-.LEHB110
+	.uleb128 0
+	.uleb128 0
+.LLSDACSE13105:
+	.text
+	.size	_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEEE9_M_invokeERKSt9_Any_data, .-_ZNSt17_Function_handlerIFNSt6chrono8durationIdSt5ratioILl1ELl1000EEEEvESt17reference_wrapperISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEEEE9_M_invokeERKSt9_Any_data
+	.section	.text.unlikely
+.LCOLDE170:
+	.text
+.LHOTE170:
+	.section	.text.unlikely._ZNSt14__basic_futureImE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureImE6_ResetD5Ev,comdat
+	.align 2
+.LCOLDB171:
+	.section	.text._ZNSt14__basic_futureImE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureImE6_ResetD5Ev,comdat
+.LHOTB171:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt14__basic_futureImE6_ResetD2Ev
+	.type	_ZNSt14__basic_futureImE6_ResetD2Ev, @function
+_ZNSt14__basic_futureImE6_ResetD2Ev:
+.LFB10967:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	(%rdi), %rax
+	movq	8(%rax), %rbx
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	testq	%rbx, %rbx
+	je	.L1843
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1846
+	lock; subl	$1, 8(%rbx)
+	je	.L1854
+.L1843:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1846:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L1843
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L1850
+.L1854:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L1850:
+	cmpl	$1, %eax
+	jne	.L1843
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE10967:
+	.size	_ZNSt14__basic_futureImE6_ResetD2Ev, .-_ZNSt14__basic_futureImE6_ResetD2Ev
+	.section	.text.unlikely._ZNSt14__basic_futureImE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureImE6_ResetD5Ev,comdat
+.LCOLDE171:
+	.section	.text._ZNSt14__basic_futureImE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureImE6_ResetD5Ev,comdat
+.LHOTE171:
+	.weak	_ZNSt14__basic_futureImE6_ResetD1Ev
+	.set	_ZNSt14__basic_futureImE6_ResetD1Ev,_ZNSt14__basic_futureImE6_ResetD2Ev
+	.section	.text.unlikely._ZNSt14__basic_futureISsE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureISsE6_ResetD5Ev,comdat
+	.align 2
+.LCOLDB172:
+	.section	.text._ZNSt14__basic_futureISsE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureISsE6_ResetD5Ev,comdat
+.LHOTB172:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt14__basic_futureISsE6_ResetD2Ev
+	.type	_ZNSt14__basic_futureISsE6_ResetD2Ev, @function
+_ZNSt14__basic_futureISsE6_ResetD2Ev:
+.LFB10975:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	(%rdi), %rax
+	movq	8(%rax), %rbx
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	testq	%rbx, %rbx
+	je	.L1855
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L1858
+	lock; subl	$1, 8(%rbx)
+	je	.L1866
+.L1855:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L1858:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L1855
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L1862
+.L1866:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L1862:
+	cmpl	$1, %eax
+	jne	.L1855
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE10975:
+	.size	_ZNSt14__basic_futureISsE6_ResetD2Ev, .-_ZNSt14__basic_futureISsE6_ResetD2Ev
+	.section	.text.unlikely._ZNSt14__basic_futureISsE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureISsE6_ResetD5Ev,comdat
+.LCOLDE172:
+	.section	.text._ZNSt14__basic_futureISsE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureISsE6_ResetD5Ev,comdat
+.LHOTE172:
+	.weak	_ZNSt14__basic_futureISsE6_ResetD1Ev
+	.set	_ZNSt14__basic_futureISsE6_ResetD1Ev,_ZNSt14__basic_futureISsE6_ResetD2Ev
+	.section	.rodata.str1.1
+.LC173:
+	.string	"future! "
+.LC174:
+	.string	"[          ] "
+.LC175:
+	.string	"factorial result: %llu\n"
+.LC176:
+	.string	"text repeater result: %s\n"
+	.section	.text.unlikely
+	.align 2
+.LCOLDB177:
+	.text
+.LHOTB177:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_117Async_Future_Test8TestBodyEv, @function
+_ZN12_GLOBAL__N_117Async_Future_Test8TestBodyEv:
+.LFB9736:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA9736
+	pushq	%r14
+	.cfi_def_cfa_offset 16
+	.cfi_offset 14, -16
+	pushq	%r13
+	.cfi_def_cfa_offset 24
+	.cfi_offset 13, -24
+	movl	$.LC173, %esi
+	pushq	%r12
+	.cfi_def_cfa_offset 32
+	.cfi_offset 12, -32
+	pushq	%rbp
+	.cfi_def_cfa_offset 40
+	.cfi_offset 6, -40
+	pushq	%rbx
+	.cfi_def_cfa_offset 48
+	.cfi_offset 3, -48
+	subq	$112, %rsp
+	.cfi_def_cfa_offset 160
+	leaq	32(%rsp), %rdx
+	leaq	80(%rsp), %rdi
+	leaq	48(%rsp), %r14
+.LEHB111:
+	call	_ZNSsC1EPKcRKSaIcE
+.LEHE111:
+	movq	80(%rsp), %rax
+	leaq	96(%rsp), %rdx
+	movl	$1, %esi
+	movq	%r14, %rdi
+	movq	$_ZNSs4_Rep20_S_empty_rep_storageE+24, 80(%rsp)
+	movl	$3, 104(%rsp)
+	movq	%rax, 96(%rsp)
+.LEHB112:
+	call	_ZSt5asyncIN7Lesson613PowerRepeaterEIEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+.LEHE112:
+	movq	96(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L1868
+	leaq	64(%rsp), %rbx
+.L1869:
+	movq	80(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L2048
+.L1874:
+	leaq	96(%rsp), %rcx
+	movl	$_Z9Factorialm, %edx
+	movl	$1, %esi
+	movq	%rbx, %rdi
+	movl	$8, 96(%rsp)
+.LEHB113:
+	call	_ZSt5asyncIRFmmEIiEESt6futureINSt9result_ofIFT_DpT0_EE4typeEESt6launchOS4_DpOS5_
+.LEHE113:
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %r13d
+	testq	%r13, %r13
+	je	.L1878
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2049
+.L1878:
+	movl	$.LC174, %esi
+	movl	$2, %edi
+	xorl	%eax, %eax
+.LEHB114:
+	call	_ZN7testing8internal13ColoredPrintfENS0_10GTestColorEPKcz
+.LEHE114:
+	movq	64(%rsp), %rbp
+	movq	%rbx, 16(%rsp)
+	testq	%rbp, %rbp
+	je	.L2050
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+.LEHB115:
+	call	*16(%rax)
+.LEHE115:
+	leaq	16(%rbp), %rdi
+	testq	%r13, %r13
+	movb	$0, 88(%rsp)
+	movq	%rdi, 80(%rsp)
+	je	.L1880
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2051
+.L1880:
+	movb	$1, 88(%rsp)
+	leaq	56(%rbp), %r12
+	jmp	.L1881
+	.p2align 4,,10
+	.p2align 3
+.L1882:
+	leaq	80(%rsp), %rsi
+	movq	%r12, %rdi
+.LEHB116:
+	call	_ZNSt18condition_variable4waitERSt11unique_lockISt5mutexE
+.LEHE116:
+.L1881:
+	movq	8(%rbp), %rbx
+	testq	%rbx, %rbx
+	je	.L1882
+	cmpb	$0, 88(%rsp)
+	jne	.L2052
+.L1883:
+	leaq	8(%rbx), %rbp
+	leaq	96(%rsp), %rsi
+	movq	$0, 96(%rsp)
+	movq	%rbp, %rdi
+	call	_ZNSt15__exception_ptreqERKNS_13exception_ptrES2_
+	leaq	96(%rsp), %rdi
+	movl	%eax, %r12d
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	testb	%r12b, %r12b
+	je	.L2053
+	movq	16(%rsp), %rax
+	movq	16(%rbx), %rdx
+	movq	8(%rax), %rbx
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	testq	%rbx, %rbx
+	je	.L1891
+	testq	%r13, %r13
+	je	.L1893
+	lock; subl	$1, 8(%rbx)
+	je	.L2054
+.L1891:
+	movl	$.LC175, %esi
+	movl	$3, %edi
+	xorl	%eax, %eax
+.LEHB117:
+	call	_ZN7testing8internal13ColoredPrintfENS0_10GTestColorEPKcz
+.LEHE117:
+	testq	%r13, %r13
+	je	.L1899
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2055
+.L1899:
+	movl	$.LC174, %esi
+	movl	$2, %edi
+	xorl	%eax, %eax
+.LEHB118:
+	call	_ZN7testing8internal13ColoredPrintfENS0_10GTestColorEPKcz
+.LEHE118:
+	movq	48(%rsp), %rbp
+	movq	%r14, 32(%rsp)
+	testq	%rbp, %rbp
+	je	.L2056
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+.LEHB119:
+	call	*16(%rax)
+.LEHE119:
+	leaq	16(%rbp), %rdi
+	testq	%r13, %r13
+	movb	$0, 104(%rsp)
+	movq	%rdi, 96(%rsp)
+	je	.L1901
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2057
+.L1901:
+	movb	$1, 104(%rsp)
+	leaq	56(%rbp), %r12
+	jmp	.L1902
+	.p2align 4,,10
+	.p2align 3
+.L1903:
+	leaq	96(%rsp), %rsi
+	movq	%r12, %rdi
+.LEHB120:
+	call	_ZNSt18condition_variable4waitERSt11unique_lockISt5mutexE
+.LEHE120:
+.L1902:
+	movq	8(%rbp), %rbx
+	testq	%rbx, %rbx
+	je	.L1903
+	cmpb	$0, 104(%rsp)
+	jne	.L2058
+.L1904:
+	leaq	8(%rbx), %rbp
+	leaq	96(%rsp), %rsi
+	movq	$0, 96(%rsp)
+	movq	%rbp, %rdi
+	call	_ZNSt15__exception_ptreqERKNS_13exception_ptrES2_
+	leaq	96(%rsp), %rdi
+	movl	%eax, %r12d
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	testb	%r12b, %r12b
+	je	.L2059
+	movq	16(%rbx), %rbp
+	movq	$_ZNSs4_Rep20_S_empty_rep_storageE+24, 16(%rbx)
+	movq	32(%rsp), %rax
+	movq	8(%rax), %rbx
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	testq	%rbx, %rbx
+	je	.L1912
+	testq	%r13, %r13
+	je	.L1914
+	lock; subl	$1, 8(%rbx)
+	je	.L2060
+.L1912:
+	movq	%rbp, %rdx
+	movl	$.LC176, %esi
+	movl	$3, %edi
+	xorl	%eax, %eax
+.LEHB121:
+	call	_ZN7testing8internal13ColoredPrintfENS0_10GTestColorEPKcz
+.LEHE121:
+	leaq	-24(%rbp), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L2061
+.L1920:
+	testq	%r13, %r13
+	je	.L1925
+.L1950:
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	movq	72(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L1927
+	lock; subl	$1, 8(%rbx)
+	jne	.L1927
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L1952:
+	cmpl	$1, %eax
+	jne	.L1927
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	.p2align 4,,10
+	.p2align 3
+.L1927:
+	movq	56(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L1867
+	testq	%r13, %r13
+	je	.L1932
+	lock; subl	$1, 8(%rbx)
+	je	.L2062
+.L1867:
+	addq	$112, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 48
+	popq	%rbx
+	.cfi_def_cfa_offset 40
+	popq	%rbp
+	.cfi_def_cfa_offset 32
+	popq	%r12
+	.cfi_def_cfa_offset 24
+	popq	%r13
+	.cfi_def_cfa_offset 16
+	popq	%r14
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L2052:
+	.cfi_restore_state
+	movq	80(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1883
+	testq	%r13, %r13
+	je	.L1883
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L1883
+	.p2align 4,,10
+	.p2align 3
+.L2058:
+	movq	96(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1904
+	testq	%r13, %r13
+	je	.L1904
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L1904
+.L1921:
+	movl	-8(%rbp), %eax
+	leal	-1(%rax), %edx
+	testl	%eax, %eax
+	movl	%edx, -8(%rbp)
+	jle	.L1923
+	.p2align 4,,10
+	.p2align 3
+.L1925:
+	movq	72(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L1927
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L1927
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L1952
+	.p2align 4,,10
+	.p2align 3
+.L1914:
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L1912
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L1948
+	.p2align 4,,10
+	.p2align 3
+.L1893:
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %ecx
+	cmpl	$1, %eax
+	movl	%ecx, 8(%rbx)
+	jne	.L1891
+	movq	(%rbx), %rax
+	movq	%rdx, 8(%rsp)
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	movq	8(%rsp), %rdx
+	leal	-1(%rax), %ecx
+	movl	%ecx, 12(%rbx)
+	jmp	.L1947
+	.p2align 4,,10
+	.p2align 3
+.L1932:
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L1867
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L1953
+	.p2align 4,,10
+	.p2align 3
+.L2061:
+	testq	%r13, %r13
+	je	.L1921
+	movl	$-1, %eax
+	lock; xaddl	%eax, -8(%rbp)
+	testl	%eax, %eax
+	jg	.L1950
+.L1923:
+	leaq	96(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L1920
+.L2048:
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L1875
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L1876:
+	testl	%eax, %eax
+	jg	.L1874
+	leaq	96(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L1874
+.L1868:
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %edx
+	testq	%rdx, %rdx
+	je	.L1870
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	movl	%edx, %eax
+.L1871:
+	testl	%eax, %eax
+	leaq	64(%rsp), %rbx
+	jg	.L1869
+	movq	%rbx, %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L1869
+.L2060:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L1948:
+	cmpl	$1, %eax
+	jne	.L1912
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L1912
+.L2054:
+	movq	(%rbx), %rax
+	movq	%rdx, 8(%rsp)
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+	movq	8(%rsp), %rdx
+.L1947:
+	cmpl	$1, %eax
+	jne	.L1891
+	movq	(%rbx), %rax
+	movq	%rdx, 8(%rsp)
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	movq	8(%rsp), %rdx
+	jmp	.L1891
+.L2062:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L1953:
+	cmpl	$1, %eax
+	jne	.L1867
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L1867
+.L1870:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L1871
+.L1875:
+	movl	-8(%rax), %edx
+	leal	-1(%rdx), %ecx
+	movl	%ecx, -8(%rax)
+	movl	%edx, %eax
+	jmp	.L1876
+.L2055:
+	movl	%eax, %edi
+.LEHB122:
+	call	_ZSt20__throw_system_errori
+.LEHE122:
+.L2051:
+	movl	%eax, %edi
+.LEHB123:
+	call	_ZSt20__throw_system_errori
+.LEHE123:
+.L2057:
+	movl	%eax, %edi
+.LEHB124:
+	call	_ZSt20__throw_system_errori
+.LEHE124:
+.L1963:
+	movq	%rax, %rbx
+.L1910:
+	leaq	32(%rsp), %rdi
+	call	_ZNSt14__basic_futureISsE6_ResetD1Ev
+.L1919:
+	testq	%r13, %r13
+	je	.L1940
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+.L1940:
+	movq	72(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1945
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1945:
+	movq	56(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L1946
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L1946:
+	movq	%rbx, %rdi
+.LEHB125:
+	call	_Unwind_Resume
+.LEHE125:
+.L1954:
+	movq	%rax, %rbx
+	movq	96(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L1937
+	leaq	64(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+.L1937:
+	movq	80(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L1946
+	leaq	96(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+	jmp	.L1946
+.L1956:
+.L2035:
+	movq	%rax, %rbx
+	jmp	.L1919
+.L2049:
+	movl	%eax, %edi
+.LEHB126:
+	call	_ZSt20__throw_system_errori
+.LEHE126:
+.L1962:
+	cmpb	$0, 88(%rsp)
+	movq	%rax, %rbx
+	je	.L1889
+	leaq	80(%rsp), %rdi
+	call	_ZNSt11unique_lockISt5mutexE6unlockEv
+.L1889:
+	leaq	16(%rsp), %rdi
+	call	_ZNSt14__basic_futureImE6_ResetD1Ev
+	jmp	.L1919
+.L1955:
+	movq	%rax, %rbx
+	jmp	.L1945
+.L1959:
+	leaq	-24(%rbp), %rdi
+	movq	%rax, %rbx
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L1919
+	leaq	96(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+	jmp	.L1919
+.L2050:
+	movl	$3, %edi
+.LEHB127:
+	call	_ZSt20__throw_future_errori
+.LEHE127:
+.L2053:
+	leaq	96(%rsp), %rdi
+	movq	%rbp, %rsi
+	call	_ZNSt15__exception_ptr13exception_ptrC1ERKS0_
+	leaq	96(%rsp), %rdi
+.LEHB128:
+	call	_ZSt17rethrow_exceptionNSt15__exception_ptr13exception_ptrE
+.LEHE128:
+.L2059:
+	leaq	96(%rsp), %rdi
+	movq	%rbp, %rsi
+	call	_ZNSt15__exception_ptr13exception_ptrC1ERKS0_
+	leaq	96(%rsp), %rdi
+.LEHB129:
+	call	_ZSt17rethrow_exceptionNSt15__exception_ptr13exception_ptrE
+.LEHE129:
+.L1965:
+	cmpb	$0, 104(%rsp)
+	movq	%rax, %rbx
+	je	.L1910
+	leaq	96(%rsp), %rdi
+	call	_ZNSt11unique_lockISt5mutexE6unlockEv
+	jmp	.L1910
+.L1961:
+	leaq	96(%rsp), %rdi
+	movq	%rax, %rbx
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	jmp	.L1889
+.L1964:
+	leaq	96(%rsp), %rdi
+	movq	%rax, %rbx
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	jmp	.L1910
+.L2056:
+	movl	$3, %edi
+.LEHB130:
+	call	_ZSt20__throw_future_errori
+.LEHE130:
+.L1958:
+	jmp	.L2035
+.L1960:
+	movq	%rax, %rbx
+	jmp	.L1889
+.L1957:
+	movq	%rax, %rbx
+	jmp	.L1940
+	.cfi_endproc
+.LFE9736:
+	.section	.gcc_except_table
+.LLSDA9736:
+	.byte	0xff
+	.byte	0xff
+	.byte	0x1
+	.uleb128 .LLSDACSE9736-.LLSDACSB9736
+.LLSDACSB9736:
+	.uleb128 .LEHB111-.LFB9736
+	.uleb128 .LEHE111-.LEHB111
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB112-.LFB9736
+	.uleb128 .LEHE112-.LEHB112
+	.uleb128 .L1954-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB113-.LFB9736
+	.uleb128 .LEHE113-.LEHB113
+	.uleb128 .L1955-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB114-.LFB9736
+	.uleb128 .LEHE114-.LEHB114
+	.uleb128 .L1956-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB115-.LFB9736
+	.uleb128 .LEHE115-.LEHB115
+	.uleb128 .L1960-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB116-.LFB9736
+	.uleb128 .LEHE116-.LEHB116
+	.uleb128 .L1962-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB117-.LFB9736
+	.uleb128 .LEHE117-.LEHB117
+	.uleb128 .L1956-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB118-.LFB9736
+	.uleb128 .LEHE118-.LEHB118
+	.uleb128 .L1958-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB119-.LFB9736
+	.uleb128 .LEHE119-.LEHB119
+	.uleb128 .L1963-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB120-.LFB9736
+	.uleb128 .LEHE120-.LEHB120
+	.uleb128 .L1965-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB121-.LFB9736
+	.uleb128 .LEHE121-.LEHB121
+	.uleb128 .L1959-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB122-.LFB9736
+	.uleb128 .LEHE122-.LEHB122
+	.uleb128 .L1957-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB123-.LFB9736
+	.uleb128 .LEHE123-.LEHB123
+	.uleb128 .L1960-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB124-.LFB9736
+	.uleb128 .LEHE124-.LEHB124
+	.uleb128 .L1963-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB125-.LFB9736
+	.uleb128 .LEHE125-.LEHB125
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB126-.LFB9736
+	.uleb128 .LEHE126-.LEHB126
+	.uleb128 .L1957-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB127-.LFB9736
+	.uleb128 .LEHE127-.LEHB127
+	.uleb128 .L1960-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB128-.LFB9736
+	.uleb128 .LEHE128-.LEHB128
+	.uleb128 .L1961-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB129-.LFB9736
+	.uleb128 .LEHE129-.LEHB129
+	.uleb128 .L1964-.LFB9736
+	.uleb128 0
+	.uleb128 .LEHB130-.LFB9736
+	.uleb128 .LEHE130-.LEHB130
+	.uleb128 .L1963-.LFB9736
+	.uleb128 0
+.LLSDACSE9736:
+	.text
+	.size	_ZN12_GLOBAL__N_117Async_Future_Test8TestBodyEv, .-_ZN12_GLOBAL__N_117Async_Future_Test8TestBodyEv
+	.section	.text.unlikely
+.LCOLDE177:
+	.text
+.LHOTE177:
+	.section	.text.unlikely._ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD5Ev,comdat
+	.align 2
+.LCOLDB178:
+	.section	.text._ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD5Ev,comdat
+.LHOTB178:
+	.align 2
+	.p2align 4,,15
+	.weak	_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev
+	.type	_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev, @function
+_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev:
+.LFB11053:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movq	(%rdi), %rax
+	movq	8(%rax), %rbx
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	testq	%rbx, %rbx
+	je	.L2063
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L2066
+	lock; subl	$1, 8(%rbx)
+	je	.L2074
+.L2063:
+	popq	%rbx
+	.cfi_remember_state
+	.cfi_def_cfa_offset 8
+	ret
+	.p2align 4,,10
+	.p2align 3
+.L2066:
+	.cfi_restore_state
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L2063
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+	jmp	.L2070
+.L2074:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	orl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+.L2070:
+	cmpl	$1, %eax
+	jne	.L2063
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	movq	24(%rax), %rax
+	jmp	*%rax
+	.cfi_endproc
+.LFE11053:
+	.size	_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev, .-_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev
+	.section	.text.unlikely._ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD5Ev,comdat
+.LCOLDE178:
+	.section	.text._ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev,"axG",@progbits,_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD5Ev,comdat
+.LHOTE178:
+	.weak	_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD1Ev
+	.set	_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD1Ev,_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD2Ev
+	.section	.rodata.str1.8,"aMS",@progbits,1
+	.align 8
+.LC179:
+	.string	"Task 1 received the signal %f ms after start\n"
+	.align 8
+.LC180:
+	.string	"Task 2 received the signal %f ms after start\n"
+	.section	.text.unlikely
+	.align 2
+.LCOLDB181:
+	.text
+.LHOTB181:
+	.align 2
+	.p2align 4,,15
+	.type	_ZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEv, @function
+_ZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEv:
+.LFB9758:
+	.cfi_startproc
+	.cfi_personality 0x3,__gxx_personality_v0
+	.cfi_lsda 0x3,.LLSDA9758
+	pushq	%r15
+	.cfi_def_cfa_offset 16
+	.cfi_offset 15, -16
+	pushq	%r14
+	.cfi_def_cfa_offset 24
+	.cfi_offset 14, -24
+	movl	$128, %edi
+	pushq	%r13
+	.cfi_def_cfa_offset 32
+	.cfi_offset 13, -32
+	pushq	%r12
+	.cfi_def_cfa_offset 40
+	.cfi_offset 12, -40
+	pushq	%rbp
+	.cfi_def_cfa_offset 48
+	.cfi_offset 6, -48
+	pushq	%rbx
+	.cfi_def_cfa_offset 56
+	.cfi_offset 3, -56
+	subq	$424, %rsp
+	.cfi_def_cfa_offset 480
+	movq	$0, 240(%rsp)
+	movq	$0, 248(%rsp)
+.LEHB131:
+	call	_Znwm
+.LEHE131:
+	leaq	72(%rax), %rdi
+	movq	%rax, %rbx
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$0, 40(%rax)
+	movq	$0, 48(%rax)
+	movq	$0, 56(%rax)
+	movq	$0, 64(%rax)
+	call	_ZNSt18condition_variableC1Ev
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	movb	$0, 120(%rbx)
+	movl	$0, 124(%rbx)
+	movq	%rbx, 248(%rsp)
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	call	*32(%rax)
+	movl	$16, %edi
+	movq	%rax, 240(%rsp)
+.LEHB132:
+	call	_Znwm
+.LEHE132:
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	movq	%rax, %rdi
+	movq	%rax, %rbx
+.LEHB133:
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+.LEHE133:
+	movq	$_ZTVNSt13__future_base7_ResultIvEE+16, (%rbx)
+	movl	$128, %edi
+	movq	%rbx, 256(%rsp)
+	movq	$0, 272(%rsp)
+	movq	$0, 280(%rsp)
+.LEHB134:
+	call	_Znwm
+.LEHE134:
+	leaq	72(%rax), %rdi
+	movq	%rax, %rbx
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$0, 40(%rax)
+	movq	$0, 48(%rax)
+	movq	$0, 56(%rax)
+	movq	$0, 64(%rax)
+	call	_ZNSt18condition_variableC1Ev
+	movb	$0, 120(%rbx)
+	movl	$0, 124(%rbx)
+	movq	%rbx, %rdi
+	movq	%rbx, 280(%rsp)
+	movq	(%rbx), %rax
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	call	*32(%rax)
+	movl	$16, %edi
+	movq	%rax, 272(%rsp)
+.LEHB135:
+	call	_Znwm
+.LEHE135:
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	movq	%rax, %rdi
+	movq	%rax, %rbx
+.LEHB136:
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+.LEHE136:
+	movq	$_ZTVNSt13__future_base7_ResultIvEE+16, (%rbx)
+	movl	$128, %edi
+	movq	%rbx, 288(%rsp)
+	movq	$0, 304(%rsp)
+	movq	$0, 312(%rsp)
+.LEHB137:
+	call	_Znwm
+.LEHE137:
+	leaq	72(%rax), %rdi
+	movq	%rax, %rbx
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$0, 40(%rax)
+	movq	$0, 48(%rax)
+	movq	$0, 56(%rax)
+	movq	$0, 64(%rax)
+	call	_ZNSt18condition_variableC1Ev
+	movb	$0, 120(%rbx)
+	movl	$0, 124(%rbx)
+	movq	%rbx, %rdi
+	movq	%rbx, 312(%rsp)
+	movq	(%rbx), %rax
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	call	*32(%rax)
+	movl	$16, %edi
+	movq	%rax, 304(%rsp)
+.LEHB138:
+	call	_Znwm
+.LEHE138:
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	movq	%rax, %rdi
+	movq	%rax, %rbx
+.LEHB139:
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+.LEHE139:
+	movq	$_ZTVNSt13__future_base7_ResultIvEE+16, (%rbx)
+	movq	312(%rsp), %rbp
+	movq	%rbx, 320(%rsp)
+	movq	304(%rsp), %r13
+	testq	%rbp, %rbp
+	je	.L2086
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L2091
+	lock; addl	$1, 8(%rbp)
+.L2086:
+	testq	%r13, %r13
+	je	.L2677
+	movl	$1, %eax
+	xchgb	104(%r13), %al
+	testb	%al, %al
+	jne	.L2678
+	testq	%rbp, %rbp
+	movq	$0, 64(%rsp)
+	movq	$0, 8(%rsp)
+	je	.L2097
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L2098
+	leaq	8(%rbp), %rax
+	lock; addl	$1, (%rax)
+	lock; addl	$1, (%rax)
+	lock; addl	$1, (%rax)
+	movq	%rbp, 8(%rsp)
+.L2097:
+	movl	$184, %edi
+.LEHB140:
+	call	_Znwm
+.LEHE140:
+	leaq	72(%rax), %rdi
+	movq	%rax, %r12
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	leaq	16(%rax), %rbx
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$0, 40(%rax)
+	movq	$0, 48(%rax)
+	movq	$0, 56(%rax)
+	movq	$0, 64(%rax)
+	call	_ZNSt18condition_variableC1Ev
+	movb	$0, 120(%r12)
+	movl	$0, 124(%r12)
+	movl	$32, %edi
+	movq	$0, 128(%r12)
+	movl	$0, 136(%r12)
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, 16(%r12)
+.LEHB141:
+	call	_Znwm
+.LEHE141:
+	movq	%rax, %rdi
+	movq	%rax, %r14
+	leaq	64(%rsp), %r15
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+	leaq	240(%rsp), %rax
+	movq	$_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%r14)
+	movb	$0, 24(%r14)
+	movl	$48, %edi
+	movq	%r14, 144(%r12)
+	movq	%r13, 152(%r12)
+	movq	%rbp, 160(%r12)
+	movq	%rax, 168(%r12)
+	movq	%r15, 176(%r12)
+	movq	%rax, 32(%rsp)
+	movq	$0, 80(%rsp)
+.LEHB142:
+	call	_Znwm
+.LEHE142:
+	movq	%rax, %r14
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movq	%rax, %rdi
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	$0, 24(%rax)
+	movq	$0, 32(%rax)
+	movq	$_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE+16, 16(%rax)
+	movq	%rbx, 40(%rax)
+	call	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	movq	%r14, 376(%rsp)
+	leaq	368(%rsp), %r14
+	leaq	80(%rsp), %rdi
+	movq	%rax, 368(%rsp)
+	movq	%r14, %rsi
+.LEHB143:
+	call	_ZNSt6thread15_M_start_threadESt10shared_ptrINS_10_Impl_baseEE
+.LEHE143:
+	movq	376(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L2108
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %eax
+	testq	%rax, %rax
+	je	.L2103
+	lock; subl	$1, 8(%rbx)
+	je	.L2679
+.L2108:
+	cmpq	$0, 128(%r12)
+	jne	.L2308
+	movq	80(%rsp), %rax
+	movl	$_ZL28__gthrw___pthread_key_createPjPFvPvE, %ebx
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movq	%r12, %rdi
+	movq	%rax, 128(%r12)
+	movq	(%r12), %rax
+	call	*32(%rax)
+	testq	%rbx, %rbx
+	movq	%rax, 144(%rsp)
+	movq	%r12, 152(%rsp)
+	leaq	8(%r12), %rcx
+	je	.L2680
+	lock; addl	$1, (%rcx)
+	movq	144(%rsp), %rax
+.L2116:
+	testq	%rax, %rax
+	je	.L2681
+	movl	$1, %edx
+	xchgb	104(%rax), %dl
+	testb	%dl, %dl
+	jne	.L2682
+	testq	%rbx, %rbx
+	je	.L2122
+	lock; subl	$1, (%rcx)
+	je	.L2683
+.L2124:
+	testq	%rbp, %rbp
+	je	.L2128
+	testq	%rbx, %rbx
+	je	.L2132
+	lock; addl	$1, 8(%rbp)
+.L2128:
+	movl	$184, %edi
+.LEHB144:
+	call	_Znwm
+.LEHE144:
+	movq	%rax, %r12
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	leaq	72(%r12), %rdi
+	leaq	16(%rax), %rax
+	movq	$_ZTVNSt13__future_base13_State_baseV2E+16, 16(%r12)
+	movq	$0, 24(%r12)
+	movq	$0, 32(%r12)
+	movq	$0, 40(%r12)
+	movq	$0, 48(%r12)
+	movq	$0, 56(%r12)
+	movq	$0, 64(%r12)
+	movq	%rax, 16(%rsp)
+	call	_ZNSt18condition_variableC1Ev
+	movb	$0, 120(%r12)
+	movl	$0, 124(%r12)
+	movl	$32, %edi
+	movq	$0, 128(%r12)
+	movl	$0, 136(%r12)
+	movq	$_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, 16(%r12)
+.LEHB145:
+	call	_Znwm
+.LEHE145:
+	movq	%rax, %rdi
+	movq	%rax, 24(%rsp)
+	call	_ZNSt13__future_base12_Result_baseC2Ev
+	movq	24(%rsp), %rax
+	movl	$48, %edi
+	movq	$_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE+16, (%rax)
+	movb	$0, 24(%rax)
+	movq	%rax, 144(%r12)
+	leaq	272(%rsp), %rax
+	movq	%r13, 152(%r12)
+	movq	%rbp, 160(%r12)
+	movq	%r15, 176(%r12)
+	movq	%rax, 168(%r12)
+	movq	%rax, 24(%rsp)
+	movq	$0, 96(%rsp)
+.LEHB146:
+	call	_Znwm
+.LEHE146:
+	movq	%rax, %r13
+	movl	$1, 8(%rax)
+	movl	$1, 12(%rax)
+	movq	$_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE+16, (%rax)
+	movq	$0, 24(%rax)
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movq	$0, 32(%rax)
+	movq	$_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE+16, 16(%rax)
+	movq	%r13, %rdi
+	movq	16(%rsp), %rax
+	movq	%rax, 40(%r13)
+	call	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	leaq	96(%rsp), %rdi
+	movq	%r14, %rsi
+	movq	%rax, 368(%rsp)
+	movq	%r13, 376(%rsp)
+.LEHB147:
+	call	_ZNSt6thread15_M_start_threadESt10shared_ptrINS_10_Impl_baseEE
+.LEHE147:
+	movq	376(%rsp), %r13
+	testq	%r13, %r13
+	je	.L2142
+	testq	%rbx, %rbx
+	je	.L2137
+	lock; subl	$1, 8(%r13)
+	je	.L2684
+.L2142:
+	cmpq	$0, 128(%r12)
+	jne	.L2308
+	movq	96(%rsp), %rax
+	movl	$_ZTISt19_Sp_make_shared_tag, %esi
+	movq	%r12, %rdi
+	movq	%rax, 128(%r12)
+	movq	(%r12), %rax
+	call	*32(%rax)
+	testq	%rbx, %rbx
+	movq	%rax, 160(%rsp)
+	movq	%r12, 168(%rsp)
+	leaq	8(%r12), %rcx
+	je	.L2685
+	lock; addl	$1, (%rcx)
+	movq	160(%rsp), %rax
+.L2150:
+	testq	%rax, %rax
+	je	.L2686
+	movl	$1, %edx
+	xchgb	104(%rax), %dl
+	testb	%dl, %dl
+	jne	.L2687
+	testq	%rbx, %rbx
+	je	.L2156
+	lock; subl	$1, (%rcx)
+	je	.L2688
+.L2158:
+	movq	248(%rsp), %r15
+	movq	240(%rsp), %r12
+	testq	%r15, %r15
+	je	.L2162
+	testq	%rbx, %rbx
+	je	.L2166
+	lock; addl	$1, 8(%r15)
+.L2162:
+	testq	%r12, %r12
+	je	.L2689
+	movl	$1, %eax
+	xchgb	104(%r12), %al
+	testb	%al, %al
+	jne	.L2690
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+.LEHB148:
+	call	*16(%rax)
+.LEHE148:
+	leaq	16(%r12), %rdi
+	testq	%rbx, %rbx
+	movb	$0, 184(%rsp)
+	movq	%rdi, 176(%rsp)
+	je	.L2172
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2691
+.L2172:
+	movb	$1, 184(%rsp)
+	leaq	56(%r12), %r13
+	jmp	.L2173
+	.p2align 4,,10
+	.p2align 3
+.L2174:
+	leaq	176(%rsp), %rsi
+	movq	%r13, %rdi
+.LEHB149:
+	call	_ZNSt18condition_variable4waitERSt11unique_lockISt5mutexE
+.LEHE149:
+.L2173:
+	cmpq	$0, 8(%r12)
+	je	.L2174
+	cmpb	$0, 184(%rsp)
+	jne	.L2692
+.L2175:
+	testq	%r15, %r15
+	je	.L2178
+	testq	%rbx, %rbx
+	je	.L2182
+	lock; subl	$1, 8(%r15)
+	je	.L2693
+.L2178:
+	movq	280(%rsp), %r15
+	movq	272(%rsp), %r12
+	testq	%r15, %r15
+	je	.L2186
+	testq	%rbx, %rbx
+	je	.L2187
+	lock; addl	$1, 8(%r15)
+.L2186:
+	testq	%r12, %r12
+	je	.L2694
+	movl	$1, %eax
+	xchgb	104(%r12), %al
+	testb	%al, %al
+	jne	.L2695
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+.LEHB150:
+	call	*16(%rax)
+.LEHE150:
+	leaq	16(%r12), %rdi
+	testq	%rbx, %rbx
+	movb	$0, 200(%rsp)
+	movq	%rdi, 192(%rsp)
+	je	.L2192
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2696
+.L2192:
+	movb	$1, 200(%rsp)
+	leaq	56(%r12), %r13
+	jmp	.L2193
+	.p2align 4,,10
+	.p2align 3
+.L2194:
+	leaq	192(%rsp), %rsi
+	movq	%r13, %rdi
+.LEHB151:
+	call	_ZNSt18condition_variable4waitERSt11unique_lockISt5mutexE
+.LEHE151:
+.L2193:
+	cmpq	$0, 8(%r12)
+	je	.L2194
+	cmpb	$0, 200(%rsp)
+	jne	.L2697
+.L2195:
+	testq	%r15, %r15
+	je	.L2198
+	testq	%rbx, %rbx
+	je	.L2202
+	lock; subl	$1, 8(%r15)
+	je	.L2698
+.L2198:
+	call	_ZNSt6chrono3_V212system_clock3nowEv
+	movq	312(%rsp), %r12
+	movq	%rax, 64(%rsp)
+	movq	304(%rsp), %r13
+	testq	%r12, %r12
+	je	.L2206
+	testq	%rbx, %rbx
+	je	.L2207
+	lock; addl	$1, 8(%r12)
+.L2206:
+	movl	$8, %edi
+	movq	$0, 352(%rsp)
+.LEHB152:
+	call	_Znwm
+.LEHE152:
+	leaq	304(%rsp), %rcx
+	leaq	336(%rsp), %r15
+	testq	%rbx, %rbx
+	movq	%rcx, (%rax)
+	movq	%rax, 336(%rsp)
+	leaq	63(%rsp), %rax
+	movq	%rcx, 16(%rsp)
+	movq	$_ZNSt17_Function_handlerIFSt10unique_ptrINSt13__future_base12_Result_baseENS2_8_DeleterEEvENS1_13_State_baseV27_SetterIvvEEE9_M_invokeERKSt9_Any_data, 360(%rsp)
+	movq	%rax, 368(%rsp)
+	movq	_ZSt15__once_callable@gottpoff(%rip), %rax
+	movq	$_ZNSt14_Function_base13_Base_managerINSt13__future_base13_State_baseV27_SetterIvvEEE10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation, 352(%rsp)
+	movb	$0, 63(%rsp)
+	movq	%r15, 376(%rsp)
+	movq	%r13, 384(%rsp)
+	movq	%r14, %fs:(%rax)
+	movq	_ZSt11__once_call@gottpoff(%rip), %rax
+	movq	$_ZNSt13__future_base13_State_baseV29_M_do_setERSt8functionIFSt10unique_ptrINS_12_Result_baseENS3_8_DeleterEEvEERb, 392(%rsp)
+	movq	$0, 400(%rsp)
+	movq	$_ZSt16__once_call_implISt12_Bind_simpleIFSt7_Mem_fnIMNSt13__future_base13_State_baseV2EFvRSt8functionIFSt10unique_ptrINS2_12_Result_baseENS6_8_DeleterEEvEERbEEPS3_St17reference_wrapperISA_ESH_IbEEEEvv, %fs:(%rax)
+	movl	$-1, %eax
+	je	.L2209
+	leaq	108(%r13), %rdi
+	movl	$__once_proxy, %esi
+.LEHB153:
+	call	_ZL20__gthrw_pthread_oncePiPFvvE
+	testl	%eax, %eax
+	jne	.L2209
+	cmpb	$0, 63(%rsp)
+	jne	.L2699
+	movl	$2, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE153:
+	.p2align 4,,10
+	.p2align 3
+.L2091:
+	addl	$1, 8(%rbp)
+	jmp	.L2086
+	.p2align 4,,10
+	.p2align 3
+.L2098:
+	addl	$3, 8(%rbp)
+	movq	%rbp, 8(%rsp)
+	jmp	.L2097
+	.p2align 4,,10
+	.p2align 3
+.L2697:
+	movq	192(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2195
+	testq	%rbx, %rbx
+	je	.L2195
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L2195
+	.p2align 4,,10
+	.p2align 3
+.L2692:
+	movq	176(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2175
+	testq	%rbx, %rbx
+	je	.L2175
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L2175
+	.p2align 4,,10
+	.p2align 3
+.L2187:
+	addl	$1, 8(%r15)
+	jmp	.L2186
+.L2685:
+	addl	$1, 8(%r12)
+	jmp	.L2150
+	.p2align 4,,10
+	.p2align 3
+.L2166:
+	addl	$1, 8(%r15)
+	jmp	.L2162
+.L2680:
+	addl	$1, 8(%r12)
+	jmp	.L2116
+	.p2align 4,,10
+	.p2align 3
+.L2207:
+	addl	$1, 8(%r12)
+	jmp	.L2206
+	.p2align 4,,10
+	.p2align 3
+.L2156:
+	movl	8(%r12), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%r12)
+	jne	.L2158
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	movl	12(%r12), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%r12)
+.L2335:
+	cmpl	$1, %eax
+	jne	.L2158
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*24(%rax)
+	jmp	.L2158
+	.p2align 4,,10
+	.p2align 3
+.L2122:
+	movl	8(%r12), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%r12)
+	jne	.L2124
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	movl	12(%r12), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%r12)
+.L2333:
+	cmpl	$1, %eax
+	jne	.L2124
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*24(%rax)
+	jmp	.L2124
+.L2182:
+	movl	8(%r15), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%r15)
+	jne	.L2178
+	movq	(%r15), %rax
+	movq	%r15, %rdi
+	call	*16(%rax)
+	movl	12(%r15), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%r15)
+.L2336:
+	cmpl	$1, %eax
+	jne	.L2178
+	movq	(%r15), %rax
+	movq	%r15, %rdi
+	call	*24(%rax)
+	jmp	.L2178
+.L2202:
+	movl	8(%r15), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%r15)
+	jne	.L2198
+	movq	(%r15), %rax
+	movq	%r15, %rdi
+	call	*16(%rax)
+	movl	12(%r15), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%r15)
+.L2337:
+	cmpl	$1, %eax
+	jne	.L2198
+	movq	(%r15), %rax
+	movq	%r15, %rdi
+	call	*24(%rax)
+	jmp	.L2198
+.L2699:
+	leaq	56(%r13), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	movq	352(%rsp), %rax
+	testq	%rax, %rax
+	je	.L2216
+	movl	$3, %edx
+	movq	%r15, %rsi
+	movq	%r15, %rdi
+	call	*%rax
+.L2216:
+	testq	%r12, %r12
+	je	.L2217
+	lock; subl	$1, 8(%r12)
+	je	.L2700
+.L2217:
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2701
+	movl	$.LC174, %esi
+	movl	$2, %edi
+	xorl	%eax, %eax
+.LEHB154:
+	call	_ZN7testing8internal13ColoredPrintfENS0_10GTestColorEPKcz
+.LEHE154:
+	movq	144(%rsp), %rbx
+	leaq	144(%rsp), %rax
+	movq	%rax, 112(%rsp)
+	testq	%rbx, %rbx
+	je	.L2702
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+.LEHB155:
+	call	*16(%rax)
+.LEHE155:
+	leaq	16(%rbx), %rdi
+	movb	$0, 216(%rsp)
+	movq	%rdi, 208(%rsp)
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2703
+	movb	$1, 216(%rsp)
+	leaq	56(%rbx), %r12
+	jmp	.L2225
+	.p2align 4,,10
+	.p2align 3
+.L2226:
+	leaq	208(%rsp), %rsi
+	movq	%r12, %rdi
+.LEHB156:
+	call	_ZNSt18condition_variable4waitERSt11unique_lockISt5mutexE
+.LEHE156:
+.L2225:
+	movq	8(%rbx), %r13
+	testq	%r13, %r13
+	je	.L2226
+	cmpb	$0, 216(%rsp)
+	jne	.L2704
+.L2227:
+	leaq	8(%r13), %rbx
+	movq	%r14, %rsi
+	movq	$0, 368(%rsp)
+	movq	%rbx, %rdi
+	call	_ZNSt15__exception_ptreqERKNS_13exception_ptrES2_
+	movq	%r14, %rdi
+	movl	%eax, %r12d
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	testb	%r12b, %r12b
+	je	.L2705
+	movq	112(%rsp), %rax
+	movsd	16(%r13), %xmm0
+	movq	8(%rax), %rbx
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	testq	%rbx, %rbx
+	je	.L2234
+	lock; subl	$1, 8(%rbx)
+	je	.L2706
+.L2234:
+	movl	$.LC179, %esi
+	movl	$3, %edi
+	movl	$1, %eax
+.LEHB157:
+	call	_ZN7testing8internal13ColoredPrintfENS0_10GTestColorEPKcz
+.LEHE157:
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2707
+	movl	$.LC174, %esi
+	movl	$2, %edi
+	xorl	%eax, %eax
+.LEHB158:
+	call	_ZN7testing8internal13ColoredPrintfENS0_10GTestColorEPKcz
+.LEHE158:
+	movq	160(%rsp), %rbx
+	leaq	160(%rsp), %rax
+	movq	%rax, 128(%rsp)
+	testq	%rbx, %rbx
+	je	.L2708
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+.LEHB159:
+	call	*16(%rax)
+.LEHE159:
+	leaq	16(%rbx), %rdi
+	movb	$0, 232(%rsp)
+	movq	%rdi, 224(%rsp)
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2709
+	movb	$1, 232(%rsp)
+	leaq	56(%rbx), %r12
+	jmp	.L2243
+	.p2align 4,,10
+	.p2align 3
+.L2244:
+	leaq	224(%rsp), %rsi
+	movq	%r12, %rdi
+.LEHB160:
+	call	_ZNSt18condition_variable4waitERSt11unique_lockISt5mutexE
+.LEHE160:
+.L2243:
+	movq	8(%rbx), %r13
+	testq	%r13, %r13
+	je	.L2244
+	cmpb	$0, 232(%rsp)
+	jne	.L2710
+.L2245:
+	leaq	8(%r13), %rbx
+	movq	%r14, %rsi
+	movq	$0, 368(%rsp)
+	movq	%rbx, %rdi
+	call	_ZNSt15__exception_ptreqERKNS_13exception_ptrES2_
+	movq	%r14, %rdi
+	movl	%eax, %r12d
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	testb	%r12b, %r12b
+	je	.L2711
+	movq	128(%rsp), %rax
+	movsd	16(%r13), %xmm0
+	movq	8(%rax), %rbx
+	movq	$0, (%rax)
+	movq	$0, 8(%rax)
+	testq	%rbx, %rbx
+	je	.L2252
+	lock; subl	$1, 8(%rbx)
+	je	.L2712
+.L2252:
+	movl	$.LC180, %esi
+	movl	$3, %edi
+	movl	$1, %eax
+.LEHB161:
+	call	_ZN7testing8internal13ColoredPrintfENS0_10GTestColorEPKcz
+.LEHE161:
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	movq	168(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L2259
+	lock; subl	$1, 8(%rbx)
+	je	.L2713
+.L2259:
+	movq	152(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L2264
+	leaq	8(%rbx), %rax
+.L2345:
+	lock; subl	$1, (%rax)
+	je	.L2714
+.L2263:
+	testq	%rbp, %rbp
+	je	.L2273
+	leaq	8(%rbp), %rbx
+.L2348:
+	lock; subl	$1, (%rbx)
+	je	.L2715
+.L2327:
+	lock; subl	$1, (%rbx)
+	je	.L2716
+.L2328:
+	lock; subl	$1, (%rbx)
+	je	.L2717
+.L2273:
+	movq	304(%rsp), %r12
+	testq	%r12, %r12
+	je	.L2617
+	movq	312(%rsp), %rbp
+	testq	%rbp, %rbp
+	je	.L2275
+	movl	8(%rbp), %eax
+	cmpl	$1, %eax
+	je	.L2617
+.L2275:
+	movq	320(%rsp), %rbx
+	movq	$0, 320(%rsp)
+	testq	%rbx, %rbx
+	je	.L2286
+	call	_ZSt15future_categoryv
+	leaq	224(%rsp), %rdx
+	movl	$.LC157, %esi
+	movq	%r15, %rdi
+	movq	%rax, %rbp
+	call	_ZNSsC1EPKcRKSaIcE
+	movq	%r15, %rsi
+	movq	%r14, %rdi
+.LEHB162:
+	call	_ZNSt11logic_errorC2ERKSs
+.LEHE162:
+	movq	336(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L2718
+.L2278:
+	movl	$32, %edi
+	movq	%rbp, 392(%rsp)
+	movq	$_ZTVSt12future_error+16, 368(%rsp)
+	movl	$4, 384(%rsp)
+	call	__cxa_allocate_exception
+	leaq	8(%r14), %rsi
+	leaq	8(%rax), %rdi
+	movq	$_ZTVSt11logic_error+16, (%rax)
+	movq	%rax, %rbp
+.LEHB163:
+	call	_ZNSsC1ERKSs
+.LEHE163:
+	movq	392(%rsp), %rdx
+	movq	384(%rsp), %rax
+	movl	$_ZTISt12future_error, %esi
+	movq	$_ZTVSt12future_error+16, 0(%rbp)
+	movq	%rbp, %rdi
+	movq	%rdx, 24(%rbp)
+	movq	%rax, 16(%rbp)
+	movl	$_ZNSt12future_errorD1Ev, %edx
+.LEHB164:
+	call	__cxa_throw
+.LEHE164:
+.L2710:
+	movq	224(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2245
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L2245
+.L2704:
+	movq	208(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2227
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L2227
+.L2132:
+	addl	$1, 8(%rbp)
+	jmp	.L2128
+	.p2align 4,,10
+	.p2align 3
+.L2401:
+	movq	%rax, %rbx
+	movq	352(%rsp), %rax
+	testq	%rax, %rax
+	je	.L2212
+	movl	$3, %edx
+	movq	%r15, %rsi
+	movq	%r15, %rdi
+	call	*%rax
+.L2212:
+	testq	%r12, %r12
+	je	.L2171
+	movq	%r12, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2171:
+	movq	168(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2165
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2165:
+	movq	152(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2131
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2131:
+	movq	8(%rsp), %rax
+	testq	%rax, %rax
+	je	.L2317
+	movq	%rax, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2317:
+	testq	%rbp, %rbp
+	je	.L2096
+	movq	%rbp, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	movq	%rbp, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2096:
+	movq	16(%rsp), %rdi
+	call	_ZNSt7promiseIvED1Ev
+	movq	24(%rsp), %rdi
+.L2090:
+	call	_ZNSt7promiseIvED1Ev
+	movq	32(%rsp), %rdi
+.L2084:
+	call	_ZNSt7promiseIvED1Ev
+.L2625:
+	movq	%rbx, %rdi
+.LEHB165:
+	call	_Unwind_Resume
+.LEHE165:
+.L2410:
+.L2284:
+	movq	%rax, %rdi
+	leaq	16(%r12), %r13
+	call	__cxa_begin_catch
+	leaq	224(%rsp), %rdi
+	call	_ZSt17current_exceptionv
+	call	__cxa_end_catch
+	movq	224(%rsp), %rax
+	leaq	8(%rbx), %rsi
+	movq	%r15, %rdi
+	movq	$0, 224(%rsp)
+	movq	%rax, 336(%rsp)
+	call	_ZNSt15__exception_ptr13exception_ptr4swapERS0_
+	movq	%r15, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	leaq	224(%rsp), %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	movq	%r14, %rdi
+	call	_ZNSt12future_errorD1Ev
+	movq	%r13, %rdi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2719
+	movq	8(%r12), %rbp
+	movq	%r13, %rdi
+	movq	%rbx, 8(%r12)
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	leaq	56(%r12), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	testq	%rbp, %rbp
+	je	.L2617
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*(%rax)
+.L2617:
+	movq	320(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L2622
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*(%rax)
+.L2622:
+	movq	312(%rsp), %rbp
+.L2286:
+	testq	%rbp, %rbp
+	je	.L2356
+	lock; subl	$1, 8(%rbp)
+	je	.L2720
+.L2356:
+	movq	272(%rsp), %r12
+	testq	%r12, %r12
+	je	.L2618
+	movq	280(%rsp), %rbp
+	testq	%rbp, %rbp
+	je	.L2288
+	movl	8(%rbp), %eax
+	cmpl	$1, %eax
+	je	.L2618
+.L2288:
+	movq	288(%rsp), %rbx
+	movq	$0, 288(%rsp)
+	testq	%rbx, %rbx
+	je	.L2299
+	call	_ZSt15future_categoryv
+	movq	16(%rsp), %rdx
+	movl	$.LC157, %esi
+	movq	%r15, %rdi
+	movq	%rax, %rbp
+	call	_ZNSsC1EPKcRKSaIcE
+	movq	%r15, %rsi
+	movq	%r14, %rdi
+.LEHB166:
+	call	_ZNSt11logic_errorC2ERKSs
+.LEHE166:
+	movq	336(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L2721
+.L2291:
+	movl	$32, %edi
+	movq	%rbp, 392(%rsp)
+	movq	$_ZTVSt12future_error+16, 368(%rsp)
+	movl	$4, 384(%rsp)
+	call	__cxa_allocate_exception
+	leaq	8(%r14), %rsi
+	leaq	8(%rax), %rdi
+	movq	$_ZTVSt11logic_error+16, (%rax)
+	movq	%rax, %rbp
+.LEHB167:
+	call	_ZNSsC1ERKSs
+.LEHE167:
+	movq	392(%rsp), %rdx
+	movq	384(%rsp), %rax
+	movl	$_ZTISt12future_error, %esi
+	movq	$_ZTVSt12future_error+16, 0(%rbp)
+	movq	%rbp, %rdi
+	movq	%rdx, 24(%rbp)
+	movq	%rax, 16(%rbp)
+	movl	$_ZNSt12future_errorD1Ev, %edx
+.LEHB168:
+	call	__cxa_throw
+.LEHE168:
+.L2413:
+.L2297:
+	movq	%rax, %rdi
+	leaq	16(%r12), %r13
+	call	__cxa_begin_catch
+	movq	16(%rsp), %rbp
+	movq	%rbp, %rdi
+	call	_ZSt17current_exceptionv
+	call	__cxa_end_catch
+	movq	304(%rsp), %rax
+	leaq	8(%rbx), %rsi
+	movq	%r15, %rdi
+	movq	$0, 304(%rsp)
+	movq	%rax, 336(%rsp)
+	call	_ZNSt15__exception_ptr13exception_ptr4swapERS0_
+	movq	%r15, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	movq	%rbp, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	movq	%r14, %rdi
+	call	_ZNSt12future_errorD1Ev
+	movq	%r13, %rdi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2722
+	movq	8(%r12), %rbp
+	movq	%r13, %rdi
+	movq	%rbx, 8(%r12)
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	leaq	56(%r12), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	testq	%rbp, %rbp
+	je	.L2618
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*(%rax)
+.L2618:
+	movq	288(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L2623
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*(%rax)
+.L2623:
+	movq	280(%rsp), %rbp
+.L2299:
+	testq	%rbp, %rbp
+	je	.L2362
+	lock; subl	$1, 8(%rbp)
+	je	.L2723
+.L2362:
+	movq	240(%rsp), %rbp
+	testq	%rbp, %rbp
+	je	.L2619
+	movq	248(%rsp), %r12
+	testq	%r12, %r12
+	je	.L2301
+	movl	8(%r12), %eax
+	cmpl	$1, %eax
+	je	.L2619
+.L2301:
+	movq	256(%rsp), %rbx
+	movq	$0, 256(%rsp)
+	testq	%rbx, %rbx
+	je	.L2312
+	call	_ZSt15future_categoryv
+	movq	16(%rsp), %rdx
+	movl	$.LC157, %esi
+	movq	%r15, %rdi
+	movq	%rax, %r12
+	call	_ZNSsC1EPKcRKSaIcE
+	movq	%r15, %rsi
+	movq	%r14, %rdi
+.LEHB169:
+	call	_ZNSt11logic_errorC2ERKSs
+.LEHE169:
+	movq	336(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	jne	.L2724
+.L2304:
+	movl	$32, %edi
+	movq	%r12, 392(%rsp)
+	movq	$_ZTVSt12future_error+16, 368(%rsp)
+	movl	$4, 384(%rsp)
+	call	__cxa_allocate_exception
+	leaq	8(%r14), %rsi
+	leaq	8(%rax), %rdi
+	movq	$_ZTVSt11logic_error+16, (%rax)
+	movq	%rax, %r12
+.LEHB170:
+	call	_ZNSsC1ERKSs
+.LEHE170:
+	movq	392(%rsp), %rdx
+	movq	384(%rsp), %rax
+	movl	$_ZTISt12future_error, %esi
+	movq	$_ZTVSt12future_error+16, (%r12)
+	movq	%r12, %rdi
+	movq	%rdx, 24(%r12)
+	movq	%rax, 16(%r12)
+	movl	$_ZNSt12future_errorD1Ev, %edx
+.LEHB171:
+	call	__cxa_throw
+.LEHE171:
+.L2416:
+.L2310:
+	movq	%rax, %rdi
+	call	__cxa_begin_catch
+	movq	16(%rsp), %r13
+	movq	%r13, %rdi
+	call	_ZSt17current_exceptionv
+	call	__cxa_end_catch
+	movq	304(%rsp), %rax
+	leaq	8(%rbx), %rsi
+	movq	%r15, %rdi
+	movq	$0, 304(%rsp)
+	movq	%rax, 336(%rsp)
+	call	_ZNSt15__exception_ptr13exception_ptr4swapERS0_
+	movq	%r15, %rdi
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	movq	%r13, %rdi
+	leaq	16(%rbp), %r13
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	movq	%r14, %rdi
+	call	_ZNSt12future_errorD1Ev
+	movq	%r13, %rdi
+	call	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t
+	testl	%eax, %eax
+	jne	.L2725
+	movq	8(%rbp), %r12
+	movq	%r13, %rdi
+	movq	%rbx, 8(%rbp)
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	leaq	56(%rbp), %rdi
+	call	_ZNSt18condition_variable10notify_allEv
+	testq	%r12, %r12
+	je	.L2619
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*(%rax)
+.L2619:
+	movq	256(%rsp), %rbx
+	testq	%rbx, %rbx
+	je	.L2624
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*(%rax)
+.L2624:
+	movq	248(%rsp), %r12
+.L2312:
+	testq	%r12, %r12
+	je	.L2075
+	lock; subl	$1, 8(%r12)
+	je	.L2726
+.L2075:
+	addq	$424, %rsp
+	.cfi_remember_state
+	.cfi_def_cfa_offset 56
+	popq	%rbx
+	.cfi_def_cfa_offset 48
+	popq	%rbp
+	.cfi_def_cfa_offset 40
+	popq	%r12
+	.cfi_def_cfa_offset 32
+	popq	%r13
+	.cfi_def_cfa_offset 24
+	popq	%r14
+	.cfi_def_cfa_offset 16
+	popq	%r15
+	.cfi_def_cfa_offset 8
+	ret
+.L2714:
+	.cfi_restore_state
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbx)
+	jne	.L2264
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+.L2264:
+	testq	%rbp, %rbp
+	leaq	8(%rbp), %rbx
+	jne	.L2348
+	jmp	.L2273
+.L2137:
+	movl	8(%r13), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%r13)
+	jne	.L2142
+	movq	0(%r13), %rax
+	movq	%r13, %rdi
+	call	*16(%rax)
+	movl	12(%r13), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%r13)
+.L2334:
+	cmpl	$1, %eax
+	jne	.L2142
+	movq	0(%r13), %rax
+	movq	%r13, %rdi
+	call	*24(%rax)
+	jmp	.L2142
+.L2103:
+	movl	8(%rbx), %eax
+	leal	-1(%rax), %edx
+	cmpl	$1, %eax
+	movl	%edx, 8(%rbx)
+	jne	.L2108
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	12(%rbx), %eax
+	leal	-1(%rax), %edx
+	movl	%edx, 12(%rbx)
+.L2332:
+	cmpl	$1, %eax
+	jne	.L2108
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	jmp	.L2108
+.L2721:
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	testl	%edx, %edx
+	jg	.L2291
+	leaq	224(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L2291
+	.p2align 4,,10
+	.p2align 3
+.L2718:
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	testl	%edx, %edx
+	jg	.L2278
+	leaq	208(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L2278
+	.p2align 4,,10
+	.p2align 3
+.L2724:
+	movl	$-1, %edx
+	lock; xaddl	%edx, -8(%rax)
+	testl	%edx, %edx
+	jg	.L2304
+	movq	24(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_destroyERKSaIcE
+	jmp	.L2304
+.L2415:
+	movq	336(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L2308
+	movq	24(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+.L2308:
+	call	_ZSt9terminatev
+.L2412:
+	movq	336(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L2308
+	leaq	224(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+	jmp	.L2308
+.L2723:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbp)
+	jne	.L2362
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L2362
+.L2696:
+	movl	%eax, %edi
+.LEHB172:
+	call	_ZSt20__throw_system_errori
+.LEHE172:
+.L2377:
+.L2630:
+	movq	%rax, %rbx
+.L2201:
+	testq	%r15, %r15
+	je	.L2314
+	movq	%r15, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2314:
+	leaq	304(%rsp), %rax
+	movq	%rax, 16(%rsp)
+	jmp	.L2171
+.L2695:
+	movl	$1, %edi
+.LEHB173:
+	call	_ZSt20__throw_future_errori
+.L2694:
+	movl	$3, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE173:
+.L2399:
+	jmp	.L2630
+.L2398:
+	cmpb	$0, 184(%rsp)
+	movq	%rax, %rbx
+	je	.L2201
+	leaq	176(%rsp), %rdi
+	call	_ZNSt11unique_lockISt5mutexE6unlockEv
+	jmp	.L2201
+.L2691:
+	movl	%eax, %edi
+.LEHB174:
+	call	_ZSt20__throw_system_errori
+.LEHE174:
+.L2376:
+	jmp	.L2630
+.L2690:
+	movl	$1, %edi
+.LEHB175:
+	call	_ZSt20__throw_future_errori
+.L2689:
+	movl	$3, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE175:
+.L2402:
+	movq	%rax, %rbx
+	movq	352(%rsp), %rax
+	testq	%rax, %rax
+	je	.L2211
+	leaq	336(%rsp), %rsi
+	movl	$3, %edx
+	movq	%rsi, %rdi
+	call	*%rax
+.L2211:
+	leaq	304(%rsp), %rax
+	movq	%rax, 16(%rsp)
+	jmp	.L2212
+.L2400:
+	cmpb	$0, 200(%rsp)
+	movq	%rax, %rbx
+	je	.L2201
+	leaq	192(%rsp), %rdi
+	call	_ZNSt11unique_lockISt5mutexE6unlockEv
+	jmp	.L2201
+.L2688:
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%r12)
+	jmp	.L2335
+.L2713:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbx)
+	jne	.L2260
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*24(%rax)
+.L2260:
+	movq	152(%rsp), %rbx
+	testq	%rbx, %rbx
+	leaq	8(%rbx), %rax
+	jne	.L2345
+	jmp	.L2263
+.L2711:
+	movq	%r14, %rdi
+	movq	%rbx, %rsi
+	call	_ZNSt15__exception_ptr13exception_ptrC1ERKS0_
+	movq	%r14, %rdi
+.LEHB176:
+	call	_ZSt17rethrow_exceptionNSt15__exception_ptr13exception_ptrE
+.LEHE176:
+.L2408:
+	cmpb	$0, 232(%rsp)
+	movq	%rax, %rbx
+	je	.L2250
+	leaq	224(%rsp), %rdi
+	call	_ZNSt11unique_lockISt5mutexE6unlockEv
+.L2250:
+	leaq	128(%rsp), %rdi
+	call	_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD1Ev
+.L2257:
+	movl	$_ZN7testing11gtest_mutexE, %edi
+	call	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t
+	jmp	.L2171
+.L2407:
+	movq	%r14, %rdi
+	movq	%rax, %rbx
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	jmp	.L2250
+.L2709:
+	movl	%eax, %edi
+.LEHB177:
+	call	_ZSt20__throw_system_errori
+.LEHE177:
+.L2406:
+	movq	%rax, %rbx
+	jmp	.L2250
+	.p2align 4,,10
+	.p2align 3
+.L2209:
+	movl	%eax, %edi
+.LEHB178:
+	call	_ZSt20__throw_system_errori
+.LEHE178:
+.L2698:
+	movq	(%r15), %rax
+	movq	%r15, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%r15)
+	jmp	.L2337
+.L2374:
+	movq	%rax, %rbx
+.L2620:
+	leaq	240(%rsp), %rax
+	movq	%rax, 32(%rsp)
+	leaq	272(%rsp), %rax
+	movq	%rax, 24(%rsp)
+	movq	%rax, %rdi
+	jmp	.L2090
+.L2381:
+	movq	%rax, %rbp
+	movq	%rbx, %rdi
+	movq	%rbp, %rbx
+	call	_ZdlPv
+.L2082:
+	movq	280(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2621
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2621:
+	leaq	240(%rsp), %rax
+	movq	%rax, 32(%rsp)
+	movq	%rax, %rdi
+	jmp	.L2084
+.L2380:
+	movq	%rax, %rbx
+	jmp	.L2082
+.L2385:
+	movq	%rax, %rbx
+	movq	8(%rsp), %r13
+	leaq	240(%rsp), %rax
+	movq	%rax, 32(%rsp)
+.L2115:
+	testq	%r13, %r13
+	je	.L2121
+	movq	%r13, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2121:
+	leaq	272(%rsp), %rax
+	movq	%rax, 24(%rsp)
+	leaq	304(%rsp), %rax
+	movq	%rax, 16(%rsp)
+	jmp	.L2131
+.L2693:
+	movq	(%r15), %rax
+	movq	%r15, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%r15)
+	jmp	.L2336
+.L2683:
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%r12)
+	jmp	.L2333
+.L2708:
+	movl	$3, %edi
+.LEHB179:
+	call	_ZSt20__throw_future_errori
+.LEHE179:
+.L2419:
+.L2627:
+	movq	%rax, %rbx
+	jmp	.L2257
+.L2707:
+	movl	%eax, %edi
+.LEHB180:
+	call	_ZSt20__throw_system_errori
+.LEHE180:
+.L2706:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	movsd	%xmm0, 40(%rsp)
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbx)
+	movsd	40(%rsp), %xmm0
+	jne	.L2234
+	movq	(%rbx), %rax
+	movsd	%xmm0, 40(%rsp)
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	movsd	40(%rsp), %xmm0
+	jmp	.L2234
+.L2375:
+	movq	%rax, %rbx
+	jmp	.L2171
+.L2705:
+	movq	%r14, %rdi
+	movq	%rbx, %rsi
+	call	_ZNSt15__exception_ptr13exception_ptrC1ERKS0_
+	movq	%r14, %rdi
+.LEHB181:
+	call	_ZSt17rethrow_exceptionNSt15__exception_ptr13exception_ptrE
+.LEHE181:
+.L2405:
+	cmpb	$0, 216(%rsp)
+	movq	%rax, %rbx
+	je	.L2232
+	leaq	208(%rsp), %rdi
+	call	_ZNSt11unique_lockISt5mutexE6unlockEv
+.L2232:
+	leaq	112(%rsp), %rdi
+	call	_ZNSt14__basic_futureINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE6_ResetD1Ev
+	jmp	.L2257
+.L2404:
+	movq	%r14, %rdi
+	movq	%rax, %rbx
+	call	_ZNSt15__exception_ptr13exception_ptrD1Ev
+	jmp	.L2232
+.L2703:
+	movl	%eax, %edi
+.LEHB182:
+	call	_ZSt20__throw_system_errori
+.L2403:
+	movq	%rax, %rbx
+	jmp	.L2232
+.L2702:
+	movl	$3, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE182:
+.L2418:
+	jmp	.L2627
+.L2701:
+	movl	%eax, %edi
+.LEHB183:
+	call	_ZSt20__throw_system_errori
+.LEHE183:
+.L2700:
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%r12)
+	jne	.L2217
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*24(%rax)
+	jmp	.L2217
+.L2712:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	movsd	%xmm0, 40(%rsp)
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbx)
+	movsd	40(%rsp), %xmm0
+	jne	.L2252
+	movq	(%rbx), %rax
+	movsd	%xmm0, 40(%rsp)
+	movq	%rbx, %rdi
+	call	*24(%rax)
+	movsd	40(%rsp), %xmm0
+	jmp	.L2252
+.L2717:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbp)
+	jne	.L2273
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L2273
+.L2716:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbp)
+	jne	.L2328
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L2328
+.L2715:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbp)
+	jne	.L2327
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L2327
+.L2395:
+	movq	376(%rsp), %rdi
+	movq	%rax, %rbx
+	testq	%rdi, %rdi
+	je	.L2145
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2145:
+	movq	160(%r12), %rdi
+	testq	%rdi, %rdi
+	je	.L2146
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2146:
+	movq	144(%r12), %rdi
+	testq	%rdi, %rdi
+	je	.L2147
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L2147:
+	movq	%rbx, %r13
+	xorl	%ebx, %ebx
+.L2135:
+	movq	16(%rsp), %rdi
+	call	_ZNSt13__future_base21_Async_state_commonV2D2Ev
+	movq	%r13, %rdi
+	call	__cxa_begin_catch
+	movq	%r12, %rdi
+	call	_ZdlPv
+.LEHB184:
+	call	__cxa_rethrow
+.LEHE184:
+.L2679:
+	movq	(%rbx), %rax
+	movq	%rbx, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%rbx)
+	jmp	.L2332
+.L2392:
+	movq	%rax, %r12
+	call	__cxa_end_catch
+.L2149:
+	testq	%rbx, %rbx
+	je	.L2164
+	movq	%rbx, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2164:
+	movq	%r12, %rbx
+.L2155:
+	leaq	304(%rsp), %rax
+	movq	%rax, 16(%rsp)
+	jmp	.L2165
+.L2378:
+	movq	%rax, %rbx
+.L2078:
+	movq	248(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2625
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	jmp	.L2625
+.L2373:
+	movq	%rax, %rbx
+	jmp	.L2621
+.L2391:
+	movq	%rax, %r12
+	leaq	272(%rsp), %rax
+	movq	%rbp, %rbx
+	movq	%rax, 24(%rsp)
+	jmp	.L2149
+.L2681:
+	movl	$3, %edi
+.LEHB185:
+	call	_ZSt20__throw_future_errori
+.L2682:
+	movl	$1, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE185:
+.L2390:
+	movq	152(%rsp), %rdi
+	movq	%rax, %rbx
+	testq	%rdi, %rdi
+	je	.L2120
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2120:
+	movq	%r12, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	jmp	.L2121
+.L2379:
+	movq	%rax, %rbp
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	movq	%rbp, %rbx
+	jmp	.L2078
+.L2382:
+	movq	%rax, %rbx
+.L2088:
+	movq	312(%rsp), %rdi
+	testq	%rdi, %rdi
+	je	.L2620
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	jmp	.L2620
+.L2383:
+	movq	%rax, %rbp
+	movq	%rbx, %rdi
+	call	_ZdlPv
+	movq	%rbp, %rbx
+	jmp	.L2088
+.L2677:
+	movl	$3, %edi
+.LEHB186:
+	call	_ZSt20__throw_future_errori
+.L2678:
+	movl	$1, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE186:
+.L2387:
+	movq	%rax, %r14
+	movq	8(%rsp), %r13
+	leaq	240(%rsp), %rax
+	movq	%rax, 32(%rsp)
+.L2101:
+	movq	%rbx, %rdi
+	call	_ZNSt13__future_base21_Async_state_commonV2D2Ev
+	movq	%r14, %rdi
+	call	__cxa_begin_catch
+	movq	%r12, %rdi
+	call	_ZdlPv
+.LEHB187:
+	call	__cxa_rethrow
+.LEHE187:
+.L2388:
+	movq	%rax, %r13
+.L2111:
+	movq	160(%r12), %rdi
+	testq	%rdi, %rdi
+	je	.L2112
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2112:
+	movq	144(%r12), %rdi
+	testq	%rdi, %rdi
+	je	.L2113
+	movq	(%rdi), %rax
+	call	*(%rax)
+.L2113:
+	movq	%r13, %r14
+	xorl	%r13d, %r13d
+	jmp	.L2101
+.L2386:
+	movq	%rax, %rbx
+	call	__cxa_end_catch
+	jmp	.L2115
+.L2389:
+	movq	376(%rsp), %rdi
+	movq	%rax, %r13
+	testq	%rdi, %rdi
+	je	.L2111
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	jmp	.L2111
+.L2384:
+	testq	%rbp, %rbp
+	movq	%rax, %rbx
+	je	.L2095
+	movq	%rbp, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2095:
+	leaq	240(%rsp), %rax
+	movq	%rax, 32(%rsp)
+	leaq	272(%rsp), %rax
+	movq	%rax, 24(%rsp)
+	leaq	304(%rsp), %rax
+	movq	%rax, 16(%rsp)
+	jmp	.L2096
+.L2414:
+	movq	%rbp, %rdi
+	movq	%rax, %r13
+	call	_ZNSt9exceptionD2Ev
+	movq	%rbp, %rdi
+	call	__cxa_free_exception
+	movq	%r13, %rax
+	jmp	.L2297
+.L2409:
+	movq	336(%rsp), %rax
+	leaq	-24(%rax), %rdi
+	cmpq	$_ZNSs4_Rep20_S_empty_rep_storageE, %rdi
+	je	.L2308
+	leaq	208(%rsp), %rsi
+	call	_ZNSs4_Rep10_M_disposeERKSaIcE.part.128
+	jmp	.L2308
+.L2719:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L2411:
+	movq	%rbp, %rdi
+	movq	%rax, %r13
+	call	_ZNSt9exceptionD2Ev
+	movq	%rbp, %rdi
+	call	__cxa_free_exception
+	movq	%r13, %rax
+	jmp	.L2284
+.L2394:
+	movq	%rax, %rbx
+	jmp	.L2145
+.L2393:
+	movq	%rax, %r13
+	leaq	272(%rsp), %rax
+	movq	%rbp, %rbx
+	movq	%rax, 24(%rsp)
+	jmp	.L2135
+.L2722:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L2720:
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%rbp)
+	jne	.L2356
+	movq	0(%rbp), %rax
+	movq	%rbp, %rdi
+	call	*24(%rax)
+	jmp	.L2356
+.L2725:
+	movl	%eax, %edi
+	call	_ZSt20__throw_system_errori
+.L2417:
+	movq	%r12, %rdi
+	movq	%rax, %r13
+	call	_ZNSt9exceptionD2Ev
+	movq	%r12, %rdi
+	call	__cxa_free_exception
+	movq	%r13, %rax
+	jmp	.L2310
+.L2726:
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*16(%rax)
+	lock; subl	$1, 12(%r12)
+	jne	.L2075
+	movq	(%r12), %rax
+	movq	%r12, %rdi
+	call	*24(%rax)
+	jmp	.L2075
+.L2686:
+	movl	$3, %edi
+.LEHB188:
+	call	_ZSt20__throw_future_errori
+.L2684:
+	movq	0(%r13), %rax
+	movq	%r13, %rdi
+	call	*16(%rax)
+	movl	$-1, %eax
+	lock; xaddl	%eax, 12(%r13)
+	jmp	.L2334
+.L2396:
+	movq	168(%rsp), %rdi
+	movq	%rax, %rbx
+	testq	%rdi, %rdi
+	je	.L2154
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+.L2154:
+	movq	%r12, %rdi
+	call	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+	jmp	.L2155
+.L2687:
+	movl	$1, %edi
+	call	_ZSt20__throw_future_errori
+.LEHE188:
+.L2397:
+	jmp	.L2630
+	.cfi_endproc
+.LFE9758:
+	.section	.gcc_except_table
+	.align 4
+.LLSDA9758:
+	.byte	0xff
+	.byte	0x3
+	.uleb128 .LLSDATT9758-.LLSDATTD9758
+.LLSDATTD9758:
+	.byte	0x1
+	.uleb128 .LLSDACSE9758-.LLSDACSB9758
+.LLSDACSB9758:
+	.uleb128 .LEHB131-.LFB9758
+	.uleb128 .LEHE131-.LEHB131
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB132-.LFB9758
+	.uleb128 .LEHE132-.LEHB132
+	.uleb128 .L2378-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB133-.LFB9758
+	.uleb128 .LEHE133-.LEHB133
+	.uleb128 .L2379-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB134-.LFB9758
+	.uleb128 .LEHE134-.LEHB134
+	.uleb128 .L2373-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB135-.LFB9758
+	.uleb128 .LEHE135-.LEHB135
+	.uleb128 .L2380-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB136-.LFB9758
+	.uleb128 .LEHE136-.LEHB136
+	.uleb128 .L2381-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB137-.LFB9758
+	.uleb128 .LEHE137-.LEHB137
+	.uleb128 .L2374-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB138-.LFB9758
+	.uleb128 .LEHE138-.LEHB138
+	.uleb128 .L2382-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB139-.LFB9758
+	.uleb128 .LEHE139-.LEHB139
+	.uleb128 .L2383-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB140-.LFB9758
+	.uleb128 .LEHE140-.LEHB140
+	.uleb128 .L2385-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB141-.LFB9758
+	.uleb128 .LEHE141-.LEHB141
+	.uleb128 .L2387-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB142-.LFB9758
+	.uleb128 .LEHE142-.LEHB142
+	.uleb128 .L2388-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB143-.LFB9758
+	.uleb128 .LEHE143-.LEHB143
+	.uleb128 .L2389-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB144-.LFB9758
+	.uleb128 .LEHE144-.LEHB144
+	.uleb128 .L2391-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB145-.LFB9758
+	.uleb128 .LEHE145-.LEHB145
+	.uleb128 .L2393-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB146-.LFB9758
+	.uleb128 .LEHE146-.LEHB146
+	.uleb128 .L2394-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB147-.LFB9758
+	.uleb128 .LEHE147-.LEHB147
+	.uleb128 .L2395-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB148-.LFB9758
+	.uleb128 .LEHE148-.LEHB148
+	.uleb128 .L2376-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB149-.LFB9758
+	.uleb128 .LEHE149-.LEHB149
+	.uleb128 .L2398-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB150-.LFB9758
+	.uleb128 .LEHE150-.LEHB150
+	.uleb128 .L2377-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB151-.LFB9758
+	.uleb128 .LEHE151-.LEHB151
+	.uleb128 .L2400-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB152-.LFB9758
+	.uleb128 .LEHE152-.LEHB152
+	.uleb128 .L2402-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB153-.LFB9758
+	.uleb128 .LEHE153-.LEHB153
+	.uleb128 .L2401-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB154-.LFB9758
+	.uleb128 .LEHE154-.LEHB154
+	.uleb128 .L2418-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB155-.LFB9758
+	.uleb128 .LEHE155-.LEHB155
+	.uleb128 .L2403-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB156-.LFB9758
+	.uleb128 .LEHE156-.LEHB156
+	.uleb128 .L2405-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB157-.LFB9758
+	.uleb128 .LEHE157-.LEHB157
+	.uleb128 .L2418-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB158-.LFB9758
+	.uleb128 .LEHE158-.LEHB158
+	.uleb128 .L2419-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB159-.LFB9758
+	.uleb128 .LEHE159-.LEHB159
+	.uleb128 .L2406-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB160-.LFB9758
+	.uleb128 .LEHE160-.LEHB160
+	.uleb128 .L2408-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB161-.LFB9758
+	.uleb128 .LEHE161-.LEHB161
+	.uleb128 .L2419-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB162-.LFB9758
+	.uleb128 .LEHE162-.LEHB162
+	.uleb128 .L2409-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB163-.LFB9758
+	.uleb128 .LEHE163-.LEHB163
+	.uleb128 .L2411-.LFB9758
+	.uleb128 0x3
+	.uleb128 .LEHB164-.LFB9758
+	.uleb128 .LEHE164-.LEHB164
+	.uleb128 .L2410-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB165-.LFB9758
+	.uleb128 .LEHE165-.LEHB165
+	.uleb128 0
+	.uleb128 0
+	.uleb128 .LEHB166-.LFB9758
+	.uleb128 .LEHE166-.LEHB166
+	.uleb128 .L2412-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB167-.LFB9758
+	.uleb128 .LEHE167-.LEHB167
+	.uleb128 .L2414-.LFB9758
+	.uleb128 0x3
+	.uleb128 .LEHB168-.LFB9758
+	.uleb128 .LEHE168-.LEHB168
+	.uleb128 .L2413-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB169-.LFB9758
+	.uleb128 .LEHE169-.LEHB169
+	.uleb128 .L2415-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB170-.LFB9758
+	.uleb128 .LEHE170-.LEHB170
+	.uleb128 .L2417-.LFB9758
+	.uleb128 0x3
+	.uleb128 .LEHB171-.LFB9758
+	.uleb128 .LEHE171-.LEHB171
+	.uleb128 .L2416-.LFB9758
+	.uleb128 0x1
+	.uleb128 .LEHB172-.LFB9758
+	.uleb128 .LEHE172-.LEHB172
+	.uleb128 .L2377-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB173-.LFB9758
+	.uleb128 .LEHE173-.LEHB173
+	.uleb128 .L2399-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB174-.LFB9758
+	.uleb128 .LEHE174-.LEHB174
+	.uleb128 .L2376-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB175-.LFB9758
+	.uleb128 .LEHE175-.LEHB175
+	.uleb128 .L2397-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB176-.LFB9758
+	.uleb128 .LEHE176-.LEHB176
+	.uleb128 .L2407-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB177-.LFB9758
+	.uleb128 .LEHE177-.LEHB177
+	.uleb128 .L2406-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB178-.LFB9758
+	.uleb128 .LEHE178-.LEHB178
+	.uleb128 .L2401-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB179-.LFB9758
+	.uleb128 .LEHE179-.LEHB179
+	.uleb128 .L2406-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB180-.LFB9758
+	.uleb128 .LEHE180-.LEHB180
+	.uleb128 .L2375-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB181-.LFB9758
+	.uleb128 .LEHE181-.LEHB181
+	.uleb128 .L2404-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB182-.LFB9758
+	.uleb128 .LEHE182-.LEHB182
+	.uleb128 .L2403-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB183-.LFB9758
+	.uleb128 .LEHE183-.LEHB183
+	.uleb128 .L2375-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB184-.LFB9758
+	.uleb128 .LEHE184-.LEHB184
+	.uleb128 .L2392-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB185-.LFB9758
+	.uleb128 .LEHE185-.LEHB185
+	.uleb128 .L2390-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB186-.LFB9758
+	.uleb128 .LEHE186-.LEHB186
+	.uleb128 .L2384-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB187-.LFB9758
+	.uleb128 .LEHE187-.LEHB187
+	.uleb128 .L2386-.LFB9758
+	.uleb128 0
+	.uleb128 .LEHB188-.LFB9758
+	.uleb128 .LEHE188-.LEHB188
+	.uleb128 .L2396-.LFB9758
+	.uleb128 0
+.LLSDACSE9758:
+	.byte	0x1
+	.byte	0
+	.byte	0
+	.byte	0x7d
+	.align 4
+	.long	0
+
+.LLSDATT9758:
+	.text
+	.size	_ZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEv, .-_ZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEv
+	.section	.text.unlikely
+.LCOLDE181:
+	.text
+.LHOTE181:
+	.section	.rodata.str1.1
+.LC182:
+	.string	"Constexpr"
+.LC183:
+	.string	"Async"
+.LC184:
+	.string	"Future"
+.LC185:
+	.string	"Promise"
+	.section	.text.unlikely
+.LCOLDB186:
+	.section	.text.startup,"ax",@progbits
+.LHOTB186:
+	.p2align 4,,15
+	.type	_GLOBAL__sub_I_AsyncTest.cpp, @function
+_GLOBAL__sub_I_AsyncTest.cpp:
+.LFB14002:
+	.cfi_startproc
+	pushq	%rbx
+	.cfi_def_cfa_offset 16
+	.cfi_offset 3, -16
+	movl	$_ZStL8__ioinit, %edi
+	call	_ZNSt8ios_base4InitC1Ev
+	movl	$__dso_handle, %edx
+	movl	$_ZStL8__ioinit, %esi
+	movl	$_ZNSt8ios_base4InitD1Ev, %edi
+	call	__cxa_atexit
+	movl	$8, %edi
+	call	_Znwm
+	movq	%rax, %rbx
+	movq	$_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE+16, (%rax)
+	call	_ZN7testing8internal13GetTestTypeIdEv
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	pushq	$_ZN7testing4Test16TearDownTestCaseEv
+	.cfi_def_cfa_offset 32
+	movq	%rax, %r8
+	movl	$_ZN7testing4Test13SetUpTestCaseEv, %r9d
+	xorl	%ecx, %ecx
+	movl	$.LC182, %esi
+	xorl	%edx, %edx
+	movl	$.LC183, %edi
+	call	_ZN7testing8internal23MakeAndRegisterTestInfoEPKcS2_S2_S2_PKvPFvvES6_PNS0_15TestFactoryBaseE
+	movq	%rax, _ZN12_GLOBAL__N_120Async_Constexpr_Test10test_info_E(%rip)
+	movl	$8, %edi
+	popq	%rax
+	.cfi_def_cfa_offset 24
+	popq	%rdx
+	.cfi_def_cfa_offset 16
+	call	_Znwm
+	movq	%rax, %rbx
+	movq	$_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE+16, (%rax)
+	call	_ZN7testing8internal13GetTestTypeIdEv
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	pushq	$_ZN7testing4Test16TearDownTestCaseEv
+	.cfi_def_cfa_offset 32
+	movq	%rax, %r8
+	movl	$_ZN7testing4Test13SetUpTestCaseEv, %r9d
+	xorl	%edx, %edx
+	xorl	%ecx, %ecx
+	movl	$.LC184, %esi
+	movl	$.LC183, %edi
+	call	_ZN7testing8internal23MakeAndRegisterTestInfoEPKcS2_S2_S2_PKvPFvvES6_PNS0_15TestFactoryBaseE
+	popq	%rcx
+	.cfi_def_cfa_offset 24
+	popq	%rsi
+	.cfi_def_cfa_offset 16
+	movl	$8, %edi
+	movq	%rax, _ZN12_GLOBAL__N_117Async_Future_Test10test_info_E(%rip)
+	call	_Znwm
+	movq	%rax, %rbx
+	movq	$_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE+16, (%rax)
+	call	_ZN7testing8internal13GetTestTypeIdEv
+	pushq	%rbx
+	.cfi_def_cfa_offset 24
+	pushq	$_ZN7testing4Test16TearDownTestCaseEv
+	.cfi_def_cfa_offset 32
+	movq	%rax, %r8
+	movl	$.LC183, %edi
+	movl	$_ZN7testing4Test13SetUpTestCaseEv, %r9d
+	xorl	%ecx, %ecx
+	xorl	%edx, %edx
+	movl	$.LC185, %esi
+	call	_ZN7testing8internal23MakeAndRegisterTestInfoEPKcS2_S2_S2_PKvPFvvES6_PNS0_15TestFactoryBaseE
+	popq	%rdi
+	.cfi_def_cfa_offset 24
+	movq	%rax, _ZN12_GLOBAL__N_118Async_Promise_Test10test_info_E(%rip)
+	popq	%r8
+	.cfi_def_cfa_offset 16
+	popq	%rbx
+	.cfi_def_cfa_offset 8
+	ret
+	.cfi_endproc
+.LFE14002:
+	.size	_GLOBAL__sub_I_AsyncTest.cpp, .-_GLOBAL__sub_I_AsyncTest.cpp
+	.section	.text.unlikely
+.LCOLDE186:
+	.section	.text.startup
+.LHOTE186:
+	.section	.ctors,"aw",@progbits
+	.align 8
+	.quad	_GLOBAL__sub_I_AsyncTest.cpp
+	.weak	_ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE, 16
+_ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE, 47
+_ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE"
+	.section	.rodata
+	.align 32
+	.type	_ZTSN12_GLOBAL__N_120Async_Constexpr_TestE, @object
+	.size	_ZTSN12_GLOBAL__N_120Async_Constexpr_TestE, 40
+_ZTSN12_GLOBAL__N_120Async_Constexpr_TestE:
+	.string	"*N12_GLOBAL__N_120Async_Constexpr_TestE"
+	.align 64
+	.type	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE, @object
+	.size	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE, 78
+_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE:
+	.string	"*N7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE"
+	.align 32
+	.type	_ZTSN12_GLOBAL__N_117Async_Future_TestE, @object
+	.size	_ZTSN12_GLOBAL__N_117Async_Future_TestE, 37
+_ZTSN12_GLOBAL__N_117Async_Future_TestE:
+	.string	"*N12_GLOBAL__N_117Async_Future_TestE"
+	.align 64
+	.type	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE, @object
+	.size	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE, 75
+_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE:
+	.string	"*N7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE"
+	.align 32
+	.type	_ZTSN12_GLOBAL__N_118Async_Promise_TestE, @object
+	.size	_ZTSN12_GLOBAL__N_118Async_Promise_TestE, 38
+_ZTSN12_GLOBAL__N_118Async_Promise_TestE:
+	.string	"*N12_GLOBAL__N_118Async_Promise_TestE"
+	.align 64
+	.type	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE, @object
+	.size	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE, 76
+_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE:
+	.string	"*N7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE"
+	.align 64
+	.type	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 160
+_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.string	"*NSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE"
+	.align 64
+	.type	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 158
+_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.string	"*NSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE"
+	.align 64
+	.type	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 161
+_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.string	"*NSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE"
+	.align 64
+	.type	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 159
+_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.string	"*NSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE"
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, 225
+_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"*St23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, 226
+_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"*St23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.align 64
+	.type	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, @object
+	.size	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, 200
+_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE:
+	.string	"*NSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE"
+	.align 64
+	.type	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, @object
+	.size	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, 201
+_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE:
+	.string	"*NSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE"
+	.align 64
+	.type	_ZTSSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, @object
+	.size	_ZTSSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, 76
+_ZTSSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE:
+	.string	"*St12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE"
+	.align 64
+	.type	_ZTSSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, @object
+	.size	_ZTSSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, 77
+_ZTSSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE:
+	.string	"*St12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE"
+	.align 64
+	.type	_ZTSPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, @object
+	.size	_ZTSPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, 77
+_ZTSPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE:
+	.string	"*PSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE"
+	.align 64
+	.type	_ZTSPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, @object
+	.size	_ZTSPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, 78
+_ZTSPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE:
+	.string	"*PSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE"
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, 265
+_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.ascii	"*St23_Sp"
+	.string	"_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, 266
+_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.ascii	"*St23_Sp_"
+	.string	"counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.align 32
+	.type	_ZTIPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, @object
+	.size	_ZTIPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, 32
+_ZTIPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE:
+	.quad	_ZTVN10__cxxabiv119__pointer_type_infoE+16
+	.quad	_ZTSPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE
+	.long	0
+	.zero	4
+	.quad	_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE
+	.align 32
+	.type	_ZTIPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, @object
+	.size	_ZTIPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, 32
+_ZTIPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE:
+	.quad	_ZTVN10__cxxabiv119__pointer_type_infoE+16
+	.quad	_ZTSPSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE
+	.long	0
+	.zero	4
+	.quad	_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE
+	.align 16
+	.type	_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, @object
+	.size	_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE, 16
+_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEE
+	.align 16
+	.type	_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, @object
+	.size	_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE, 16
+_ZTISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSSt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEE
+	.align 16
+	.type	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, @object
+	.size	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, 24
+_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE
+	.quad	_ZTINSt6thread10_Impl_baseE
+	.align 16
+	.type	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, @object
+	.size	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, 24
+_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE
+	.quad	_ZTINSt6thread10_Impl_baseE
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.align 16
+	.type	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 24
+_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZTINSt13__future_base13_State_baseV2E
+	.align 16
+	.type	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 24
+_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZTINSt13__future_base21_Async_state_commonV2E
+	.align 16
+	.type	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 24
+_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZTINSt13__future_base13_State_baseV2E
+	.align 16
+	.type	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 24
+_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZTINSt13__future_base21_Async_state_commonV2E
+	.align 16
+	.type	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE, @object
+	.size	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE, 24
+_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE
+	.quad	_ZTIN7testing8internal15TestFactoryBaseE
+	.align 16
+	.type	_ZTIN12_GLOBAL__N_118Async_Promise_TestE, @object
+	.size	_ZTIN12_GLOBAL__N_118Async_Promise_TestE, 24
+_ZTIN12_GLOBAL__N_118Async_Promise_TestE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSN12_GLOBAL__N_118Async_Promise_TestE
+	.quad	_ZTIN7testing4TestE
+	.align 16
+	.type	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE, @object
+	.size	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE, 24
+_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE
+	.quad	_ZTIN7testing8internal15TestFactoryBaseE
+	.align 16
+	.type	_ZTIN12_GLOBAL__N_117Async_Future_TestE, @object
+	.size	_ZTIN12_GLOBAL__N_117Async_Future_TestE, 24
+_ZTIN12_GLOBAL__N_117Async_Future_TestE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSN12_GLOBAL__N_117Async_Future_TestE
+	.quad	_ZTIN7testing4TestE
+	.align 16
+	.type	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE, @object
+	.size	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE, 24
+_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE
+	.quad	_ZTIN7testing8internal15TestFactoryBaseE
+	.align 16
+	.type	_ZTIN12_GLOBAL__N_120Async_Constexpr_TestE, @object
+	.size	_ZTIN12_GLOBAL__N_120Async_Constexpr_TestE, 24
+_ZTIN12_GLOBAL__N_120Async_Constexpr_TestE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSN12_GLOBAL__N_120Async_Constexpr_TestE
+	.quad	_ZTIN7testing4TestE
+	.weak	_ZTIN7testing8internal15TestFactoryBaseE
+	.section	.rodata._ZTIN7testing8internal15TestFactoryBaseE,"aG",@progbits,_ZTIN7testing8internal15TestFactoryBaseE,comdat
+	.align 16
+	.type	_ZTIN7testing8internal15TestFactoryBaseE, @object
+	.size	_ZTIN7testing8internal15TestFactoryBaseE, 16
+_ZTIN7testing8internal15TestFactoryBaseE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSN7testing8internal15TestFactoryBaseE
+	.weak	_ZTSN7testing8internal15TestFactoryBaseE
+	.section	.rodata._ZTSN7testing8internal15TestFactoryBaseE,"aG",@progbits,_ZTSN7testing8internal15TestFactoryBaseE,comdat
+	.align 32
+	.type	_ZTSN7testing8internal15TestFactoryBaseE, @object
+	.size	_ZTSN7testing8internal15TestFactoryBaseE, 37
+_ZTSN7testing8internal15TestFactoryBaseE:
+	.string	"N7testing8internal15TestFactoryBaseE"
+	.weak	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE, 52
+_ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE"
+	.weak	_ZTINSt6thread10_Impl_baseE
+	.section	.rodata._ZTINSt6thread10_Impl_baseE,"aG",@progbits,_ZTINSt6thread10_Impl_baseE,comdat
+	.align 16
+	.type	_ZTINSt6thread10_Impl_baseE, @object
+	.size	_ZTINSt6thread10_Impl_baseE, 16
+_ZTINSt6thread10_Impl_baseE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSNSt6thread10_Impl_baseE
+	.weak	_ZTSNSt6thread10_Impl_baseE
+	.section	.rodata._ZTSNSt6thread10_Impl_baseE,"aG",@progbits,_ZTSNSt6thread10_Impl_baseE,comdat
+	.align 16
+	.type	_ZTSNSt6thread10_Impl_baseE, @object
+	.size	_ZTSNSt6thread10_Impl_baseE, 24
+_ZTSNSt6thread10_Impl_baseE:
+	.string	"NSt6thread10_Impl_baseE"
+	.weak	_ZTINSt13__future_base13_State_baseV2E
+	.section	.rodata._ZTINSt13__future_base13_State_baseV2E,"aG",@progbits,_ZTINSt13__future_base13_State_baseV2E,comdat
+	.align 16
+	.type	_ZTINSt13__future_base13_State_baseV2E, @object
+	.size	_ZTINSt13__future_base13_State_baseV2E, 16
+_ZTINSt13__future_base13_State_baseV2E:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSNSt13__future_base13_State_baseV2E
+	.weak	_ZTSNSt13__future_base13_State_baseV2E
+	.section	.rodata._ZTSNSt13__future_base13_State_baseV2E,"aG",@progbits,_ZTSNSt13__future_base13_State_baseV2E,comdat
+	.align 32
+	.type	_ZTSNSt13__future_base13_State_baseV2E, @object
+	.size	_ZTSNSt13__future_base13_State_baseV2E, 35
+_ZTSNSt13__future_base13_State_baseV2E:
+	.string	"NSt13__future_base13_State_baseV2E"
+	.weak	_ZTINSt13__future_base7_ResultIvEE
+	.section	.rodata._ZTINSt13__future_base7_ResultIvEE,"aG",@progbits,_ZTINSt13__future_base7_ResultIvEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base7_ResultIvEE, @object
+	.size	_ZTINSt13__future_base7_ResultIvEE, 24
+_ZTINSt13__future_base7_ResultIvEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base7_ResultIvEE
+	.quad	_ZTINSt13__future_base12_Result_baseE
+	.weak	_ZTSNSt13__future_base7_ResultIvEE
+	.section	.rodata._ZTSNSt13__future_base7_ResultIvEE,"aG",@progbits,_ZTSNSt13__future_base7_ResultIvEE,comdat
+	.align 16
+	.type	_ZTSNSt13__future_base7_ResultIvEE, @object
+	.size	_ZTSNSt13__future_base7_ResultIvEE, 31
+_ZTSNSt13__future_base7_ResultIvEE:
+	.string	"NSt13__future_base7_ResultIvEE"
+	.weak	_ZTINSt13__future_base21_Async_state_commonV2E
+	.section	.rodata._ZTINSt13__future_base21_Async_state_commonV2E,"aG",@progbits,_ZTINSt13__future_base21_Async_state_commonV2E,comdat
+	.align 16
+	.type	_ZTINSt13__future_base21_Async_state_commonV2E, @object
+	.size	_ZTINSt13__future_base21_Async_state_commonV2E, 24
+_ZTINSt13__future_base21_Async_state_commonV2E:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base21_Async_state_commonV2E
+	.quad	_ZTINSt13__future_base13_State_baseV2E
+	.weak	_ZTSNSt13__future_base21_Async_state_commonV2E
+	.section	.rodata._ZTSNSt13__future_base21_Async_state_commonV2E,"aG",@progbits,_ZTSNSt13__future_base21_Async_state_commonV2E,comdat
+	.align 32
+	.type	_ZTSNSt13__future_base21_Async_state_commonV2E, @object
+	.size	_ZTSNSt13__future_base21_Async_state_commonV2E, 43
+_ZTSNSt13__future_base21_Async_state_commonV2E:
+	.string	"NSt13__future_base21_Async_state_commonV2E"
+	.weak	_ZTINSt13__future_base7_ResultImEE
+	.section	.rodata._ZTINSt13__future_base7_ResultImEE,"aG",@progbits,_ZTINSt13__future_base7_ResultImEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base7_ResultImEE, @object
+	.size	_ZTINSt13__future_base7_ResultImEE, 24
+_ZTINSt13__future_base7_ResultImEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base7_ResultImEE
+	.quad	_ZTINSt13__future_base12_Result_baseE
+	.weak	_ZTSNSt13__future_base7_ResultImEE
+	.section	.rodata._ZTSNSt13__future_base7_ResultImEE,"aG",@progbits,_ZTSNSt13__future_base7_ResultImEE,comdat
+	.align 16
+	.type	_ZTSNSt13__future_base7_ResultImEE, @object
+	.size	_ZTSNSt13__future_base7_ResultImEE, 31
+_ZTSNSt13__future_base7_ResultImEE:
+	.string	"NSt13__future_base7_ResultImEE"
+	.weak	_ZTINSt13__future_base7_ResultISsEE
+	.section	.rodata._ZTINSt13__future_base7_ResultISsEE,"aG",@progbits,_ZTINSt13__future_base7_ResultISsEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base7_ResultISsEE, @object
+	.size	_ZTINSt13__future_base7_ResultISsEE, 24
+_ZTINSt13__future_base7_ResultISsEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base7_ResultISsEE
+	.quad	_ZTINSt13__future_base12_Result_baseE
+	.weak	_ZTSNSt13__future_base7_ResultISsEE
+	.section	.rodata._ZTSNSt13__future_base7_ResultISsEE,"aG",@progbits,_ZTSNSt13__future_base7_ResultISsEE,comdat
+	.align 32
+	.type	_ZTSNSt13__future_base7_ResultISsEE, @object
+	.size	_ZTSNSt13__future_base7_ResultISsEE, 32
+_ZTSNSt13__future_base7_ResultISsEE:
+	.string	"NSt13__future_base7_ResultISsEE"
+	.weak	_ZTINSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.section	.rodata._ZTINSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE,"aG",@progbits,_ZTINSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTINSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 24
+_ZTINSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZTINSt13__future_base12_Result_baseE
+	.weak	_ZTSNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.section	.rodata._ZTSNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE,"aG",@progbits,_ZTSNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE,comdat
+	.align 64
+	.type	_ZTSNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTSNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 74
+_ZTSNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.string	"NSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE"
+	.weak	_ZTINSt13__future_base13_State_baseV27_SetterIvvEE
+	.section	.rodata._ZTINSt13__future_base13_State_baseV27_SetterIvvEE,"aG",@progbits,_ZTINSt13__future_base13_State_baseV27_SetterIvvEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base13_State_baseV27_SetterIvvEE, @object
+	.size	_ZTINSt13__future_base13_State_baseV27_SetterIvvEE, 16
+_ZTINSt13__future_base13_State_baseV27_SetterIvvEE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSNSt13__future_base13_State_baseV27_SetterIvvEE
+	.weak	_ZTSNSt13__future_base13_State_baseV27_SetterIvvEE
+	.section	.rodata._ZTSNSt13__future_base13_State_baseV27_SetterIvvEE,"aG",@progbits,_ZTSNSt13__future_base13_State_baseV27_SetterIvvEE,comdat
+	.align 32
+	.type	_ZTSNSt13__future_base13_State_baseV27_SetterIvvEE, @object
+	.size	_ZTSNSt13__future_base13_State_baseV27_SetterIvvEE, 47
+_ZTSNSt13__future_base13_State_baseV27_SetterIvvEE:
+	.string	"NSt13__future_base13_State_baseV27_SetterIvvEE"
+	.weak	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.section	.rodata._ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,"aG",@progbits,_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, @object
+	.size	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, 24
+_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.quad	_ZTINSt13__future_base21_Async_state_commonV2E
+	.weak	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.section	.rodata._ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,"aG",@progbits,_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,comdat
+	.align 64
+	.type	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, @object
+	.size	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, 89
+_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE:
+	.string	"NSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE"
+	.weak	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.section	.rodata._ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,"aG",@progbits,_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, @object
+	.size	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, 24
+_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.quad	_ZTINSt13__future_base13_State_baseV2E
+	.weak	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.section	.rodata._ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,"aG",@progbits,_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,comdat
+	.align 64
+	.type	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, @object
+	.size	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, 87
+_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE:
+	.string	"NSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE"
+	.weak	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE
+	.section	.rodata._ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE,"aG",@progbits,_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE, @object
+	.size	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE, 24
+_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE
+	.quad	_ZTINSt13__future_base21_Async_state_commonV2E
+	.weak	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE
+	.section	.rodata._ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE,"aG",@progbits,_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE,comdat
+	.align 64
+	.type	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE, @object
+	.size	_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE, 68
+_ZTSNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE:
+	.string	"NSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE"
+	.weak	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE
+	.section	.rodata._ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE,"aG",@progbits,_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE, @object
+	.size	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE, 24
+_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE
+	.quad	_ZTINSt13__future_base13_State_baseV2E
+	.weak	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE
+	.section	.rodata._ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE,"aG",@progbits,_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE,comdat
+	.align 64
+	.type	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE, @object
+	.size	_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE, 66
+_ZTSNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE:
+	.string	"NSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE"
+	.weak	_ZTISt19_Sp_make_shared_tag
+	.section	.rodata._ZTISt19_Sp_make_shared_tag,"aG",@progbits,_ZTISt19_Sp_make_shared_tag,comdat
+	.align 16
+	.type	_ZTISt19_Sp_make_shared_tag, @object
+	.size	_ZTISt19_Sp_make_shared_tag, 16
+_ZTISt19_Sp_make_shared_tag:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSSt19_Sp_make_shared_tag
+	.weak	_ZTSSt19_Sp_make_shared_tag
+	.section	.rodata._ZTSSt19_Sp_make_shared_tag,"aG",@progbits,_ZTSSt19_Sp_make_shared_tag,comdat
+	.align 16
+	.type	_ZTSSt19_Sp_make_shared_tag, @object
+	.size	_ZTSSt19_Sp_make_shared_tag, 24
+_ZTSSt19_Sp_make_shared_tag:
+	.string	"St19_Sp_make_shared_tag"
+	.weak	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE, 100
+_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.weak	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 154
+_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.weak	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 152
+_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.weak	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 133
+_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.weak	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 131
+_ZTSSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.weak	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE
+	.section	.rodata._ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE,"aG",@progbits,_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE,comdat
+	.align 16
+	.type	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE, @object
+	.size	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE, 24
+_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE
+	.quad	_ZTINSt6thread10_Impl_baseE
+	.weak	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE
+	.section	.rodata._ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE,"aG",@progbits,_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE,comdat
+	.align 64
+	.type	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE, @object
+	.size	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE, 129
+_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE:
+	.string	"NSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE"
+	.weak	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE
+	.section	.rodata._ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE,"aG",@progbits,_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE,comdat
+	.align 16
+	.type	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE, @object
+	.size	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE, 24
+_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE
+	.quad	_ZTINSt6thread10_Impl_baseE
+	.weak	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE
+	.section	.rodata._ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE,"aG",@progbits,_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE,comdat
+	.align 64
+	.type	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE, @object
+	.size	_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE, 108
+_ZTSNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE:
+	.string	"NSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE"
+	.weak	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE
+	.section	.rodata._ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE,"aG",@progbits,_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE, @object
+	.size	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE, 16
+_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE
+	.weak	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE
+	.section	.rodata._ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE,"aG",@progbits,_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE,comdat
+	.align 64
+	.type	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE, @object
+	.size	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE, 97
+_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE:
+	.string	"NSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultISsEENS_12_Result_base8_DeleterEESsEE"
+	.weak	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE
+	.section	.rodata._ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE,"aG",@progbits,_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE, @object
+	.size	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE, 16
+_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE
+	.weak	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE
+	.section	.rodata._ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE,"aG",@progbits,_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE,comdat
+	.align 64
+	.type	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE, @object
+	.size	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE, 95
+_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE:
+	.string	"NSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultImEENS_12_Result_base8_DeleterEEmEE"
+	.weak	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE
+	.section	.rodata._ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE,"aG",@progbits,_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE,comdat
+	.align 16
+	.type	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE, @object
+	.size	_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE, 16
+_ZTINSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE
+	.weak	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE
+	.section	.rodata._ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE,"aG",@progbits,_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE,comdat
+	.align 64
+	.type	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE, @object
+	.size	_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE, 140
+_ZTSNSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE:
+	.string	"NSt13__future_base12_Task_setterISt10unique_ptrINS_7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEENS_12_Result_base8_DeleterEES7_EE"
+	.weak	_ZTISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE
+	.section	.rodata._ZTISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE,"aG",@progbits,_ZTISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE,comdat
+	.align 16
+	.type	_ZTISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, @object
+	.size	_ZTISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, 16
+_ZTISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE
+	.weak	_ZTSSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE
+	.section	.rodata._ZTSSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE,"aG",@progbits,_ZTSSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE,comdat
+	.align 32
+	.type	_ZTSSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, @object
+	.size	_ZTSSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, 47
+_ZTSSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE:
+	.string	"St12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE"
+	.weak	_ZTISt12_Bind_simpleIFPFmmEiEE
+	.section	.rodata._ZTISt12_Bind_simpleIFPFmmEiEE,"aG",@progbits,_ZTISt12_Bind_simpleIFPFmmEiEE,comdat
+	.align 16
+	.type	_ZTISt12_Bind_simpleIFPFmmEiEE, @object
+	.size	_ZTISt12_Bind_simpleIFPFmmEiEE, 16
+_ZTISt12_Bind_simpleIFPFmmEiEE:
+	.quad	_ZTVN10__cxxabiv117__class_type_infoE+16
+	.quad	_ZTSSt12_Bind_simpleIFPFmmEiEE
+	.weak	_ZTSSt12_Bind_simpleIFPFmmEiEE
+	.section	.rodata._ZTSSt12_Bind_simpleIFPFmmEiEE,"aG",@progbits,_ZTSSt12_Bind_simpleIFPFmmEiEE,comdat
+	.align 16
+	.type	_ZTSSt12_Bind_simpleIFPFmmEiEE, @object
+	.size	_ZTSSt12_Bind_simpleIFPFmmEiEE, 27
+_ZTSSt12_Bind_simpleIFPFmmEiEE:
+	.string	"St12_Bind_simpleIFPFmmEiEE"
+	.weak	_ZTIPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE
+	.section	.rodata._ZTIPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE,"aG",@progbits,_ZTIPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE,comdat
+	.align 32
+	.type	_ZTIPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, @object
+	.size	_ZTIPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, 32
+_ZTIPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE:
+	.quad	_ZTVN10__cxxabiv119__pointer_type_infoE+16
+	.quad	_ZTSPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE
+	.long	0
+	.zero	4
+	.quad	_ZTISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE
+	.weak	_ZTSPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE
+	.section	.rodata._ZTSPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE,"aG",@progbits,_ZTSPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE,comdat
+	.align 32
+	.type	_ZTSPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, @object
+	.size	_ZTSPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE, 48
+_ZTSPSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE:
+	.string	"PSt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEE"
+	.weak	_ZTIPSt12_Bind_simpleIFPFmmEiEE
+	.section	.rodata._ZTIPSt12_Bind_simpleIFPFmmEiEE,"aG",@progbits,_ZTIPSt12_Bind_simpleIFPFmmEiEE,comdat
+	.align 32
+	.type	_ZTIPSt12_Bind_simpleIFPFmmEiEE, @object
+	.size	_ZTIPSt12_Bind_simpleIFPFmmEiEE, 32
+_ZTIPSt12_Bind_simpleIFPFmmEiEE:
+	.quad	_ZTVN10__cxxabiv119__pointer_type_infoE+16
+	.quad	_ZTSPSt12_Bind_simpleIFPFmmEiEE
+	.long	0
+	.zero	4
+	.quad	_ZTISt12_Bind_simpleIFPFmmEiEE
+	.weak	_ZTSPSt12_Bind_simpleIFPFmmEiEE
+	.section	.rodata._ZTSPSt12_Bind_simpleIFPFmmEiEE,"aG",@progbits,_ZTSPSt12_Bind_simpleIFPFmmEiEE,comdat
+	.align 16
+	.type	_ZTSPSt12_Bind_simpleIFPFmmEiEE, @object
+	.size	_ZTSPSt12_Bind_simpleIFPFmmEiEE, 28
+_ZTSPSt12_Bind_simpleIFPFmmEiEE:
+	.string	"PSt12_Bind_simpleIFPFmmEiEE"
+	.weak	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, 194
+_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.weak	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 16
+	.type	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, 24
+_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	_ZTVN10__cxxabiv120__si_class_type_infoE+16
+	.quad	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.weak	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 64
+	.type	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, 173
+_ZTSSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.string	"St23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE"
+	.weak	_ZTVN7testing8internal15TestFactoryBaseE
+	.section	.rodata._ZTVN7testing8internal15TestFactoryBaseE,"aG",@progbits,_ZTVN7testing8internal15TestFactoryBaseE,comdat
+	.align 32
+	.type	_ZTVN7testing8internal15TestFactoryBaseE, @object
+	.size	_ZTVN7testing8internal15TestFactoryBaseE, 40
+_ZTVN7testing8internal15TestFactoryBaseE:
+	.quad	0
+	.quad	_ZTIN7testing8internal15TestFactoryBaseE
+	.quad	0
+	.quad	0
+	.quad	__cxa_pure_virtual
+	.weak	_ZTVSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTVSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTVSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTVSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+	.quad	0
+	.quad	0
+	.quad	__cxa_pure_virtual
+	.quad	_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	__cxa_pure_virtual
+	.weak	_ZTVNSt6thread10_Impl_baseE
+	.section	.rodata._ZTVNSt6thread10_Impl_baseE,"aG",@progbits,_ZTVNSt6thread10_Impl_baseE,comdat
+	.align 32
+	.type	_ZTVNSt6thread10_Impl_baseE, @object
+	.size	_ZTVNSt6thread10_Impl_baseE, 40
+_ZTVNSt6thread10_Impl_baseE:
+	.quad	0
+	.quad	_ZTINSt6thread10_Impl_baseE
+	.quad	0
+	.quad	0
+	.quad	__cxa_pure_virtual
+	.weak	_ZTVNSt13__future_base13_State_baseV2E
+	.section	.rodata._ZTVNSt13__future_base13_State_baseV2E,"aG",@progbits,_ZTVNSt13__future_base13_State_baseV2E,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base13_State_baseV2E, @object
+	.size	_ZTVNSt13__future_base13_State_baseV2E, 48
+_ZTVNSt13__future_base13_State_baseV2E:
+	.quad	0
+	.quad	_ZTINSt13__future_base13_State_baseV2E
+	.quad	_ZNSt13__future_base13_State_baseV2D1Ev
+	.quad	_ZNSt13__future_base13_State_baseV2D0Ev
+	.quad	_ZNSt13__future_base13_State_baseV217_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv
+	.weak	_ZTVNSt13__future_base7_ResultIvEE
+	.section	.rodata._ZTVNSt13__future_base7_ResultIvEE,"aG",@progbits,_ZTVNSt13__future_base7_ResultIvEE,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base7_ResultIvEE, @object
+	.size	_ZTVNSt13__future_base7_ResultIvEE, 40
+_ZTVNSt13__future_base7_ResultIvEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base7_ResultIvEE
+	.quad	_ZNSt13__future_base7_ResultIvE10_M_destroyEv
+	.quad	_ZNSt13__future_base7_ResultIvED1Ev
+	.quad	_ZNSt13__future_base7_ResultIvED0Ev
+	.weak	_ZTVNSt13__future_base21_Async_state_commonV2E
+	.section	.rodata._ZTVNSt13__future_base21_Async_state_commonV2E,"aG",@progbits,_ZTVNSt13__future_base21_Async_state_commonV2E,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base21_Async_state_commonV2E, @object
+	.size	_ZTVNSt13__future_base21_Async_state_commonV2E, 48
+_ZTVNSt13__future_base21_Async_state_commonV2E:
+	.quad	0
+	.quad	_ZTINSt13__future_base21_Async_state_commonV2E
+	.quad	_ZNSt13__future_base21_Async_state_commonV2D1Ev
+	.quad	_ZNSt13__future_base21_Async_state_commonV2D0Ev
+	.quad	_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv
+	.section	.rodata
+	.align 32
+	.type	_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE, @object
+	.size	_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE, 40
+_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE:
+	.quad	0
+	.quad	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEEE
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED1Ev
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEED0Ev
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_120Async_Constexpr_TestEE10CreateTestEv
+	.align 64
+	.type	_ZTVN12_GLOBAL__N_120Async_Constexpr_TestE, @object
+	.size	_ZTVN12_GLOBAL__N_120Async_Constexpr_TestE, 64
+_ZTVN12_GLOBAL__N_120Async_Constexpr_TestE:
+	.quad	0
+	.quad	_ZTIN12_GLOBAL__N_120Async_Constexpr_TestE
+	.quad	_ZN12_GLOBAL__N_120Async_Constexpr_TestD1Ev
+	.quad	_ZN12_GLOBAL__N_120Async_Constexpr_TestD0Ev
+	.quad	_ZN7testing4Test5SetUpEv
+	.quad	_ZN7testing4Test8TearDownEv
+	.quad	_ZN12_GLOBAL__N_120Async_Constexpr_Test8TestBodyEv
+	.quad	_ZN7testing4Test5SetupEv
+	.align 32
+	.type	_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE, @object
+	.size	_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE, 40
+_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE:
+	.quad	0
+	.quad	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEEE
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED1Ev
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEED0Ev
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_117Async_Future_TestEE10CreateTestEv
+	.align 64
+	.type	_ZTVN12_GLOBAL__N_117Async_Future_TestE, @object
+	.size	_ZTVN12_GLOBAL__N_117Async_Future_TestE, 64
+_ZTVN12_GLOBAL__N_117Async_Future_TestE:
+	.quad	0
+	.quad	_ZTIN12_GLOBAL__N_117Async_Future_TestE
+	.quad	_ZN12_GLOBAL__N_117Async_Future_TestD1Ev
+	.quad	_ZN12_GLOBAL__N_117Async_Future_TestD0Ev
+	.quad	_ZN7testing4Test5SetUpEv
+	.quad	_ZN7testing4Test8TearDownEv
+	.quad	_ZN12_GLOBAL__N_117Async_Future_Test8TestBodyEv
+	.quad	_ZN7testing4Test5SetupEv
+	.align 32
+	.type	_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE, @object
+	.size	_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE, 40
+_ZTVN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE:
+	.quad	0
+	.quad	_ZTIN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEEE
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED1Ev
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEED0Ev
+	.quad	_ZN7testing8internal15TestFactoryImplIN12_GLOBAL__N_118Async_Promise_TestEE10CreateTestEv
+	.align 64
+	.type	_ZTVN12_GLOBAL__N_118Async_Promise_TestE, @object
+	.size	_ZTVN12_GLOBAL__N_118Async_Promise_TestE, 64
+_ZTVN12_GLOBAL__N_118Async_Promise_TestE:
+	.quad	0
+	.quad	_ZTIN12_GLOBAL__N_118Async_Promise_TestE
+	.quad	_ZN12_GLOBAL__N_118Async_Promise_TestD1Ev
+	.quad	_ZN12_GLOBAL__N_118Async_Promise_TestD0Ev
+	.quad	_ZN7testing4Test5SetUpEv
+	.quad	_ZN7testing4Test8TearDownEv
+	.quad	_ZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEv
+	.quad	_ZN7testing4Test5SetupEv
+	.weak	_ZTVNSt13__future_base7_ResultImEE
+	.section	.rodata._ZTVNSt13__future_base7_ResultImEE,"aG",@progbits,_ZTVNSt13__future_base7_ResultImEE,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base7_ResultImEE, @object
+	.size	_ZTVNSt13__future_base7_ResultImEE, 40
+_ZTVNSt13__future_base7_ResultImEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base7_ResultImEE
+	.quad	_ZNSt13__future_base7_ResultImE10_M_destroyEv
+	.quad	_ZNSt13__future_base7_ResultImED1Ev
+	.quad	_ZNSt13__future_base7_ResultImED0Ev
+	.weak	_ZTVNSt13__future_base7_ResultISsEE
+	.section	.rodata._ZTVNSt13__future_base7_ResultISsEE,"aG",@progbits,_ZTVNSt13__future_base7_ResultISsEE,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base7_ResultISsEE, @object
+	.size	_ZTVNSt13__future_base7_ResultISsEE, 40
+_ZTVNSt13__future_base7_ResultISsEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base7_ResultISsEE
+	.quad	_ZNSt13__future_base7_ResultISsE10_M_destroyEv
+	.quad	_ZNSt13__future_base7_ResultISsED1Ev
+	.quad	_ZNSt13__future_base7_ResultISsED0Ev
+	.weak	_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.section	.rodata._ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE,"aG",@progbits,_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 40
+_ZTVNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE10_M_destroyEv
+	.quad	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev
+	.quad	_ZNSt13__future_base7_ResultINSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.weak	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.section	.rodata._ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,"aG",@progbits,_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, @object
+	.size	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, 48
+_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.quad	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED1Ev
+	.quad	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev
+	.quad	_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv
+	.weak	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.section	.rodata._ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,"aG",@progbits,_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, @object
+	.size	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE, 48
+_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEE
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED1Ev
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsED0Ev
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE17_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsE15_M_has_deferredEv
+	.weak	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE
+	.section	.rodata._ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE,"aG",@progbits,_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE, @object
+	.size	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE, 48
+_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEE
+	.quad	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED1Ev
+	.quad	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmED0Ev
+	.quad	_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv
+	.weak	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE
+	.section	.rodata._ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE,"aG",@progbits,_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE,comdat
+	.align 32
+	.type	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE, @object
+	.size	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE, 48
+_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEE
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED1Ev
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmED0Ev
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE17_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmE15_M_has_deferredEv
+	.section	.rodata
+	.align 32
+	.type	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 48
+_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev
+	.quad	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.quad	_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv
+	.align 32
+	.type	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 48
+_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv
+	.align 32
+	.type	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 48
+_ZTVNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev
+	.quad	_ZNSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.quad	_ZNSt13__future_base21_Async_state_commonV217_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base13_State_baseV215_M_has_deferredEv
+	.align 32
+	.type	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, @object
+	.size	_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE, 48
+_ZTVNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE:
+	.quad	0
+	.quad	_ZTINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEE
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED1Ev
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEED0Ev
+	.quad	_ZNSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE17_M_complete_asyncEv
+	.quad	_ZNKSt13__future_base15_Deferred_stateISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEE15_M_has_deferredEv
+	.weak	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base13_State_baseV2ESaIS1_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.weak	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.weak	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFN7Lesson613PowerRepeaterEvEESsEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.weak	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.weak	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base15_Deferred_stateISt12_Bind_simpleIFPFmmEiEEmEESaIS7_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.rodata
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt13__future_base17_Async_state_implISt12_Bind_simpleIFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEESaISD_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.weak	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE
+	.section	.rodata._ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE,"aG",@progbits,_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE,comdat
+	.align 32
+	.type	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE, @object
+	.size	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE, 40
+_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE:
+	.quad	0
+	.quad	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEEE
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED1Ev
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEED0Ev
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFN7Lesson613PowerRepeaterEvEESsEC4EOS7_EUlvE_vEEE6_M_runEv
+	.weak	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE
+	.section	.rodata._ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE,"aG",@progbits,_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE,comdat
+	.align 32
+	.type	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE, @object
+	.size	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE, 40
+_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE:
+	.quad	0
+	.quad	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEEE
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED1Ev
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEED0Ev
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFPFmmEiEEmEC4EOS7_EUlvE_vEEE6_M_runEv
+	.section	.rodata
+	.align 32
+	.type	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, @object
+	.size	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, 40
+_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE:
+	.quad	0
+	.quad	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED1Ev
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv
+	.align 32
+	.type	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, @object
+	.size	_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE, 40
+_ZTVNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE:
+	.quad	0
+	.quad	_ZTINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEEE
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED1Ev
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEED0Ev
+	.quad	_ZNSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS1_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS8_EUlvE_vEEE6_M_runEv
+	.weak	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFN7Lesson613PowerRepeaterEvEESsEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.weak	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.section	.rodata._ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,"aG",@progbits,_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE,comdat
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFPFmmEiEEmEC4EOS8_EUlvE_vEEEESaISE_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.section	.rodata
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.align 32
+	.type	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, @object
+	.size	_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE, 56
+_ZTVSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE:
+	.quad	0
+	.quad	_ZTISt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED1Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+	.quad	_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt12_Bind_simpleIFZNSt13__future_base17_Async_state_implIS2_IFZN12_GLOBAL__N_118Async_Promise_Test8TestBodyEvEUlvE0_vEENSt6chrono8durationIdSt5ratioILl1ELl1000EEEEEC4EOS9_EUlvE_vEEEESaISK_ELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info
+	.local	_ZN12_GLOBAL__N_118Async_Promise_Test10test_info_E
+	.comm	_ZN12_GLOBAL__N_118Async_Promise_Test10test_info_E,8,8
+	.local	_ZN12_GLOBAL__N_117Async_Future_Test10test_info_E
+	.comm	_ZN12_GLOBAL__N_117Async_Future_Test10test_info_E,8,8
+	.local	_ZN12_GLOBAL__N_120Async_Constexpr_Test10test_info_E
+	.comm	_ZN12_GLOBAL__N_120Async_Constexpr_Test10test_info_E,8,8
+	.local	_ZStL8__ioinit
+	.comm	_ZStL8__ioinit,1,1
+	.weakref	_ZL28__gthrw___pthread_key_createPjPFvPvE,__pthread_key_create
+	.weakref	_ZL28__gthrw_pthread_mutex_unlockP15pthread_mutex_t,pthread_mutex_unlock
+	.weakref	_ZL26__gthrw_pthread_mutex_lockP15pthread_mutex_t,pthread_mutex_lock
+	.weakref	_ZL20__gthrw_pthread_oncePiPFvvE,pthread_once
+	.section	.rodata.cst8,"aM",@progbits,8
+	.align 8
+.LC168:
+	.long	0
+	.long	1093567616
+	.hidden	__dso_handle
+	.ident	"GCC: (GNU) 4.9.2"
+	.section	.note.GNU-stack,"",@progbits
